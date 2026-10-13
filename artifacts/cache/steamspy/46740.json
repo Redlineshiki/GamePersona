@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:43.368111+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 46740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Icehole Games",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "399",
+    "languages": "English, French, German, Italian, Portuguese - Portugal, Russian, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "World Basketball Manager 2010",
+    "negative": 86,
+    "owners": "20,000 .. 50,000",
+    "positive": 40,
+    "price": "399",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "Basketball": 9,
+      "Simulation": 27,
+      "Sports": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

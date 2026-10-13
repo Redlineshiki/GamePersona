@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:37.686185+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 314370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "tequibo",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "99",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "boxlife",
+    "negative": 31,
+    "owners": "20,000 .. 50,000",
+    "positive": 114,
+    "price": "99",
+    "publisher": "tequibo",
+    "score_rank": "",
+    "tags": {
+      "First-Person": 16,
+      "Indie": 26,
+      "Metroidvania": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

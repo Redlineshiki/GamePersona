@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:58:09.035261+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 360730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Red Team Games",
+    "discount": "0",
+    "genre": "Indie, Massively Multiplayer, Strategy, Free To Play",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cards and Castles",
+    "negative": 208,
+    "owners": "100,000 .. 200,000",
+    "positive": 561,
+    "price": "0",
+    "publisher": "Red Team Games",
+    "score_rank": "",
+    "tags": {
+      "Card Battler": 46,
+      "Card Game": 47,
+      "Deckbuilding": 41,
+      "Free to Play": 50,
+      "Indie": 36,
+      "Massively Multiplayer": 29,
+      "Multiplayer": 5,
+      "Strategy": 38,
+      "Tabletop": 45,
+      "Trading Card Game": 29
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:41.204982+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 459870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Pheonise",
+    "discount": "0",
+    "genre": "Animation & Modeling, Early Access",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "VIRTUAnimator",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 9,
+    "price": "0",
+    "publisher": "Pheonise",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 23,
+      "Early Access": 21,
+      "VR": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

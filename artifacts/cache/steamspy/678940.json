@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:15.289845+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 678940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Binary Souls",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "0",
+    "languages": "English, Not supported, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nox Dei",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 36,
+    "price": "0",
+    "publisher": "Binary Souls",
+    "score_rank": "",
+    "tags": {
+      "JRPG": 7,
+      "RPG": 29,
+      "RPGMaker": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

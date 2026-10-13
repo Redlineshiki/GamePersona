@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:01.438637+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 742490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Konstructors",
+    "discount": "60",
+    "genre": "Casual, Indie, Strategy",
+    "initialprice": "399",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nonogram - The Greatest Painter",
+    "negative": 35,
+    "owners": "20,000 .. 50,000",
+    "positive": 302,
+    "price": "159",
+    "publisher": "Hook Games",
+    "score_rank": "",
+    "tags": {
+      "Abstract": 13,
+      "Atmospheric": 13,
+      "Casual": 38,
+      "Indie": 36,
+      "Minimalist": 17,
+      "Puzzle": 25,
+      "Relaxing": 16,
+      "Singleplayer": 14,
+      "Strategy": 34,
+      "Stylized": 14
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

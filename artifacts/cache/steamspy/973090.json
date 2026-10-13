@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:19:55.044387+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 973090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Kurlik Kurkil Studios",
+    "discount": "51",
+    "genre": "Simulation",
+    "initialprice": "99",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Toilet Simulator",
+    "negative": 173,
+    "owners": "20,000 .. 50,000",
+    "positive": 407,
+    "price": "49",
+    "publisher": "Kavkaz Sila Games",
+    "score_rank": "",
+    "tags": {
+      "Experimental": 12,
+      "Funny": 17,
+      "Memes": 17,
+      "Nudity": 41,
+      "Psychological Horror": 24,
+      "Simulation": 38,
+      "Singleplayer": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

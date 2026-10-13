@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:45.572357+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 804320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "KINODOM PRODUCTIONS",
+    "discount": "0",
+    "genre": "Movie, Short",
+    "initialprice": "0",
+    "languages": "Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Papers, Please - The Short Film",
+    "negative": 102,
+    "owners": "0 .. 20,000",
+    "positive": 9844,
+    "price": "0",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Atmospheric": 57,
+      "Free to Play": 13,
+      "Great Soundtrack": 41,
+      "Movie": 79,
+      "Short": 71,
+      "Story Rich": 46
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

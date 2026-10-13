@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:26.032888+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 378420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Framelinenetwork",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "399",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Jurassic Island: The Dinosaur Zoo",
+    "negative": 93,
+    "owners": "0 .. 20,000",
+    "positive": 11,
+    "price": "399",
+    "publisher": "Framelinenetwork",
+    "score_rank": "",
+    "tags": {
+      "Dinosaurs": 24,
+      "Hentai": 22,
+      "Horror": 25,
+      "NSFW": 6,
+      "Nudity": 5,
+      "Psychological Horror": 42,
+      "Sexual Content": 7,
+      "Strategy": 35
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

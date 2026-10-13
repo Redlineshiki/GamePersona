@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:26.625115+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 509110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Blastoid Entertainment",
+    "discount": "0",
+    "genre": "Casual, Indie",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Spikit",
+    "negative": 86,
+    "owners": "50,000 .. 100,000",
+    "positive": 344,
+    "price": "199",
+    "publisher": "Back To Basics Gaming",
+    "score_rank": "",
+    "tags": {
+      "Bullet Hell": 12,
+      "Casual": 31,
+      "Difficult": 8,
+      "Indie": 452
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

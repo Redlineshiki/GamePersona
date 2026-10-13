@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:21.705142+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1102420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "SmallBigSquare",
+    "discount": "40",
+    "genre": "Design & Illustration, Photo Editing, Utilities, Web Publishing, Game Development",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Palette Wizard",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 8,
+    "price": "899",
+    "publisher": "SmallBigSquare",
+    "score_rank": "",
+    "tags": {
+      "Colorful": 11,
+      "Design & Illustration": 31,
+      "Game Development": 31,
+      "Indie": 11,
+      "Photo Editing": 31,
+      "Pixel Graphics": 11,
+      "Utilities": 32,
+      "Web Publishing": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:05.023444+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 277460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 9,
+    "developer": "Pyro Studios",
+    "discount": "0",
+    "genre": "Indie, Strategy",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Praetorians",
+    "negative": 127,
+    "owners": "50,000 .. 100,000",
+    "positive": 549,
+    "price": "499",
+    "publisher": "Kalypso Media Digital",
+    "score_rank": "",
+    "tags": {
+      "Classic": 28,
+      "Historical": 25,
+      "Indie": 26,
+      "Multiplayer": 8,
+      "RTS": 40,
+      "Rome": 41,
+      "Singleplayer": 6,
+      "Strategy": 84,
+      "War": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

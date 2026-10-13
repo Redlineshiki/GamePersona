@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:22.630924+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1253570,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Trophy Games",
+    "discount": "0",
+    "genre": "Free To Play, Simulation, Sports, Strategy",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Danish, Dutch, Greek, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Futuball - Future Football Manager Game",
+    "negative": 22,
+    "owners": "20,000 .. 50,000",
+    "positive": 49,
+    "price": "0",
+    "publisher": "Trophy Games",
+    "score_rank": "",
+    "tags": {
+      "Football (Soccer)": 18,
+      "Free to Play": 188,
+      "Management": 19,
+      "Simulation": 186,
+      "Sports": 184,
+      "Strategy": 184
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

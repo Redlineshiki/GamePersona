@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:04.107309+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 563500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Tainted Games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The 8th Day",
+    "negative": 20,
+    "owners": "0 .. 20,000",
+    "positive": 6,
+    "price": "99",
+    "publisher": "TAINTED GAMES",
+    "score_rank": "",
+    "tags": {
+      "Gore": 21,
+      "Horror": 11,
+      "Indie": 21,
+      "Psychological Horror": 12,
+      "Survival Horror": 12,
+      "Violent": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

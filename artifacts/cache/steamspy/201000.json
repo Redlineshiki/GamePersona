@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:48:05.253904+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 201000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Spiderweb Software",
+    "discount": "60",
+    "genre": "Strategy, RPG, Indie",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Geneforge 4: Rebellion",
+    "negative": 5,
+    "owners": "50,000 .. 100,000",
+    "positive": 41,
+    "price": "799",
+    "publisher": "Spiderweb Software",
+    "score_rank": "",
+    "tags": {
+      "CRPG": 6,
+      "Creature Collector": 6,
+      "Indie": 35,
+      "Isometric": 17,
+      "RPG": 45,
+      "Strategy": 24,
+      "Turn-Based": 7,
+      "Turn-Based Combat": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

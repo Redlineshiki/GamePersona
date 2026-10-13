@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:32:59.261316+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1619220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "X-Legend Entertainment Co., Ltd.",
+    "discount": "0",
+    "genre": "Action, Adventure, Free To Play, Massively Multiplayer, RPG",
+    "initialprice": "0",
+    "languages": "English, French, German, Thai, Simplified Chinese, Korean",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Sprite Fantasia",
+    "negative": 139,
+    "owners": "50,000 .. 100,000",
+    "positive": 142,
+    "price": "0",
+    "publisher": "X-Legend Entertainment Co., Ltd.",
+    "score_rank": "",
+    "tags": {
+      "3D Platformer": 39,
+      "Action": 23,
+      "Adventure": 23,
+      "Anime": 14,
+      "Cartoony": 37,
+      "Free to Play": 30,
+      "Funny": 32,
+      "MMORPG": 47,
+      "Massively Multiplayer": 42,
+      "Multiplayer": 28,
+      "PvE": 26,
+      "RPG": 68
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

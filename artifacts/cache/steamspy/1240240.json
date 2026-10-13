@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:00.616685+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1240240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Oki Aki",
+    "discount": "0",
+    "genre": "Action, Indie, RPG, Strategy, Early Access",
+    "initialprice": "799",
+    "languages": "English, Traditional Chinese, Simplified Chinese, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Portugal, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Legendary Knight",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 71,
+    "price": "799",
+    "publisher": "Oki Game Lab",
+    "score_rank": "",
+    "tags": {
+      "Action": 98,
+      "Character Action Game": 35,
+      "Combat": 27,
+      "Early Access": 61,
+      "Hack and Slash": 33,
+      "Indie": 89,
+      "Medieval": 39,
+      "RPG": 86,
+      "Singleplayer": 40,
+      "Strategy": 92,
+      "Tactical": 42,
+      "Third Person": 45,
+      "Tower Defense": 47,
+      "Voxel": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:44.108909+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1686870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "YueluoGames",
+    "discount": "0",
+    "genre": "Casual, Strategy",
+    "initialprice": "999",
+    "languages": "Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "中华富甲三国",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 21,
+    "price": "999",
+    "publisher": "YueluoGames",
+    "score_rank": "",
+    "tags": {
+      "2.5D": 23,
+      "4 Player Local": 19,
+      "Board Game": 28,
+      "Casual": 68,
+      "City Builder": 33,
+      "Funny": 21,
+      "Singleplayer": 17,
+      "Strategy": 63,
+      "Turn-Based Tactics": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

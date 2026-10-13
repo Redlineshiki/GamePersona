@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:52.423507+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 319780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "LinkSolutions Ltd.",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Airport Simulator 2015",
+    "negative": 105,
+    "owners": "50,000 .. 100,000",
+    "positive": 71,
+    "price": "999",
+    "publisher": "rondomedia GmbH",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 46,
+      "Singleplayer": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

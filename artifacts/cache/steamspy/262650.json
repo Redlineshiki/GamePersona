@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:52:20.906045+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 262650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "BrainDistrict",
+    "discount": "0",
+    "genre": "Animation & Modeling",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "RaySupreme 3D",
+    "negative": 31,
+    "owners": "20,000 .. 50,000",
+    "positive": 21,
+    "price": "0",
+    "publisher": "BrainDistrict",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

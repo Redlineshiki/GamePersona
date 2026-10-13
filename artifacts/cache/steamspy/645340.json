@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:18.487186+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 645340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Indiecode Games",
+    "discount": "0",
+    "genre": "Simulation, Free To Play",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Relax Walk VR",
+    "negative": 35,
+    "owners": "20,000 .. 50,000",
+    "positive": 36,
+    "price": "0",
+    "publisher": "Indiecode Games",
+    "score_rank": "",
+    "tags": {
+      "Free to Play": 20,
+      "Relaxing": 6,
+      "Simulation": 22,
+      "VR": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

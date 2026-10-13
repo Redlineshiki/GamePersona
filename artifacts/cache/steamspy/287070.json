@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:40.401562+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 287070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "Slitherine Ltd.",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1499",
+    "languages": "English, French, Italian, German, Spanish - Spain, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Battle Academy",
+    "negative": 53,
+    "owners": "50,000 .. 100,000",
+    "positive": 294,
+    "price": "1499",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Historical": 7,
+      "Multiplayer": 15,
+      "Replay Value": 15,
+      "Singleplayer": 20,
+      "Strategy": 55,
+      "Turn-Based": 33,
+      "Turn-Based Strategy": 37,
+      "Wargame": 32,
+      "World War II": 37
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

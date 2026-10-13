@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:35:26.958970+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1904540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4178,
+    "developer": "Sports Interactive",
+    "discount": "0",
+    "genre": "Simulation, Sports",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Danish, Dutch, Korean, Norwegian, Polish, Portuguese - Portugal, Simplified Chinese, Swedish, Turkish, Greek, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Football Manager 2023",
+    "negative": 2012,
+    "owners": "2,000,000 .. 5,000,000",
+    "positive": 17645,
+    "price": "0",
+    "publisher": "SEGA",
+    "score_rank": "",
+    "tags": {
+      "2D": 41,
+      "3D": 45,
+      "Football (Soccer)": 115,
+      "Management": 115,
+      "Multiplayer": 49,
+      "Real Time Tactics": 71,
+      "Simulation": 138,
+      "Singleplayer": 43,
+      "Sports": 128,
+      "Strategy": 48,
+      "Text-Based": 34,
+      "e-sports": 50
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

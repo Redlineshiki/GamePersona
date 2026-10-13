@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:52.808287+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 845690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Smallfry Games",
+    "discount": "0",
+    "genre": "Indie, Strategy",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Rats, Bats, and Bones",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 80,
+    "price": "499",
+    "publisher": "Smallfry Games",
+    "score_rank": "",
+    "tags": {
+      "Great Soundtrack": 11,
+      "Indie": 33,
+      "Pixel Graphics": 16,
+      "Retro": 13,
+      "Strategy": 30,
+      "Tower Defense": 18
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

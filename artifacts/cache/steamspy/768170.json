@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:47.751308+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 768170,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "",
+    "discount": "0",
+    "genre": "Casual, Simulation",
+    "initialprice": "599",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Medieval Real Estate",
+    "negative": 30,
+    "owners": "0 .. 20,000",
+    "positive": 3,
+    "price": "599",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Cartoon": 37,
+      "Casual": 69,
+      "Clicker": 55,
+      "Colorful": 31,
+      "Economy": 27,
+      "Management": 43,
+      "Medieval": 39,
+      "Point & Click": 51,
+      "Relaxing": 29,
+      "Simulation": 63,
+      "Singleplayer": 25,
+      "Time Management": 50
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

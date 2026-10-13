@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:52.994015+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 423580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 60,
+    "developer": "SomaSim",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Russian, Polish, Simplified Chinese, Japanese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Project Highrise",
+    "negative": 693,
+    "owners": "200,000 .. 500,000",
+    "positive": 3876,
+    "price": "1999",
+    "publisher": "Kasedo Games",
+    "score_rank": "",
+    "tags": {
+      "2D": 80,
+      "Base-Building": 7,
+      "Building": 156,
+      "Casual": 36,
+      "City Builder": 32,
+      "Economy": 54,
+      "Indie": 54,
+      "Management": 188,
+      "Pixel Graphics": 10,
+      "Sandbox": 69,
+      "Simulation": 189,
+      "Singleplayer": 84,
+      "Strategy": 152
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

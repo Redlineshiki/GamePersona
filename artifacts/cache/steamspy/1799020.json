@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:34:36.776132+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1799020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Boxstudio",
+    "discount": "50",
+    "genre": "Casual, Indie",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Six Faces | Overpower",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 19,
+    "price": "99",
+    "publisher": "Boxstudio",
+    "score_rank": "",
+    "tags": {
+      "3D": 24,
+      "3D Platformer": 25,
+      "Casual": 65,
+      "Controller": 24,
+      "Grid-Based Movement": 29,
+      "Indie": 22,
+      "Logic": 41,
+      "Minimalist": 37,
+      "Nonlinear": 34,
+      "Platformer": 21,
+      "Puzzle": 20,
+      "Puzzle-Platformer": 48,
+      "Singleplayer": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

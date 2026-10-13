@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:07.794897+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 408120,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Star Maid Games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "899",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cibele",
+    "negative": 628,
+    "owners": "50,000 .. 100,000",
+    "positive": 644,
+    "price": "899",
+    "publisher": "N/A",
+    "score_rank": "",
+    "tags": {
+      "FMV": 27,
+      "Female Protagonist": 39,
+      "Indie": 47,
+      "Nudity": 12,
+      "Romance": 18,
+      "Short": 18,
+      "Singleplayer": 13,
+      "Story Rich": 14,
+      "Visual Novel": 10,
+      "Walking Simulator": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

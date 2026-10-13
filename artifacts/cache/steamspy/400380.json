@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:00:52.668053+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 400380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "EGCL",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Tactical Soccer The New Season",
+    "negative": 17,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "999",
+    "publisher": "KISS ltd",
+    "score_rank": "",
+    "tags": {
+      "Football (Soccer)": 6,
+      "Indie": 23,
+      "Simulation": 22,
+      "Sports": 26,
+      "Strategy": 22,
+      "Turn-Based": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

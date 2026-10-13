@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:50.627174+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 464050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Heroic Games",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Heroes Must Die",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 44,
+    "price": "0",
+    "publisher": "Heroic Games",
+    "score_rank": "",
+    "tags": {
+      "Comedy": 14,
+      "Free to Play": 6,
+      "Pixel Graphics": 12,
+      "RPG": 21,
+      "Retro": 12,
+      "Story Rich": 12,
+      "Tactical RPG": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

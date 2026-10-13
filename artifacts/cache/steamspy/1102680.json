@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:22.725610+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1102680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Tainted Games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ash Asylum",
+    "negative": 18,
+    "owners": "0 .. 20,000",
+    "positive": 14,
+    "price": "99",
+    "publisher": "Tainted Games",
+    "score_rank": "",
+    "tags": {
+      "FPS": 11,
+      "Gore": 21,
+      "Horror": 14,
+      "Indie": 31,
+      "Psychological Horror": 12,
+      "Survival Horror": 12,
+      "Violent": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

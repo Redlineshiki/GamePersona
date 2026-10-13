@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:49:39.822122+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 223850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 699,
+    "developer": "UL Solutions",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "2999",
+    "languages": "English, German, Simplified Chinese, Russian, Spanish - Spain, Japanese, Korean, Traditional Chinese, Polish, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "3DMark",
+    "negative": 1192,
+    "owners": "1,000,000 .. 2,000,000",
+    "positive": 17160,
+    "price": "2999",
+    "publisher": "UL Solutions",
+    "score_rank": "",
+    "tags": {
+      "3D": 45,
+      "Benchmark": 321,
+      "FPS": 5,
+      "Multiplayer": 5,
+      "Software": 181,
+      "Utilities": 207
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

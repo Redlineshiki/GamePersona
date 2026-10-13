@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:30.945827+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 415200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 373,
+    "developer": "Playsport Games",
+    "discount": "0",
+    "genre": "Racing, Simulation, Sports, Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Portuguese - Brazil, Dutch, Hungarian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Motorsport Manager",
+    "negative": 1132,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 12504,
+    "price": "1999",
+    "publisher": "Miniclip",
+    "score_rank": "",
+    "tags": {
+      "Action": 16,
+      "Automobile Sim": 126,
+      "Difficult": 23,
+      "Economy": 8,
+      "Great Soundtrack": 11,
+      "Management": 335,
+      "Multiplayer": 22,
+      "Racing": 283,
+      "Simulation": 252,
+      "Singleplayer": 94,
+      "Sports": 185,
+      "Strategy": 221
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:57.788055+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 560740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Game Cartel",
+    "discount": "70",
+    "genre": "Adventure, Casual",
+    "initialprice": "399",
+    "languages": "English, German, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Shtriga: Summer Camp",
+    "negative": 37,
+    "owners": "20,000 .. 50,000",
+    "positive": 107,
+    "price": "119",
+    "publisher": "Alawar Casual",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 10,
+      "Adventure": 45,
+      "Casual": 44,
+      "Hidden Object": 23,
+      "Indie": 10,
+      "Point & Click": 15,
+      "Singleplayer": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:40.606799+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1263220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "糯米集团工作室, UE4六叔",
+    "discount": "0",
+    "genre": "Action, Adventure, Casual, Indie, Racing, Simulation, Strategy",
+    "initialprice": "0",
+    "languages": "English, Not supported, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Corpse disaster-survivors",
+    "negative": 25,
+    "owners": "0 .. 20,000",
+    "positive": 24,
+    "price": "0",
+    "publisher": "糯米集团工作室",
+    "score_rank": "",
+    "tags": {
+      "Action": 181,
+      "Adventure": 180,
+      "Casual": 181,
+      "FPS": 15,
+      "Indie": 182,
+      "Racing": 178,
+      "Simulation": 180,
+      "Strategy": 180,
+      "Third-Person Shooter": 11,
+      "Zombies": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

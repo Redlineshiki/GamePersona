@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:34.368018+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1114420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 74,
+    "developer": "Swearl, LLC",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "PLAY'A VR  Video Player",
+    "negative": 89,
+    "owners": "100,000 .. 200,000",
+    "positive": 195,
+    "price": "0",
+    "publisher": "Swearl, LLC",
+    "score_rank": "",
+    "tags": {
+      "360 Video": 18,
+      "Utilities": 25,
+      "VR": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:04.250769+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 545110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "IObit",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Danish, Russian, Bulgarian, Hungarian, Turkish, Greek, Czech, Japanese, Polish, Thai, Swedish, Romanian, Finnish, Dutch, Portuguese - Portugal, Portuguese - Brazil, Korean, Ukrainian, Norwegian, Simplified Chinese, Traditional Chinese, Arabic",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Driver Booster 4 for Steam",
+    "negative": 201,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 631,
+    "price": "0",
+    "publisher": "IObit",
+    "score_rank": "",
+    "tags": {
+      "Utilities": 36
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

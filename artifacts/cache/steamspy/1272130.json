@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:49.950406+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1272130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 14,
+    "developer": "Strategy 3 Tactics",
+    "discount": "80",
+    "genre": "Simulation, Strategy",
+    "initialprice": "3999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Close Combat: The Longest Day",
+    "negative": 16,
+    "owners": "0 .. 20,000",
+    "positive": 70,
+    "price": "799",
+    "publisher": "Matrix Games",
+    "score_rank": "",
+    "tags": {
+      "Classic": 10,
+      "Military": 11,
+      "RTS": 12,
+      "Simulation": 56,
+      "Strategy": 56,
+      "Wargame": 12,
+      "World War II": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

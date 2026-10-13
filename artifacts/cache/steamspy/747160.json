@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:10.885797+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 747160,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Samantha Arehart",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "BAPTISM",
+    "negative": 2,
+    "owners": "0 .. 20,000",
+    "positive": 18,
+    "price": "99",
+    "publisher": "Samantha Arehart",
+    "score_rank": "",
+    "tags": {
+      "Dark": 12,
+      "Indie": 32,
+      "Short": 13,
+      "Visual Novel": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:55.789809+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 497820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Laserboys3000",
+    "discount": "0",
+    "genre": "Free To Play",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Quanero VR",
+    "negative": 37,
+    "owners": "20,000 .. 50,000",
+    "positive": 314,
+    "price": "0",
+    "publisher": "Laserboys3000",
+    "score_rank": "",
+    "tags": {
+      "Cyberpunk": 9,
+      "Free to Play": 34,
+      "VR": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

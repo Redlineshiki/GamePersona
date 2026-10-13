@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:32:27.513978+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1580300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Choice of Games",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "599",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Witchcraft U",
+    "negative": 5,
+    "owners": "20,000 .. 50,000",
+    "positive": 9,
+    "price": "599",
+    "publisher": "Choice of Games",
+    "score_rank": "",
+    "tags": {
+      "Character Customization": 26,
+      "Choices Matter": 23,
+      "Choose Your Own Adventure": 40,
+      "Cute": 36,
+      "Interactive Fiction": 43,
+      "Magic": 27,
+      "Multiple Endings": 21,
+      "RPG": 69,
+      "Singleplayer": 17,
+      "Story Rich": 19,
+      "Text-Based": 35
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

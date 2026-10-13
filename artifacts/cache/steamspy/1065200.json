@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:11.301115+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1065200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Zhongce Games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "699",
+    "languages": "English, Simplified Chinese, Korean",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Visitor2 / 来访者2",
+    "negative": 42,
+    "owners": "0 .. 20,000",
+    "positive": 135,
+    "price": "699",
+    "publisher": "Zhongce Games",
+    "score_rank": "",
+    "tags": {
+      "Detective": 13,
+      "FMV": 14,
+      "Indie": 31,
+      "Violent": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

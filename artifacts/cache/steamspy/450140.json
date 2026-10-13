@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:21.242996+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 450140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 12,
+    "developer": "Enlight Software Limited",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "599",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Seven Kingdoms: Ancient Adversaries",
+    "negative": 10,
+    "owners": "50,000 .. 100,000",
+    "positive": 207,
+    "price": "599",
+    "publisher": "Enlight Software Limited, Retroism",
+    "score_rank": "",
+    "tags": {
+      "Classic": 6,
+      "RTS": 11,
+      "Strategy": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

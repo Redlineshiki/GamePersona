@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:52:35.632184+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 267610,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "United Independent Entertainment",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "499",
+    "languages": "English, French, Italian, German, Hungarian, Polish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Woodcutter Simulator 2013",
+    "negative": 397,
+    "owners": "50,000 .. 100,000",
+    "positive": 139,
+    "price": "499",
+    "publisher": "United Independent Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 60
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

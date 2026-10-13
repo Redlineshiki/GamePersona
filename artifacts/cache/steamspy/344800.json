@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:11.223816+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 344800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Grey Dog Software",
+    "discount": "0",
+    "genre": "Simulation, Sports",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "World of Mixed Martial Arts 3",
+    "negative": 45,
+    "owners": "20,000 .. 50,000",
+    "positive": 109,
+    "price": "1999",
+    "publisher": "Viva Media",
+    "score_rank": "",
+    "tags": {
+      "Management": 9,
+      "Martial Arts": 9,
+      "Simulation": 27,
+      "Sports": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

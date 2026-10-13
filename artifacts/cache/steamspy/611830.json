@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:04.937888+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 611830,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Bambastic Games",
+    "discount": "0",
+    "genre": "Action, Indie, Massively Multiplayer",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Park Bound",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 92,
+    "price": "1499",
+    "publisher": "Bambastic Games",
+    "score_rank": "",
+    "tags": {
+      "3D Platformer": 13,
+      "Action": 32,
+      "Character Customization": 11,
+      "Controller": 10,
+      "Indie": 31,
+      "Level Editor": 13,
+      "Massively Multiplayer": 33,
+      "Online Co-Op": 10,
+      "Platformer": 12,
+      "Singleplayer": 12,
+      "Third Person": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

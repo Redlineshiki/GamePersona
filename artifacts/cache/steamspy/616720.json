@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:15.399341+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 616720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 263,
+    "developer": "Pavo Studio",
+    "discount": "0",
+    "genre": "Animation & Modeling, Utilities",
+    "initialprice": "499",
+    "languages": "English, Simplified Chinese, Traditional Chinese, Japanese, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Live2DViewerEX",
+    "negative": 267,
+    "owners": "200,000 .. 500,000",
+    "positive": 3223,
+    "price": "499",
+    "publisher": "Pavo Studio",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 67,
+      "Anime": 48,
+      "FPS": 18,
+      "Mature": 9,
+      "Sexual Content": 43,
+      "Software": 29,
+      "Utilities": 62
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

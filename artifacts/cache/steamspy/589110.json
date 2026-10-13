@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:57.657113+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 589110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "PNxDesigns",
+    "discount": "0",
+    "genre": "Indie, Simulation, Strategy",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Constricted VR",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "99",
+    "publisher": "PNxDesigns",
+    "score_rank": "",
+    "tags": {
+      "Escape Room": 11,
+      "Free to Play": 8,
+      "Indie": 19,
+      "Simulation": 19,
+      "Strategy": 20,
+      "VR": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

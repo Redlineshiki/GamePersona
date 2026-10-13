@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:26:15.467585+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1221050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "UltimateDesktop",
+    "discount": "0",
+    "genre": "Animation & Modeling, Design & Illustration, Utilities, Early Access",
+    "initialprice": "399",
+    "languages": "English, Simplified Chinese, French, German, Russian, Japanese, Thai, Portuguese - Brazil, Korean",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ultimate Low Poly Pet",
+    "negative": 11,
+    "owners": "0 .. 20,000",
+    "positive": 26,
+    "price": "399",
+    "publisher": "UltimateDesktop",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 33,
+      "Design & Illustration": 23,
+      "Early Access": 22,
+      "Utilities": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

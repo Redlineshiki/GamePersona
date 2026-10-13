@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:31:35.618426+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1516050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "LizardWish",
+    "discount": "0",
+    "genre": "Design & Illustration, Photo Editing, Utilities, Video Production, Game Development",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "PixageFX Studio",
+    "negative": 16,
+    "owners": "0 .. 20,000",
+    "positive": 121,
+    "price": "1999",
+    "publisher": "LizardWish",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 31,
+      "Game Development": 31,
+      "Photo Editing": 31,
+      "Pixel Graphics": 12,
+      "Utilities": 31,
+      "Video Production": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

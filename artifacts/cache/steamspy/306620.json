@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:54.573316+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 306620,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "88mm",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English, Italian, German, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Frontline : Road to Moscow",
+    "negative": 27,
+    "owners": "20,000 .. 50,000",
+    "positive": 38,
+    "price": "999",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Strategy": 45,
+      "Wargame": 10,
+      "World War II": 14
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

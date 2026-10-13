@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:25.847721+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1254860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Goliath Games",
+    "discount": "0",
+    "genre": "Simulation, Sports",
+    "initialprice": "699",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "World Championship Boxing Manager",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 16,
+    "price": "699",
+    "publisher": "Ziggurat",
+    "score_rank": "",
+    "tags": {
+      "Boxing": 23,
+      "Management": 22,
+      "Retro": 13,
+      "Simulation": 52,
+      "Sports": 52,
+      "Strategy": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

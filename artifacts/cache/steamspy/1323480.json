@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:54.131813+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1323480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Fewprime",
+    "discount": "0",
+    "genre": "Adventure, Indie",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "No One Can Ever Know",
+    "negative": 4,
+    "owners": "0 .. 20,000",
+    "positive": 18,
+    "price": "0",
+    "publisher": "Fewprime",
+    "score_rank": "",
+    "tags": {
+      "Adventure": 57,
+      "Exploration": 35,
+      "Free to Play": 5,
+      "Indie": 41,
+      "LGBTQ+": 46,
+      "Minimalist": 29,
+      "Resource Management": 32,
+      "Singleplayer": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

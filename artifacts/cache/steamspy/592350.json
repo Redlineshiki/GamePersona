@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:10.168806+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 592350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Digitalfossils Ltd",
+    "discount": "0",
+    "genre": "Animation & Modeling",
+    "initialprice": "5999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nvil",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 40,
+    "price": "5999",
+    "publisher": "Digitalfossils Ltd",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

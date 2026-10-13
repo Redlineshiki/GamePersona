@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:37:18.501325+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 3892270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "TEAM GWYF",
+    "discount": "0",
+    "genre": "Adventure, Indie, Simulation",
+    "initialprice": "799",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Turkish, Ukrainian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Gamble With Your Friends",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "799",
+    "publisher": "TENSTACK",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

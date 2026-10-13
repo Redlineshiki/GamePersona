@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:58.431345+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1328170,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Hinterland Studio Inc.",
+    "discount": "0",
+    "genre": "",
+    "initialprice": "799",
+    "languages": "",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Music for The Long Dark -- Volume Two",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "799",
+    "publisher": "Hinterland Studio Inc.",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

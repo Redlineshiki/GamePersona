@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:14.957275+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2015650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Highlander Interactive",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "399",
+    "languages": "English, Spanish - Spain, Portuguese - Brazil, French, Italian, German, Japanese, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Disembowel",
+    "negative": 51,
+    "owners": "0 .. 20,000",
+    "positive": 27,
+    "price": "399",
+    "publisher": "Yandere Gameworks",
+    "score_rank": "",
+    "tags": {
+      "Co-op": 31,
+      "Dark": 19,
+      "First-Person": 23,
+      "Gore": 22,
+      "Horror": 47,
+      "Indie": 21,
+      "Multiplayer": 37,
+      "Online Co-Op": 41,
+      "Psychological Horror": 34,
+      "Singleplayer": 25,
+      "Survival Horror": 21,
+      "Violent": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

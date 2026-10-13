@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:06:50.658869+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 539640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Kastriot Sulejmani, Brayden Myers",
+    "discount": "0",
+    "genre": "Free To Play, Massively Multiplayer, Racing",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Racecar.io",
+    "negative": 158,
+    "owners": "50,000 .. 100,000",
+    "positive": 211,
+    "price": "0",
+    "publisher": "KasSanity",
+    "score_rank": "",
+    "tags": {
+      "Free to Play": 40,
+      "Massively Multiplayer": 24,
+      "Multiplayer": 7,
+      "Racing": 28
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

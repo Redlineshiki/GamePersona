@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:55.222695+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1274630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Planchette Games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "1199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "So May It Be: A Witch Dating Simulator",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 29,
+    "price": "1199",
+    "publisher": "Planchette Games",
+    "score_rank": "",
+    "tags": {
+      "Cute": 13,
+      "Dating Sim": 13,
+      "Indie": 33,
+      "LGBTQ+": 17,
+      "Magic": 15,
+      "Minigames": 13,
+      "Relaxing": 15,
+      "Romance": 14,
+      "Sexual Content": 19,
+      "Short": 13,
+      "Singleplayer": 14,
+      "Story Rich": 12,
+      "Visual Novel": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

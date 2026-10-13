@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:08.101076+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 373930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 144,
+    "developer": "Kite Games",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Russian, Spanish - Spain, Simplified Chinese, Polish, Traditional Chinese, Korean, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Sudden Strike 4",
+    "negative": 1721,
+    "owners": "200,000 .. 500,000",
+    "positive": 6094,
+    "price": "1999",
+    "publisher": "Kalypso Media",
+    "score_rank": "",
+    "tags": {
+      "Base-Building": 13,
+      "Historical": 81,
+      "Military": 51,
+      "Multiplayer": 82,
+      "RTS": 165,
+      "Real Time Tactics": 54,
+      "Real-Time": 75,
+      "Realistic": 72,
+      "Singleplayer": 49,
+      "Strategy": 281,
+      "Tanks": 75,
+      "War": 129,
+      "World War II": 158
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

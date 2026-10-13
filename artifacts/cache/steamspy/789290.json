@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:24.522817+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 789290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Skyward Digital",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "RPG Merchant",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 13,
+    "price": "999",
+    "publisher": "Skyward Digital",
+    "score_rank": "",
+    "tags": {
+      "Fantasy": 22,
+      "Funny": 21,
+      "Medieval": 21,
+      "RPG": 5,
+      "Simulation": 31,
+      "VR": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

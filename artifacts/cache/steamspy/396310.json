@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:00:38.412969+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 396310,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Oldblood",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "799",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Masochisia",
+    "negative": 63,
+    "owners": "20,000 .. 50,000",
+    "positive": 349,
+    "price": "799",
+    "publisher": "Oldblood",
+    "score_rank": "",
+    "tags": {
+      "Horror": 22,
+      "Indie": 29,
+      "Point & Click": 20,
+      "Psychological": 18,
+      "Psychological Horror": 18,
+      "Story Rich": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

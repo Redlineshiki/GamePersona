@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:05.058190+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 310390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 13,
+    "developer": "VR Designs",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "2999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Advanced Tactics Gold",
+    "negative": 28,
+    "owners": "0 .. 20,000",
+    "positive": 142,
+    "price": "2999",
+    "publisher": "Matrix Games",
+    "score_rank": "",
+    "tags": {
+      "Hex Grid": 24,
+      "Multiplayer": 12,
+      "Replay Value": 11,
+      "Simulation": 25,
+      "Singleplayer": 13,
+      "Strategy": 42,
+      "Turn-Based": 22,
+      "Turn-Based Strategy": 19,
+      "Wargame": 25,
+      "World War II": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

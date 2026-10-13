@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:51.955179+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 932480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "URUS GAMES",
+    "discount": "0",
+    "genre": "Casual, Indie, Simulation, Audio Production, Education, Software Training, Utilities, Game Development",
+    "initialprice": "129",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "GraviSound",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 20,
+    "price": "129",
+    "publisher": "URUS GAMES",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 31,
+      "Casual": 21,
+      "Education": 21,
+      "Game Development": 21,
+      "Indie": 21,
+      "Simulation": 21,
+      "Software Training": 21,
+      "Utilities": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

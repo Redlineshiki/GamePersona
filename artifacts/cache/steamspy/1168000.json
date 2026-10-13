@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:24:59.708756+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1168000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Sonya Fung",
+    "discount": "0",
+    "genre": "Free To Play",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "High School Otome",
+    "negative": 30,
+    "owners": "20,000 .. 50,000",
+    "positive": 24,
+    "price": "0",
+    "publisher": "CloudNovel LLC",
+    "score_rank": "",
+    "tags": {
+      "Dating Sim": 13,
+      "Free to Play": 36,
+      "Otome": 14,
+      "Visual Novel": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

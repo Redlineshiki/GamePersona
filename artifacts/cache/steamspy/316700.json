@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:40.873399+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 316700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Cyanide Studio",
+    "discount": "0",
+    "genre": "Sports, Strategy",
+    "initialprice": "999",
+    "languages": "English, French",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Front Page Sports Football",
+    "negative": 58,
+    "owners": "0 .. 20,000",
+    "positive": 7,
+    "price": "999",
+    "publisher": "Cyanide Studio, Nacon",
+    "score_rank": "",
+    "tags": {
+      "Football (American)": 8,
+      "Sports": 36,
+      "Strategy": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

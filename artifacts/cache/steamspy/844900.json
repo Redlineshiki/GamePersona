@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:47.547049+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 844900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Heartline / Greencode",
+    "discount": "80",
+    "genre": "Simulation, Sports",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Director of Football",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 8,
+    "price": "199",
+    "publisher": "UniqueGames GmbH",
+    "score_rank": "",
+    "tags": {
+      "Football (Soccer)": 6,
+      "Simulation": 23,
+      "Sports": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

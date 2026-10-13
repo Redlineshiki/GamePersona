@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:25.672879+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 757590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Old Town Entertainment",
+    "discount": "0",
+    "genre": "Indie, Simulation",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Life Game",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "99",
+    "publisher": "Old Town Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Dating Sim": 13,
+      "Early Access": 35,
+      "Indie": 24,
+      "Simulation": 36
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

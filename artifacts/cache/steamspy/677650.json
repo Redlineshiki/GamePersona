@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:12.130119+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 677650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Cublo",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English, German, Polish, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Brass",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 26,
+    "price": "999",
+    "publisher": "Phalanx",
+    "score_rank": "",
+    "tags": {
+      "Board Game": 10,
+      "Strategy": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

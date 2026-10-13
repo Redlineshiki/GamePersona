@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:19:47.693688+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 967430,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "NeWa Studios",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nights at the Clown Maze",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 6,
+    "price": "199",
+    "publisher": "NeWa Studios",
+    "score_rank": "",
+    "tags": {
+      "Horror": 5,
+      "Indie": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

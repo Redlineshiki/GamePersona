@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:31:40.864929+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1522190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Amemi Kinosuke",
+    "discount": "0",
+    "genre": "Audio Production",
+    "initialprice": "0",
+    "languages": "English, Not supported, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "ASTRA",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 15,
+    "price": "0",
+    "publisher": "Personal",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

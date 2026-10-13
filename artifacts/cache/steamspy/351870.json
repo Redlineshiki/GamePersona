@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:33.337590+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 351870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "Funatics Software",
+    "discount": "84",
+    "genre": "Strategy",
+    "initialprice": "499",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cultures - 8th Wonder of the World",
+    "negative": 78,
+    "owners": "100,000 .. 200,000",
+    "positive": 391,
+    "price": "79",
+    "publisher": "Daedalic Entertainment",
+    "score_rank": "",
+    "tags": {
+      "City Builder": 27,
+      "Economy": 9,
+      "Management": 5,
+      "RTS": 23,
+      "Simulation": 8,
+      "Singleplayer": 7,
+      "Strategy": 59,
+      "Vikings": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

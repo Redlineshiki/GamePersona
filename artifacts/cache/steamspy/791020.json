@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:26.670729+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 791020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "DP3 Softworks",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Drumpf: Rise Up, Libertonia!",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 34,
+    "price": "0",
+    "publisher": "DP3 Softworks",
+    "score_rank": "",
+    "tags": {
+      "Gore": 21,
+      "Memes": 8,
+      "Nudity": 21,
+      "Political": 8,
+      "Psychological Horror": 7,
+      "RPG": 22,
+      "RPGMaker": 7,
+      "Sexual Content": 21,
+      "Violent": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

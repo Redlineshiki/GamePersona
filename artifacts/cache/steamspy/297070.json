@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:18.855787+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 297070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "IV Productions, Trinity Team srl",
+    "discount": "65",
+    "genre": "Adventure",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nicolas Eymerich The Inquisitor Book II : The Village",
+    "negative": 16,
+    "owners": "0 .. 20,000",
+    "positive": 23,
+    "price": "349",
+    "publisher": "IV Productions, Trinity Team srl",
+    "score_rank": "",
+    "tags": {
+      "Adventure": 26,
+      "Point & Click": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

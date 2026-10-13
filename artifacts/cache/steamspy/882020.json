@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:46.389539+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 882020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "Milestone S.r.l.",
+    "discount": "0",
+    "genre": "Racing, Simulation, Sports",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Spanish - Latin America",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Monster Energy Supercross - The Official Videogame 2",
+    "negative": 110,
+    "owners": "50,000 .. 100,000",
+    "positive": 589,
+    "price": "1999",
+    "publisher": "Milestone S.r.l.",
+    "score_rank": "",
+    "tags": {
+      "Motocross": 31,
+      "Motorbike": 32,
+      "Multiplayer": 33,
+      "Racing": 35,
+      "Simulation": 35,
+      "Sports": 38
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

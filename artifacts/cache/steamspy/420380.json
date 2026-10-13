@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:42.514800+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 420380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Bass Pro Shops",
+    "discount": "0",
+    "genre": "Simulation, Sports",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Strike",
+    "negative": 4,
+    "owners": "0 .. 20,000",
+    "positive": 26,
+    "price": "0",
+    "publisher": "Console Classics",
+    "score_rank": "",
+    "tags": {
+      "Fishing": 12,
+      "Simulation": 23,
+      "Sports": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

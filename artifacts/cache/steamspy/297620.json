@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:22.036414+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 297620,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Revistronic",
+    "discount": "80",
+    "genre": "Action",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Rocko's Quest",
+    "negative": 28,
+    "owners": "0 .. 20,000",
+    "positive": 39,
+    "price": "99",
+    "publisher": "Revistronic",
+    "score_rank": "",
+    "tags": {
+      "Action": 36,
+      "Adventure": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

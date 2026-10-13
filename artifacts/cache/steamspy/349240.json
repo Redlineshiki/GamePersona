@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:26.584066+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 349240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Eridani Games",
+    "discount": "80",
+    "genre": "Indie, RPG",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Edolie",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 24,
+    "price": "199",
+    "publisher": "KOMODO",
+    "score_rank": "",
+    "tags": {
+      "Female Protagonist": 6,
+      "Indie": 37,
+      "RPG": 40,
+      "RPGMaker": 14
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:49.616670+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 845250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 8,
+    "developer": "Last Day Of Work",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Fish Tycoon 2: Virtual Aquarium",
+    "negative": 117,
+    "owners": "50,000 .. 100,000",
+    "positive": 145,
+    "price": "0",
+    "publisher": "Last Day Of Work",
+    "score_rank": "",
+    "tags": {
+      "Management": 5,
+      "Simulation": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

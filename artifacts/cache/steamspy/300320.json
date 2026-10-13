@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:28.686347+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 300320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 3,
+    "developer": "BlackMoon Design",
+    "discount": "80",
+    "genre": "Strategy",
+    "initialprice": "799",
+    "languages": "English, Polish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Few",
+    "negative": 92,
+    "owners": "50,000 .. 100,000",
+    "positive": 100,
+    "price": "159",
+    "publisher": "BlackMoon Design ",
+    "score_rank": "",
+    "tags": {
+      "Strategy": 34,
+      "World War II": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

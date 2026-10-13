@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:45.599602+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 422420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "22cans",
+    "discount": "0",
+    "genre": "Casual, Indie, Simulation, Strategy, Early Access",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Godus Wars",
+    "negative": 495,
+    "owners": "50,000 .. 100,000",
+    "positive": 85,
+    "price": "0",
+    "publisher": "22cans",
+    "score_rank": "",
+    "tags": {
+      "Casual": 28,
+      "Early Access": 25,
+      "God Game": 33,
+      "Indie": 24,
+      "Multiplayer": 24,
+      "Simulation": 52,
+      "Strategy": 54
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

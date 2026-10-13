@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:05.395619+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 501190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Axis Games",
+    "discount": "0",
+    "genre": "Simulation, Sports",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Axis Football 2016",
+    "negative": 31,
+    "owners": "0 .. 20,000",
+    "positive": 93,
+    "price": "499",
+    "publisher": "Axis Games",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 10,
+      "Football (American)": 11,
+      "Local Multiplayer": 10,
+      "Management": 10,
+      "Simulation": 24,
+      "Singleplayer": 12,
+      "Sports": 29,
+      "Strategy": 10,
+      "Tactical": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

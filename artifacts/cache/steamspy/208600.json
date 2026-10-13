@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:48:36.731131+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 208600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Shovsoft",
+    "discount": "0",
+    "genre": "Indie, Simulation",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Lunar Flight",
+    "negative": 127,
+    "owners": "100,000 .. 200,000",
+    "positive": 546,
+    "price": "1499",
+    "publisher": "Shovsoft",
+    "score_rank": "",
+    "tags": {
+      "Difficult": 10,
+      "Flight": 35,
+      "Indie": 50,
+      "Multiplayer": 12,
+      "Physics": 32,
+      "Realistic": 25,
+      "Simulation": 91,
+      "Singleplayer": 12,
+      "Space": 53,
+      "TrackIR": 6,
+      "VR": 63
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

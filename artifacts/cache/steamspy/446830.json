@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:09.708355+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 446830,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Might and Delight",
+    "discount": "0",
+    "genre": "Design & Illustration",
+    "initialprice": "799",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Lonesome Fog",
+    "negative": 16,
+    "owners": "20,000 .. 50,000",
+    "positive": 80,
+    "price": "799",
+    "publisher": "Might and Delight",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

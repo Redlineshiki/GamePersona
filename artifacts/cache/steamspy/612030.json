@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:05.942752+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 612030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sakis25 Games",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Harvest Simulator VR",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 8,
+    "price": "499",
+    "publisher": "Bolt Virtual",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 22,
+      "VR": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

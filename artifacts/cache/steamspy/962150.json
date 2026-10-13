@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:19:36.122984+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 962150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "From Nothing Game Studios",
+    "discount": "0",
+    "genre": "RPG, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Tactics V: \"Obsidian Brigade\"",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 26,
+    "price": "999",
+    "publisher": "From Nothing Game Studios",
+    "score_rank": "",
+    "tags": {
+      "Pixel Graphics": 5,
+      "RPG": 39,
+      "Strategy": 39,
+      "Strategy RPG": 20,
+      "Tactical": 21,
+      "Tactical RPG": 20,
+      "Turn-Based": 23,
+      "Turn-Based Combat": 11,
+      "Turn-Based Strategy": 8,
+      "Turn-Based Tactics": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

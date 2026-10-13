@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:57.893517+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 498450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Richard Haraším",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "499",
+    "languages": "English, Czech",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "A Week of Circus Terror",
+    "negative": 14,
+    "owners": "0 .. 20,000",
+    "positive": 17,
+    "price": "499",
+    "publisher": "Richard Haraším",
+    "score_rank": "",
+    "tags": {
+      "Horror": 10,
+      "Indie": 29,
+      "Point & Click": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

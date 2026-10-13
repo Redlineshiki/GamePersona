@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:06:46.409767+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 538990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Aatlantis Code",
+    "discount": "0",
+    "genre": "Indie, Simulation, Strategy",
+    "initialprice": "799",
+    "languages": "English, French, German, Spanish - Spain, Spanish - Latin America",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "SugarMill",
+    "negative": 40,
+    "owners": "0 .. 20,000",
+    "positive": 37,
+    "price": "799",
+    "publisher": "Aatlantis Code",
+    "score_rank": "",
+    "tags": {
+      "City Builder": 29,
+      "Colony Sim": 11,
+      "Indie": 44,
+      "Pirates": 10,
+      "Sandbox": 12,
+      "Simulation": 45,
+      "Singleplayer": 13,
+      "Strategy": 44
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:39.512232+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 658400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sports Mogul, Inc.",
+    "discount": "0",
+    "genre": "Casual, Simulation, Sports, Strategy",
+    "initialprice": "2999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Baseball Mogul 2017",
+    "negative": 2,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "2999",
+    "publisher": "Sports Mogul, Inc.",
+    "score_rank": "",
+    "tags": {
+      "Baseball": 41,
+      "Casual": 31,
+      "Management": 11,
+      "Simulation": 33,
+      "Sports": 34,
+      "Strategy": 34
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

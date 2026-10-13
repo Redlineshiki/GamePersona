@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:49.342029+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 305820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "ApathyWorks, LLC",
+    "discount": "0",
+    "genre": "Casual, Indie",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cute Things Dying Violently",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 36,
+    "price": "299",
+    "publisher": "ApathyWorks, LLC",
+    "score_rank": "",
+    "tags": {
+      "Blood": 24,
+      "Casual": 33,
+      "Comedy": 25,
+      "Cute": 25,
+      "Dark Comedy": 22,
+      "Dark Humor": 22,
+      "Gore": 5,
+      "Great Soundtrack": 21,
+      "Indie": 43,
+      "Physics": 23,
+      "Platformer": 24,
+      "Puzzle": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

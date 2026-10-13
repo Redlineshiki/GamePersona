@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:00:01.072672+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 388140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Fury Software",
+    "discount": "75",
+    "genre": "Simulation, Strategy",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Strategic Command Classic: WWI",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 25,
+    "price": "499",
+    "publisher": "Matrix Games",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 43,
+      "Strategy": 42,
+      "World War I": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

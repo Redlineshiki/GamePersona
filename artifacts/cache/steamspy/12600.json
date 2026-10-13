@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:44:46.635942+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 12600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Merscom, Babylon",
+    "discount": "70",
+    "genre": "Racing",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Midnight Outlaw: 6 Hours to SunUp",
+    "negative": 34,
+    "owners": "0 .. 20,000",
+    "positive": 14,
+    "price": "299",
+    "publisher": "Cosmi Valusoft",
+    "score_rank": "",
+    "tags": {
+      "Racing": 47
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

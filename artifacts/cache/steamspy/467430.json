@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:00.096066+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 467430,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Aliasworlds, Amegami, Rionix, Melesta",
+    "discount": "0",
+    "genre": "Casual",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Polish, Portuguese - Brazil, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Farming 6-in-1 bundle",
+    "negative": 19,
+    "owners": "20,000 .. 50,000",
+    "positive": 54,
+    "price": "0",
+    "publisher": "ESDigital Games",
+    "score_rank": "",
+    "tags": {
+      "Agriculture": 5,
+      "Casual": 32,
+      "Time Management": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:48.966733+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 700200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Dejobaan Games, LLC",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "20 Minute Metropolis - The Action City Builder",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 32,
+    "price": "299",
+    "publisher": "Dejobaan Games, LLC, Humble Bundle",
+    "score_rank": "",
+    "tags": {
+      "Base-Building": 68,
+      "Building": 75,
+      "Casual": 25,
+      "City Builder": 81,
+      "Economy": 43,
+      "Management": 72,
+      "Post-apocalyptic": 40,
+      "RTS": 27,
+      "Resource Management": 47,
+      "Sci-fi": 35,
+      "Simulation": 55,
+      "Singleplayer": 29,
+      "Strategy": 65,
+      "Voxel": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

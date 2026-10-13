@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:28.986944+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 684230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Diel Mormac Games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Madcap Castle",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 21,
+    "price": "299",
+    "publisher": "IDJ Games",
+    "score_rank": "",
+    "tags": {
+      "GameMaker": 11,
+      "Indie": 36,
+      "Puzzle": 6,
+      "Puzzle-Platformer": 8
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -4,7 +4,7 @@
 
 ## 安装与测试
 
-在项目根目录使用 Python 3.11 或以上版本（本机已验证 Python 3.14）：
+在项目根目录使用 Python 3.11 或以上版本（本轮已验证 Python 3.12.14）：
 
 ```powershell
 python -m venv .venv
@@ -14,11 +14,11 @@ python -m pytest
 python -m gamepersona --help
 ```
 
-依赖全部固定版本；执行模块不需要安装项目本身。在本环境中虚拟环境的 ensurepip 受临时目录权限影响，已使用系统 pip 的 `--python .venv` 功能安装锁定依赖；已有 `.venv\Scripts\python.exe` 可直接运行。
+依赖全部固定版本；执行模块不需要安装项目本身。本轮已重建 `.venv` 并安装锁定依赖，已有 `.venv\Scripts\python.exe` 可直接运行。系统 PATH 没有 Python 时，可使用 Codex 提供的 Python 运行时创建环境，再用该运行时的 `-m pip --python .venv install -r requirements.lock` 安装依赖。
 
 ## 运行顺序
 
-以下快照名称是示例。使用已存在的快照标识不会重新导入或刷新来源；更换数据、证据或配置时使用新标识。命令没有 Kaggle 数据下载功能，请等待现有下载完成。
+以下快照名称是示例。使用已存在的快照标识不会重新导入或刷新来源；更换数据、证据或配置时使用新标识。命令没有 Kaggle 数据下载功能。本轮 `data_source/archive.zip` 已下载完成并通过全量导入；真实快照及验收结果见 [实施状态](docs/STAGE1_STATUS.md)，字段证据见 [核查记录](docs/STAGE1_EVIDENCE_RESEARCH.md)。
 
 ### 1. 本地导入
 
@@ -96,13 +96,21 @@ python -m gamepersona audit --report audit-01 --kaggle kaggle-verified-01 --stea
 python -m gamepersona replay --report audit-01
 ```
 
+完成标签采集后，额外按热门、分层样本及账号集合检查覆盖和缺口：
+
+```powershell
+python scripts/analyze_stage1_sample.py --selection selection-01 --steamspy steamspy-01 --snapshot sample-analysis-01
+```
+
+该分析固定输入快照并保存代码、JSON 和中文报告，分别展示每组分母及缺口能否从 Kaggle 获得标签证据。账号和基础集合有交集，不把各组数量相加，也不将选样覆盖外推为全量游戏覆盖。Kaggle 标签仅作为补充证据候选，不能直接冒充同时间的 SteamSpy 票数标签。
+
 未准备好账号、标签或来源快照时，可以只传 `--kaggle` 生成明确缺少实测项的离线报告。报告包含中文 Markdown、机器可读指标及内容哈希。重算不会创建 HTTP 客户端；校验原始和派生产物后重新计算指标，并要求与固定报告一致。
 
 退出码：`0` 操作成功；`1` 输入或执行错误；`2` 读取/采集尚未完成，或报告的真实阶段验收未通过；`130` 手动中断。报告退出码 `2` 时仍会保存统计和阻塞原因。
 
 ## 保存与删除
 
-默认输出位于 `artifacts/snapshots/<快照标识>`；账号响应、规范化记录、原始文件、报告及全局 SteamSpy 缓存均在本机保存。`artifacts/`、`data_source/`、`.env`、虚拟环境和测试缓存已列入 `.gitignore`。根目录没有 Git 初始化时，忽略文件仍用于后续接入版本控制。
+默认输出位于 `artifacts/snapshots/<快照标识>`；账号响应、规范化记录、原始文件、报告及全局 SteamSpy 缓存均在本机保存。`artifacts/cache/steamspy/` 纳入版本控制，保存本轮 3064 款游戏的公开 API 缓存（约 3.40 MB），每条包含响应及采集时间；采集器仍只复用 24 小时内的成功缓存。其余 `artifacts/` 产物、`data_source/`、`.env`、虚拟环境和测试缓存继续由 `.gitignore` 排除。
 
 本地数据保留到你主动删除。删除个人记录时，先查看其 Steam 快照及引用该快照的候选、标签和报告 manifest，删除这些目录；原始 Kaggle 文件和来源文档不属于该个人账号记录。只在确认绝对路径位于本项目 `artifacts` 内后，使用 PowerShell `Remove-Item -LiteralPath <明确快照目录> -Recurse`。需要彻底删除全部本地产物时，明确检查后删除整个 `artifacts`。已导出到其他位置的文件需单独删除。
 

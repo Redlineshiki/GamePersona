@@ -1,0 +1,34 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:06:30.666621+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 530370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Midipixel",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "999",
+    "languages": "English, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Warlock's Tower",
+    "negative": 1,
+    "owners": "0 .. 20,000",
+    "positive": 50,
+    "price": "999",
+    "publisher": "Whippering",
+    "score_rank": "",
+    "tags": {
+      "Difficult": 10,
+      "Indie": 33,
+      "Pixel Graphics": 6,
+      "Puzzle": 15,
+      "Retro": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

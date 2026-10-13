@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:40.969220+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 556480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 16,
+    "developer": "Big Ant Studios",
+    "discount": "0",
+    "genre": "Sports",
+    "initialprice": "0",
+    "languages": "English, French",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Rugby League Live 4",
+    "negative": 55,
+    "owners": "20,000 .. 50,000",
+    "positive": 185,
+    "price": "0",
+    "publisher": "Tru Blu Games",
+    "score_rank": "",
+    "tags": {
+      "Rugby": 31,
+      "Sports": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:12.641577+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 503110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Brave Bunny",
+    "discount": "0",
+    "genre": "",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Curvatron Soundtrack",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "0",
+    "publisher": "Brave Bunny",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

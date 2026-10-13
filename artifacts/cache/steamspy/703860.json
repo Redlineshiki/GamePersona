@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:57.315711+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 703860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 23,
+    "developer": "Codemasters",
+    "discount": "0",
+    "genre": "Action, Casual, Racing, Simulation, Sports",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "GRID",
+    "negative": 2009,
+    "owners": "200,000 .. 500,000",
+    "positive": 4538,
+    "price": "0",
+    "publisher": "Codemasters, Electronic Arts",
+    "score_rank": "",
+    "tags": {
+      "Action": 155,
+      "Arcade": 37,
+      "Automobile Sim": 36,
+      "Casual": 141,
+      "Controller": 9,
+      "Driving": 21,
+      "Multiplayer": 68,
+      "Open World": 16,
+      "Racing": 243,
+      "Simulation": 169,
+      "Singleplayer": 17,
+      "Split Screen": 19,
+      "Sports": 177,
+      "VR": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:38.484530+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1118380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "Bot Studio for Discord",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Bot Studio for Discord",
+    "negative": 105,
+    "owners": "50,000 .. 100,000",
+    "positive": 389,
+    "price": "999",
+    "publisher": "DBS Dev",
+    "score_rank": "",
+    "tags": {
+      "Coding": 13,
+      "Design & Illustration": 12,
+      "Game Development": 12,
+      "Gaming": 12,
+      "Mod": 12,
+      "Programming": 18,
+      "Robots": 26,
+      "Software": 26,
+      "Software Training": 12,
+      "Utilities": 46,
+      "Web Publishing": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

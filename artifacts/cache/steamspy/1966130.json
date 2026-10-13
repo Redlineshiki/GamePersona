@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:35:52.147720+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1966130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 19,
+    "developer": "Fury Software",
+    "discount": "60",
+    "genre": "Strategy",
+    "initialprice": "3999",
+    "languages": "English, Spanish - Spain, French, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Strategic Command: American Civil War",
+    "negative": 31,
+    "owners": "0 .. 20,000",
+    "positive": 169,
+    "price": "1599",
+    "publisher": "Matrix Games",
+    "score_rank": "",
+    "tags": {
+      "Historical": 36,
+      "Multiplayer": 29,
+      "Singleplayer": 22,
+      "Strategy": 65,
+      "Turn-Based Strategy": 41,
+      "Wargame": 38
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

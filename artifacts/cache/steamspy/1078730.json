@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:29.149394+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1078730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 15,
+    "developer": "Soccer Manager Ltd",
+    "discount": "0",
+    "genre": "Free To Play, Sports",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Portuguese - Portugal, Russian, Turkish, Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Soccer Manager 2020",
+    "negative": 371,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 1187,
+    "price": "0",
+    "publisher": "Soccer Manager Ltd",
+    "score_rank": "",
+    "tags": {
+      "Football (Soccer)": 48,
+      "Free to Play": 172,
+      "Management": 43,
+      "Simulation": 27,
+      "Singleplayer": 28,
+      "Sports": 166,
+      "Tactical": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

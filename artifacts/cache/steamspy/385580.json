@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:45.853782+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 385580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Candlelight Studios",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "399",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Empty Inn",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 3,
+    "price": "399",
+    "publisher": "Candlelight Studios",
+    "score_rank": "",
+    "tags": {
+      "Indie": 22,
+      "Pixel Graphics": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:04.642060+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 501080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 25,
+    "developer": "Misc Games",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "2499",
+    "languages": "English, French, German, Spanish - Spain, Czech, Japanese, Norwegian, Polish, Russian, Italian, Danish, Finnish, Portuguese - Brazil, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Hungarian, Korean",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Fishing: Barents Sea",
+    "negative": 513,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 2043,
+    "price": "2499",
+    "publisher": "Misc Games",
+    "score_rank": "",
+    "tags": {
+      "Co-op": 5,
+      "Fishing": 88,
+      "Multiplayer": 30,
+      "Naval": 36,
+      "Open World": 85,
+      "Realistic": 13,
+      "Sailing": 12,
+      "Simulation": 109,
+      "Singleplayer": 71
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

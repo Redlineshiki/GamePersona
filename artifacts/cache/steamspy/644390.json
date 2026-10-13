@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:15.305984+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 644390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 35,
+    "developer": "Playdek, Inc.",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "D&D Lords of Waterdeep",
+    "negative": 96,
+    "owners": "100,000 .. 200,000",
+    "positive": 1451,
+    "price": "999",
+    "publisher": "Playdek, Inc.",
+    "score_rank": "",
+    "tags": {
+      "Asynchronous Multiplayer": 7,
+      "Board Game": 39,
+      "Dungeons & Dragons": 29,
+      "Fantasy": 16,
+      "Multiplayer": 15,
+      "Strategy": 40,
+      "Tabletop": 33,
+      "Turn-Based": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

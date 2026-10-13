@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:43.729593+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 384300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 98,
+    "developer": "Smorb Software",
+    "discount": "0",
+    "genre": "Design & Illustration, Utilities",
+    "initialprice": "1699",
+    "languages": "English, French, German, Polish, Russian, Simplified Chinese, Traditional Chinese, Korean, Italian, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Norwegian, Portuguese - Portugal, Portuguese - Brazil, Romanian, Swedish, Thai, Turkish, Ukrainian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "CPUCores :: Maximize Your FPS",
+    "negative": 3404,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 8507,
+    "price": "1699",
+    "publisher": "Smorb Software",
+    "score_rank": "",
+    "tags": {
+      "Action": 6,
+      "Design & Illustration": 14,
+      "FPS": 22,
+      "Gaming": 28,
+      "Hardware": 27,
+      "Indie": 11,
+      "Mod": 18,
+      "Mouse only": 10,
+      "Singleplayer": 17,
+      "Software": 53,
+      "Utilities": 96
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

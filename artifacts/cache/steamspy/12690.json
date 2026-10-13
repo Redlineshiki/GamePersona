@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:44:47.705710+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 12690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "SCS Software",
+    "discount": "0",
+    "genre": "Simulation, Sports",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hunting Unlimited 2010",
+    "negative": 55,
+    "owners": "50,000 .. 100,000",
+    "positive": 277,
+    "price": "999",
+    "publisher": "Ziggurat",
+    "score_rank": "",
+    "tags": {
+      "America": 13,
+      "Hunting": 33,
+      "Simulation": 56,
+      "Sports": 40
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

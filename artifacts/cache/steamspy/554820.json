@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:33.648300+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 554820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "NCH Software",
+    "discount": "0",
+    "genre": "Video Production",
+    "initialprice": "9999",
+    "languages": "English, Simplified Chinese, French, German, Japanese, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "VideoPad Video Editor",
+    "negative": 21,
+    "owners": "0 .. 20,000",
+    "positive": 50,
+    "price": "9999",
+    "publisher": "NCH Software",
+    "score_rank": "",
+    "tags": {
+      "Software": 10,
+      "Utilities": 12,
+      "Video Production": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:12.151770+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1248650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "End Game Interactive, Inc",
+    "discount": "0",
+    "genre": "Free To Play, Massively Multiplayer, Simulation, Strategy, Early Access",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Fate Arena (Alpha)",
+    "negative": 84,
+    "owners": "20,000 .. 50,000",
+    "positive": 331,
+    "price": "0",
+    "publisher": "End Game Interactive, Inc",
+    "score_rank": "",
+    "tags": {
+      "Auto Battler": 25,
+      "Early Access": 35,
+      "Free to Play": 100,
+      "Massively Multiplayer": 93,
+      "Simulation": 95,
+      "Strategy": 97
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

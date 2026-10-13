@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:24:02.625276+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1135060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sokpop Collective",
+    "discount": "50",
+    "genre": "Casual, Indie, Massively Multiplayer, Strategy",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "King of the Sandcastle",
+    "negative": 11,
+    "owners": "0 .. 20,000",
+    "positive": 14,
+    "price": "149",
+    "publisher": "Sokpop Collective",
+    "score_rank": "",
+    "tags": {
+      "Asynchronous Multiplayer": 13,
+      "Casual": 62,
+      "Dungeon Crawler": 11,
+      "Indie": 61,
+      "Massively Multiplayer": 60,
+      "Strategy": 61,
+      "Turn-Based Combat": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

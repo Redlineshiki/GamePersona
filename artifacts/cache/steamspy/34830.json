@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:45:49.683149+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 34830,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 18,
+    "developer": "City Interactive",
+    "discount": "85",
+    "genre": "Action",
+    "initialprice": "799",
+    "languages": "English, French, German, Italian, Polish, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Sniper: Ghost Warrior",
+    "negative": 3381,
+    "owners": "1,000,000 .. 2,000,000",
+    "positive": 4744,
+    "price": "119",
+    "publisher": "CI Games",
+    "score_rank": "",
+    "tags": {
+      "Action": 168,
+      "Adventure": 33,
+      "Bullet Time": 41,
+      "FPS": 81,
+      "First-Person": 50,
+      "Military": 30,
+      "Multiplayer": 63,
+      "Shooter": 54,
+      "Simulation": 10,
+      "Singleplayer": 69,
+      "Sniper": 122,
+      "Stealth": 62,
+      "Tactical": 12,
+      "War": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

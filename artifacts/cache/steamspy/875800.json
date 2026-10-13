@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:36.969991+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 875800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "inXile Entertainment, Krome Studios",
+    "discount": "80",
+    "genre": "RPG, Strategy",
+    "initialprice": "1499",
+    "languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Wasteland Remastered",
+    "negative": 83,
+    "owners": "20,000 .. 50,000",
+    "positive": 193,
+    "price": "299",
+    "publisher": "inXile Entertainment",
+    "score_rank": "",
+    "tags": {
+      "CRPG": 14,
+      "Cult Classic": 15,
+      "Post-apocalyptic": 30,
+      "RPG": 67,
+      "Retro": 17,
+      "Sci-fi": 6,
+      "Singleplayer": 7,
+      "Strategy": 61,
+      "Tactical RPG": 19,
+      "Violent": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:21:32.341896+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1038650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Ilving Studio",
+    "discount": "70",
+    "genre": "Adventure, Casual, Indie",
+    "initialprice": "699",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Love Alchemy: A Heart In Winter",
+    "negative": 30,
+    "owners": "0 .. 20,000",
+    "positive": 31,
+    "price": "209",
+    "publisher": "Alawar Casual",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 10,
+      "Adventure": 41,
+      "Casual": 41,
+      "Hidden Object": 16,
+      "Indie": 41,
+      "Point & Click": 10,
+      "Singleplayer": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

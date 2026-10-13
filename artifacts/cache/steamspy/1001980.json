@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:41.250431+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1001980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Artists Entertainment",
+    "discount": "0",
+    "genre": "Indie, Simulation, Strategy",
+    "initialprice": "1299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Archeo: Shinar",
+    "negative": 27,
+    "owners": "20,000 .. 50,000",
+    "positive": 85,
+    "price": "1299",
+    "publisher": "Artists Entertainment",
+    "score_rank": "",
+    "tags": {
+      "City Builder": 5,
+      "Dark Humor": 11,
+      "Economy": 15,
+      "Great Soundtrack": 11,
+      "Indie": 33,
+      "Local Multiplayer": 12,
+      "Management": 14,
+      "Real-Time": 11,
+      "Simulation": 35,
+      "Singleplayer": 12,
+      "Strategy": 35,
+      "Time Management": 9,
+      "Turn-Based Strategy": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

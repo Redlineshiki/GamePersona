@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:42.275077+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 460230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Strategic Designs Ltd.",
+    "discount": "0",
+    "genre": "Racing, Simulation, Sports, Strategy",
+    "initialprice": "3499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Starters Orders 6 Horse Racing",
+    "negative": 22,
+    "owners": "0 .. 20,000",
+    "positive": 83,
+    "price": "3499",
+    "publisher": "Strategic Designs Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Horses": 10,
+      "Management": 7,
+      "Racing": 24,
+      "Simulation": 28,
+      "Sports": 28,
+      "Strategy": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

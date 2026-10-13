@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:50:35.987588+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 237350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Mode 7",
+    "discount": "90",
+    "genre": "Indie, Sports, Strategy",
+    "initialprice": "2499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Frozen Cortex",
+    "negative": 78,
+    "owners": "20,000 .. 50,000",
+    "positive": 193,
+    "price": "249",
+    "publisher": "Mode 7",
+    "score_rank": "",
+    "tags": {
+      "Great Soundtrack": 23,
+      "Indie": 45,
+      "Multiplayer": 27,
+      "Robots": 7,
+      "Sci-fi": 7,
+      "Singleplayer": 22,
+      "Sports": 56,
+      "Strategy": 53,
+      "Tactical": 50,
+      "Turn-Based": 41,
+      "Turn-Based Strategy": 41,
+      "Turn-Based Tactics": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:20.755229+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 347350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Double Fine Productions",
+    "discount": "0",
+    "genre": "",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Making of Grim Fandango Remastered",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "0",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Documentary": 26,
+      "Episodic": 26,
+      "Game Development": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

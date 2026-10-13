@@ -1,0 +1,34 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:58:13.318366+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 361380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Dark Fox",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "499",
+    "languages": "English, Russian, Czech, Polish, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "World War I",
+    "negative": 69,
+    "owners": "20,000 .. 50,000",
+    "positive": 186,
+    "price": "499",
+    "publisher": "Fulqrum Publishing",
+    "score_rank": "",
+    "tags": {
+      "Historical": 6,
+      "Isometric": 6,
+      "RTS": 22,
+      "Strategy": 56,
+      "World War I": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:18.353063+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 716900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Future Lighthouse",
+    "discount": "0",
+    "genre": "Adventure",
+    "initialprice": "0",
+    "languages": "English, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "El Ministerio del Tiempo VR: Salva el tiempo",
+    "negative": 6,
+    "owners": "20,000 .. 50,000",
+    "positive": 11,
+    "price": "0",
+    "publisher": "RTVE",
+    "score_rank": "",
+    "tags": {
+      "Adventure": 21,
+      "VR": 7
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

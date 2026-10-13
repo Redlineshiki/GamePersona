@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:21.105186+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 908520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 155,
+    "developer": "SBSoftLab",
+    "discount": "0",
+    "genre": "Indie, Utilities",
+    "initialprice": "399",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "fpsVR",
+    "negative": 54,
+    "owners": "200,000 .. 500,000",
+    "positive": 2144,
+    "price": "399",
+    "publisher": "SBSoftLab",
+    "score_rank": "",
+    "tags": {
+      "Benchmark": 14,
+      "FPS": 10,
+      "Hardware": 13,
+      "Indie": 280,
+      "Software": 20,
+      "Utilities": 45,
+      "VR": 133
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

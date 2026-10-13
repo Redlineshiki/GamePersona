@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:01.982645+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 562250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Autarca",
+    "discount": "75",
+    "genre": "Indie, RPG, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Beastmancer",
+    "negative": 20,
+    "owners": "0 .. 20,000",
+    "positive": 65,
+    "price": "249",
+    "publisher": "Autarca",
+    "score_rank": "",
+    "tags": {
+      "Creature Collector": 20,
+      "Fantasy": 12,
+      "Indie": 24,
+      "RPG": 31,
+      "Singleplayer": 13,
+      "Strategy": 22,
+      "Tactical": 12,
+      "Tactical RPG": 13,
+      "Turn-Based": 17,
+      "Turn-Based Combat": 14,
+      "Turn-Based Tactics": 14
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:34:32.383929+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1793500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "Jetblack Software",
+    "discount": "0",
+    "genre": "Casual, Indie, Simulation, Animation & Modeling, Design & Illustration, Utilities",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Christmas Live Wallpaper",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 33,
+    "price": "0",
+    "publisher": "Jetblack Software",
+    "score_rank": "",
+    "tags": {
+      "Ambient": 13,
+      "Animation & Modeling": 34,
+      "Atmospheric": 12,
+      "Beautiful": 13,
+      "Casual": 42,
+      "Colorful": 12,
+      "Design & Illustration": 34,
+      "Indie": 42,
+      "Relaxing": 12,
+      "Simulation": 42,
+      "Snow": 12,
+      "Software": 14,
+      "Utilities": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

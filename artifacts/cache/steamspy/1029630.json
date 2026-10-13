@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:21:16.571906+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1029630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Eversim",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "4999",
+    "languages": "English, French, German, Italian, Spanish - Spain, Simplified Chinese, Japanese, Portuguese - Brazil, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Power & Revolution 2019 Edition",
+    "negative": 494,
+    "owners": "50,000 .. 100,000",
+    "positive": 737,
+    "price": "4999",
+    "publisher": "Eversim",
+    "score_rank": "",
+    "tags": {
+      "Economy": 13,
+      "Grand Strategy": 5,
+      "Management": 11,
+      "Political": 7,
+      "Political Sim": 40,
+      "Politics": 20,
+      "Simulation": 45,
+      "Strategy": 47
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

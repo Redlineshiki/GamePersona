@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:44.322497+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 46760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Totem Games",
+    "discount": "80",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ironclads: Schleswig War 1864",
+    "negative": 20,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "199",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "Naval": 5,
+      "Strategy": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:37.426329+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 657280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "CINEMAX GAMES",
+    "discount": "80",
+    "genre": "Audio Production, Utilities, Early Access",
+    "initialprice": "2999",
+    "languages": "English, Czech, Russian, Ukrainian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Rytmik Studio",
+    "negative": 51,
+    "owners": "0 .. 20,000",
+    "positive": 283,
+    "price": "599",
+    "publisher": "CINEMAX GAMES",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 39,
+      "Early Access": 36,
+      "Game Development": 13,
+      "Indie": 12,
+      "Music": 19,
+      "Software": 13,
+      "Utilities": 38
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

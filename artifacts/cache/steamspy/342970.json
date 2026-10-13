@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:08.069034+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 342970,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Patagoniart",
+    "discount": "75",
+    "genre": "Casual, Indie, Simulation, Strategy",
+    "initialprice": "399",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Pixel Survivors",
+    "negative": 103,
+    "owners": "50,000 .. 100,000",
+    "positive": 188,
+    "price": "99",
+    "publisher": "Patagoniart",
+    "score_rank": "",
+    "tags": {
+      "Cartoony": 11,
+      "Casual": 27,
+      "Fantasy": 12,
+      "Indie": 24,
+      "Management": 13,
+      "Medieval": 11,
+      "Pirates": 10,
+      "Pixel Graphics": 12,
+      "Resource Management": 14,
+      "Simulation": 49,
+      "Singleplayer": 12,
+      "Strategy": 27,
+      "War": 11,
+      "Zombies": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:47:28.537304+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 71390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "SEGA",
+    "discount": "0",
+    "genre": "Sports",
+    "initialprice": "0",
+    "languages": "English, French, German, Italian, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Virtua Tennis 4",
+    "negative": 95,
+    "owners": "20,000 .. 50,000",
+    "positive": 246,
+    "price": "0",
+    "publisher": "SEGA",
+    "score_rank": "",
+    "tags": {
+      "Local Multiplayer": 16,
+      "Sports": 54,
+      "Tennis": 42
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

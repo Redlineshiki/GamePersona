@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:06.663947+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 745370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Artalasky",
+    "discount": "0",
+    "genre": "Adventure, Indie",
+    "initialprice": "99",
+    "languages": "English, Simplified Chinese, Russian, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Purple Heart",
+    "negative": 64,
+    "owners": "20,000 .. 50,000",
+    "positive": 64,
+    "price": "99",
+    "publisher": "Artalasky",
+    "score_rank": "",
+    "tags": {
+      "Adventure": 33,
+      "Casual": 11,
+      "Difficult": 11,
+      "Indie": 34,
+      "Pixel Graphics": 13,
+      "Platformer": 14,
+      "Puzzle": 13,
+      "Retro": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:26.571025+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 834410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Gametroleum",
+    "discount": "0",
+    "genre": "Education, Utilities",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hacker News Reader",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 18,
+    "price": "0",
+    "publisher": "Gametroleum",
+    "score_rank": "",
+    "tags": {
+      "Education": 22,
+      "Utilities": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

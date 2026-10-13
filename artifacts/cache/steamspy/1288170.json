@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:22.560728+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1288170,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Nina Demirjian, Sean Park, Sean Porio",
+    "discount": "0",
+    "genre": "Indie, Strategy",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Red Planet Farming",
+    "negative": 32,
+    "owners": "100,000 .. 200,000",
+    "positive": 800,
+    "price": "0",
+    "publisher": "Nina Demirjian",
+    "score_rank": "",
+    "tags": {
+      "Farming Sim": 23,
+      "Free to Play": 28,
+      "Indie": 65,
+      "Management": 10,
+      "Mars": 22,
+      "Puzzle": 9,
+      "Sci-fi": 39,
+      "Singleplayer": 22,
+      "Strategy": 67
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

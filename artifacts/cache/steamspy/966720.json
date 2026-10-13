@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:19:44.515059+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 966720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Yeah Us!, Warp Digital Entertainment",
+    "discount": "90",
+    "genre": "Sports",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Pumped BMX Pro",
+    "negative": 47,
+    "owners": "20,000 .. 50,000",
+    "positive": 103,
+    "price": "149",
+    "publisher": "Curve Games",
+    "score_rank": "",
+    "tags": {
+      "BMX": 28,
+      "Bikes": 30,
+      "Sports": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

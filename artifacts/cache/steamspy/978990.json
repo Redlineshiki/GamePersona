@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:11.871803+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 978990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "CyberLink",
+    "discount": "0",
+    "genre": "Audio Production, Design & Illustration, Utilities, Video Production",
+    "initialprice": "4999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cyberlink Screen Recorder 4  - Record your games, RPG, car game, shooting gameplay - Game Recording and Streaming Software",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 20,
+    "price": "4999",
+    "publisher": "CyberLink",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 22,
+      "Design & Illustration": 22,
+      "Utilities": 22,
+      "Video Production": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

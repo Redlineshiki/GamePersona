@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:21.727433+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 681500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "WnMStudio",
+    "discount": "0",
+    "genre": "Free To Play",
+    "initialprice": "0",
+    "languages": "English, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Lumber King",
+    "negative": 97,
+    "owners": "20,000 .. 50,000",
+    "positive": 59,
+    "price": "0",
+    "publisher": "WnMStudio",
+    "score_rank": "",
+    "tags": {
+      "Clicker": 9,
+      "Free to Play": 28
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

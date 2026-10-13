@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:32:24.365061+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1576720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Cryptic Comet Games",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Armageddon Empires",
+    "negative": 4,
+    "owners": "20,000 .. 50,000",
+    "positive": 39,
+    "price": "999",
+    "publisher": "Cryptic Comet Games",
+    "score_rank": "",
+    "tags": {
+      "Deckbuilding": 27,
+      "Post-apocalyptic": 33,
+      "Singleplayer": 22,
+      "Strategy": 68,
+      "Top-Down": 35,
+      "Turn-Based Combat": 25,
+      "Turn-Based Strategy": 41,
+      "Wargame": 39
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

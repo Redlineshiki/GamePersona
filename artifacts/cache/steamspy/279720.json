@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:11.325064+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 279720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Primal",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "799",
+    "languages": "English, German, Hungarian, Czech, Polish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The I of the Dragon",
+    "negative": 321,
+    "owners": "2,000,000 .. 5,000,000",
+    "positive": 676,
+    "price": "799",
+    "publisher": "TopWare Interactive",
+    "score_rank": "",
+    "tags": {
+      "Dragons": 35,
+      "Fantasy": 5,
+      "Open World": 6,
+      "RPG": 325,
+      "Simulation": 5,
+      "Singleplayer": 19
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

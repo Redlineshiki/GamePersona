@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:49.959241+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2216360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "PRODUKTIVKELLER Studios",
+    "discount": "80",
+    "genre": "Casual, Indie",
+    "initialprice": "699",
+    "languages": "English, German, French, Italian, Spanish - Spain, Simplified Chinese, Japanese, Korean, Dutch",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Disaster Band",
+    "negative": 113,
+    "owners": "50,000 .. 100,000",
+    "positive": 534,
+    "price": "139",
+    "publisher": "Toplitz Productions, SunDust",
+    "score_rank": "",
+    "tags": {
+      "Cartoon": 58,
+      "Casual": 73,
+      "Comedy": 69,
+      "Controller": 25,
+      "Cute": 55,
+      "Funny": 66,
+      "Indie": 52,
+      "Multiplayer": 36,
+      "Music": 86,
+      "Online Co-Op": 28,
+      "Rhythm": 79,
+      "Singleplayer": 32,
+      "Stylized": 53
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

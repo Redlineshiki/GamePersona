@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:21.372400+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 787980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "Julian Schlüntz",
+    "discount": "0",
+    "genre": "Casual, Indie",
+    "initialprice": "0",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "4D Minesweeper",
+    "negative": 36,
+    "owners": "20,000 .. 50,000",
+    "positive": 533,
+    "price": "0",
+    "publisher": "Julian Schlüntz",
+    "score_rank": "",
+    "tags": {
+      "Casual": 39,
+      "Free to Play": 37,
+      "Hentai": 7,
+      "Horror": 28,
+      "Indie": 42,
+      "Psychological Horror": 79,
+      "Puzzle": 52,
+      "Singleplayer": 46,
+      "Souls-like": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:34:44.906257+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1815370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 25,
+    "developer": "挂机的咸鱼",
+    "discount": "0",
+    "genre": "Casual, Indie, Simulation, Strategy",
+    "initialprice": "199",
+    "languages": "Simplified Chinese, English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "咸鱼的挂机游戏",
+    "negative": 4,
+    "owners": "0 .. 20,000",
+    "positive": 29,
+    "price": "199",
+    "publisher": "挂机的咸鱼",
+    "score_rank": "",
+    "tags": {
+      "Automation": 18,
+      "Casual": 68,
+      "Idler": 11,
+      "Indie": 21,
+      "Relaxing": 25,
+      "Simulation": 20,
+      "Singleplayer": 17,
+      "Strategy": 21,
+      "Turn-Based Combat": 23,
+      "Turn-Based Strategy": 36
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

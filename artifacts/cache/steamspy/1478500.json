@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:31:15.662542+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1478500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "House House",
+    "discount": "20",
+    "genre": "Adventure",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Big Walk",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "1599",
+    "publisher": "Panic",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

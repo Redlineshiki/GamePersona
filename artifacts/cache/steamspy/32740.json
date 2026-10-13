@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:45:39.234834+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 32740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "NovaLogic",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MiG-29 Fulcrum",
+    "negative": 11,
+    "owners": "0 .. 20,000",
+    "positive": 87,
+    "price": "999",
+    "publisher": "NovaLogic, THQ Nordic",
+    "score_rank": "",
+    "tags": {
+      "Flight": 12,
+      "Simulation": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

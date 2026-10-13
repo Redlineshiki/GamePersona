@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:47:55.768743+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 200230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "1C-Avalon",
+    "discount": "0",
+    "genre": "Racing, Simulation",
+    "initialprice": "499",
+    "languages": "English, German, Russian, Italian, Spanish - Spain, French, Polish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Off-Road Drive",
+    "negative": 244,
+    "owners": "50,000 .. 100,000",
+    "positive": 433,
+    "price": "499",
+    "publisher": "Fulqrum Publishing",
+    "score_rank": "",
+    "tags": {
+      "Automobile Sim": 27,
+      "Driving": 6,
+      "Multiplayer": 11,
+      "Offroad": 47,
+      "Racing": 71,
+      "Simulation": 74,
+      "Singleplayer": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

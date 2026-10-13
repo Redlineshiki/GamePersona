@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:34.393437+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 351920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 11,
+    "developer": "Fakt Software",
+    "discount": "90",
+    "genre": "Simulation, Strategy",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Japanese, Korean, Polish, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Crazy Machines 3",
+    "negative": 554,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 9350,
+    "price": "99",
+    "publisher": "Daedalic Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Building": 16,
+      "Casual": 15,
+      "Difficult": 7,
+      "Multiplayer": 19,
+      "Physics": 62,
+      "Puzzle": 64,
+      "Sandbox": 32,
+      "Simulation": 66,
+      "Singleplayer": 27,
+      "Strategy": 61
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

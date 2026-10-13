@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:03.620854+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 705830,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "深圳市云宙多媒体",
+    "discount": "0",
+    "genre": "Video Production",
+    "initialprice": "0",
+    "languages": "English, Not supported, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "万视VR",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 11,
+    "price": "0",
+    "publisher": "深圳市云宙多媒体",
+    "score_rank": "",
+    "tags": {
+      "Video Production": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

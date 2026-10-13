@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:45:41.366126+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 33520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 15,
+    "developer": "PopTop Software, BreakAway Games, Frog City Software",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "699",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Tropico Reloaded",
+    "negative": 111,
+    "owners": "200,000 .. 500,000",
+    "positive": 799,
+    "price": "699",
+    "publisher": "Kalypso Media Digital",
+    "score_rank": "",
+    "tags": {
+      "City Builder": 90,
+      "Classic": 34,
+      "Comedy": 26,
+      "Economy": 14,
+      "Great Soundtrack": 29,
+      "Isometric": 5,
+      "Management": 50,
+      "Pirates": 29,
+      "RTS": 6,
+      "Sandbox": 32,
+      "Simulation": 90,
+      "Singleplayer": 29,
+      "Strategy": 79
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

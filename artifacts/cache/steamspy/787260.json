@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:18.252174+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 787260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Game Kombinat",
+    "discount": "0",
+    "genre": "Casual, Indie",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Universe Balancing Bureau",
+    "negative": 2,
+    "owners": "0 .. 20,000",
+    "positive": 26,
+    "price": "0",
+    "publisher": "Game Kombinat",
+    "score_rank": "",
+    "tags": {
+      "Casual": 32,
+      "Indie": 32,
+      "Puzzle": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:43.531007+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 766110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Future Lighthouse",
+    "discount": "0",
+    "genre": "Video Production",
+    "initialprice": "0",
+    "languages": "English, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Félix VR",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 14,
+    "price": "0",
+    "publisher": "MOVISTAR+",
+    "score_rank": "",
+    "tags": {
+      "VR": 5,
+      "Video Production": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

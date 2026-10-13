@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:02:28.743769+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 433290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "Haemimont Games",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nemesis of the Roman Empire",
+    "negative": 8,
+    "owners": "20,000 .. 50,000",
+    "positive": 88,
+    "price": "999",
+    "publisher": "Haemimont Games",
+    "score_rank": "",
+    "tags": {
+      "RTS": 7,
+      "Rome": 5,
+      "Strategy": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

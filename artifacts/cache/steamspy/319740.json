@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:51.393402+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 319740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Iridium Studios",
+    "discount": "0",
+    "genre": "Indie, Strategy",
+    "initialprice": "1499",
+    "languages": "English, German, Spanish - Spain, French, Italian, Korean, Portuguese - Brazil, Russian, Japanese, Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "There Came an Echo",
+    "negative": 100,
+    "owners": "20,000 .. 50,000",
+    "positive": 279,
+    "price": "1499",
+    "publisher": "Iridium Studios",
+    "score_rank": "",
+    "tags": {
+      "Cyberpunk": 18,
+      "Great Soundtrack": 13,
+      "Indie": 39,
+      "Isometric": 12,
+      "RTS": 20,
+      "Real Time Tactics": 5,
+      "Real-Time": 12,
+      "Sci-fi": 32,
+      "Singleplayer": 26,
+      "Story Rich": 7,
+      "Strategy": 50,
+      "Tactical": 12,
+      "Voice Control": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

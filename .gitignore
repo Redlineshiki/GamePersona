@@ -3,7 +3,10 @@
 __pycache__/
 .pytest_cache/
 *.egg-info/
-artifacts/
+artifacts/*
+!artifacts/cache/
+artifacts/cache/*
+!artifacts/cache/steamspy/
 data_source/
 .env
 .env.*

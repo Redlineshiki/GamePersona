@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:17.706246+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 281580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Third Wire Productions",
+    "discount": "80",
+    "genre": "Simulation",
+    "initialprice": "899",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Wings Over Europe",
+    "negative": 54,
+    "owners": "20,000 .. 50,000",
+    "positive": 66,
+    "price": "179",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "Cold War": 7,
+      "Flight": 11,
+      "Simulation": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

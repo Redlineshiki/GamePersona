@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:11.160191+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1098210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Axis Games",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Axis Football 2019",
+    "negative": 36,
+    "owners": "0 .. 20,000",
+    "positive": 82,
+    "price": "999",
+    "publisher": "Axis Games",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 10,
+      "Football (American)": 12,
+      "Great Soundtrack": 10,
+      "Indie": 41,
+      "Local Multiplayer": 10,
+      "Management": 12,
+      "Simulation": 43,
+      "Singleplayer": 10,
+      "Sports": 43,
+      "Strategy": 29,
+      "Tactical": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

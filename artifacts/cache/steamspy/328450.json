@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:56:18.651407+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 328450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "Cyberlore Studios, Inc., Accolade",
+    "discount": "85",
+    "genre": "Strategy",
+    "initialprice": "699",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Deadlock II: Shrine Wars",
+    "negative": 22,
+    "owners": "20,000 .. 50,000",
+    "positive": 48,
+    "price": "104",
+    "publisher": "Atari, Nightdive Studios",
+    "score_rank": "",
+    "tags": {
+      "Classic": 11,
+      "Retro": 7,
+      "Strategy": 28,
+      "Turn-Based": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

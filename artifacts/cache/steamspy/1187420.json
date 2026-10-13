@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:31.355317+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1187420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "HorseGames",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "199",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hasfax",
+    "negative": 34,
+    "owners": "0 .. 20,000",
+    "positive": 25,
+    "price": "199",
+    "publisher": "HorseGames",
+    "score_rank": "",
+    "tags": {
+      "Fast-Paced": 11,
+      "First-Person": 12,
+      "Gore": 21,
+      "Great Soundtrack": 11,
+      "Hidden Object": 10,
+      "Horror": 14,
+      "Indie": 81,
+      "Short": 11,
+      "Soundtrack": 11,
+      "Story Rich": 11,
+      "Violent": 21,
+      "Walking Simulator": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

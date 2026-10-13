@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:41.351120+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 513690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Three Fields Entertainment",
+    "discount": "0",
+    "genre": "Indie, Racing",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Danger Zone 2",
+    "negative": 40,
+    "owners": "0 .. 20,000",
+    "positive": 54,
+    "price": "1999",
+    "publisher": "Three Fields Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Destruction": 9,
+      "Indie": 35,
+      "Racing": 36
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

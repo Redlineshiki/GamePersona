@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:35.877195+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 491670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "OrangeGames",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Stratego - Single Player",
+    "negative": 11,
+    "owners": "20,000 .. 50,000",
+    "positive": 55,
+    "price": "0",
+    "publisher": "OrangeGames, YoudaGames",
+    "score_rank": "",
+    "tags": {
+      "Board Game": 6,
+      "Singleplayer": 9,
+      "Strategy": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

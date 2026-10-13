@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:29:27.704582+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1353680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "炎黄工作室",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "699",
+    "languages": "Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "三国吕布传说(Legend of Lv Bu of the Three Kingdoms)",
+    "negative": 17,
+    "owners": "0 .. 20,000",
+    "positive": 55,
+    "price": "699",
+    "publisher": "炎黄工作室",
+    "score_rank": "",
+    "tags": {
+      "Chess": 27,
+      "RPG": 35,
+      "Simulation": 63,
+      "Strategy": 57,
+      "Strategy RPG": 23,
+      "Turn-Based Strategy": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

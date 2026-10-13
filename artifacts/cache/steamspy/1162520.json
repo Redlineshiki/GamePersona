@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:24:52.338137+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1162520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 255,
+    "developer": "Softstar Technology (Beijing) Co.,Ltd",
+    "discount": "0",
+    "genre": "Casual, Strategy",
+    "initialprice": "1399",
+    "languages": "English, Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Richman10",
+    "negative": 6871,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 7451,
+    "price": "1399",
+    "publisher": "SOFTSTAR ENTERTAINMENT",
+    "score_rank": "",
+    "tags": {
+      "Anime": 9,
+      "Board Game": 38,
+      "Casual": 83,
+      "Co-op": 6,
+      "Cute": 9,
+      "Local Multiplayer": 43,
+      "Multiplayer": 74,
+      "Strategy": 60,
+      "Tabletop": 68,
+      "Turn-Based": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:21.280825+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 828800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Artipic AB",
+    "discount": "0",
+    "genre": "Design & Illustration, Photo Editing",
+    "initialprice": "2990",
+    "languages": "English, French, German, Russian, Swedish, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Artipic",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 16,
+    "price": "2990",
+    "publisher": "Artipic AB",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 21,
+      "Photo Editing": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

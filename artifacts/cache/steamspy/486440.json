@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:24.331361+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 486440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sos Sosowski",
+    "discount": "0",
+    "genre": "Indie, Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mosh Pit Simulator",
+    "negative": 21,
+    "owners": "0 .. 20,000",
+    "positive": 68,
+    "price": "999",
+    "publisher": "Sos Sosowski",
+    "score_rank": "",
+    "tags": {
+      "Destruction": 13,
+      "Funny": 14,
+      "Indie": 57,
+      "Nudity": 5,
+      "Physics": 14,
+      "Sandbox": 16,
+      "Simulation": 55,
+      "VR": 11,
+      "Violent": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

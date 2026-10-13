@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:40.909789+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 303830,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Kylotonn Entertainment",
+    "discount": "90",
+    "genre": "Racing",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Motorcycle Club",
+    "negative": 97,
+    "owners": "20,000 .. 50,000",
+    "positive": 44,
+    "price": "99",
+    "publisher": "Nacon, Plug In Digital",
+    "score_rank": "",
+    "tags": {
+      "Bikes": 7,
+      "Racing": 51
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

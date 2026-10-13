@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:02.329323+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 500660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "DigitasLBi",
+    "discount": "0",
+    "genre": "Simulation, Sports",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Limberjack",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 21,
+    "price": "0",
+    "publisher": "Husqvarna",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 22,
+      "Sports": 23,
+      "VR": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

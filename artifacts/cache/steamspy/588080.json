@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:51.349742+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 588080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Recotechnology S.L.",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Numantia",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 23,
+    "price": "0",
+    "publisher": "Recotechnology S.L.",
+    "score_rank": "",
+    "tags": {
+      "Historical": 7,
+      "Strategy": 25,
+      "Turn-Based Strategy": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

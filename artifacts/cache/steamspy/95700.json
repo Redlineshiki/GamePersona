@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:47:31.587820+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 95700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Peter Brinson and Kurosh ValaNejad",
+    "discount": "0",
+    "genre": "Free To Play, Indie",
+    "initialprice": "0",
+    "languages": "English, French, Spanish - Latin America",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Cat and the Coup",
+    "negative": 68,
+    "owners": "100,000 .. 200,000",
+    "positive": 1000,
+    "price": "0",
+    "publisher": "Peter Brinson and Kurosh ValaNejad, USC Games",
+    "score_rank": "",
+    "tags": {
+      "Cats": 44,
+      "Free to Play": 45,
+      "Historical": 27,
+      "Indie": 45,
+      "Puzzle": 20,
+      "Short": 21,
+      "Singleplayer": 16,
+      "Surreal": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

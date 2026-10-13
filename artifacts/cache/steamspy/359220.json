@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:58:00.568262+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 359220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Rainbow Studios",
+    "discount": "75",
+    "genre": "Racing, Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MX vs. ATV Unleashed",
+    "negative": 175,
+    "owners": "20,000 .. 50,000",
+    "positive": 462,
+    "price": "249",
+    "publisher": "THQ Nordic",
+    "score_rank": "",
+    "tags": {
+      "ATV": 28,
+      "Motocross": 32,
+      "Motorbike": 30,
+      "Multiplayer": 12,
+      "Offroad": 10,
+      "Open World": 15,
+      "Racing": 34,
+      "Simulation": 29,
+      "Sports": 8
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:52.740739+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 464170,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "UL",
+    "discount": "70",
+    "genre": "Utilities",
+    "initialprice": "1999",
+    "languages": "English, German, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "VRMark",
+    "negative": 49,
+    "owners": "0 .. 20,000",
+    "positive": 97,
+    "price": "599",
+    "publisher": "UL",
+    "score_rank": "",
+    "tags": {
+      "Benchmark": 18,
+      "Software": 9,
+      "Utilities": 30,
+      "VR": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:53.588439+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 559010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "David Lobser",
+    "discount": "0",
+    "genre": "Free To Play, Simulation",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cosmic Sugar VR",
+    "negative": 27,
+    "owners": "50,000 .. 100,000",
+    "positive": 385,
+    "price": "0",
+    "publisher": "Object Normal",
+    "score_rank": "",
+    "tags": {
+      "Free to Play": 29,
+      "Simulation": 25,
+      "VR": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

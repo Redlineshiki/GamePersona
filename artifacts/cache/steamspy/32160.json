@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:45:34.974311+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 32160,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "MumboJumbo",
+    "discount": "67",
+    "genre": "Casual, Sports",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Zombie Bowl-o-Rama",
+    "negative": 53,
+    "owners": "50,000 .. 100,000",
+    "positive": 383,
+    "price": "329",
+    "publisher": "Accelerate Games",
+    "score_rank": "",
+    "tags": {
+      "Bowling": 824,
+      "Casual": 283,
+      "Funny": 11,
+      "Horror": 5,
+      "Singleplayer": 12,
+      "Sports": 36,
+      "Zombies": 363
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

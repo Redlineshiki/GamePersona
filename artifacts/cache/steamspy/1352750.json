@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:29:26.678357+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1352750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "StudyWellDDU",
+    "discount": "34",
+    "genre": "Utilities",
+    "initialprice": "299",
+    "languages": "Simplified Chinese, English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Comic&Picture Shelf",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 33,
+    "price": "197",
+    "publisher": "StudyWellDDU",
+    "score_rank": "",
+    "tags": {
+      "Comic Book": 11,
+      "Utilities": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:28.381253+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 553410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Rushil Reddy, Christiane Snyder",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Pirate Defense",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 5,
+    "price": "999",
+    "publisher": "Rushil Reddy",
+    "score_rank": "",
+    "tags": {
+      "Strategy": 31,
+      "Tower Defense": 11,
+      "VR": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

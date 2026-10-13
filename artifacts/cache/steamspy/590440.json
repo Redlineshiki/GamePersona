@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:03.911101+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 590440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Future Lighthouse",
+    "discount": "0",
+    "genre": "Adventure",
+    "initialprice": "0",
+    "languages": "English, Not supported, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Carlos III y la difusión de la antigüedad",
+    "negative": 2,
+    "owners": "50,000 .. 100,000",
+    "positive": 13,
+    "price": "0",
+    "publisher": "Future Lighthouse",
+    "score_rank": "",
+    "tags": {
+      "Adventure": 21,
+      "VR": 7
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

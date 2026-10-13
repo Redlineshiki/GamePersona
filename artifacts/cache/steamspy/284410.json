@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:31.317793+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 284410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Overflow",
+    "discount": "65",
+    "genre": "Action, Adventure, Indie",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cornerstone: The Song of Tyrim",
+    "negative": 41,
+    "owners": "0 .. 20,000",
+    "positive": 59,
+    "price": "699",
+    "publisher": "Phoenix Online Publishing",
+    "score_rank": "",
+    "tags": {
+      "3D Platformer": 5,
+      "Action": 26,
+      "Action RPG": 13,
+      "Adventure": 26,
+      "Crafting": 5,
+      "Indie": 25,
+      "Open World": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

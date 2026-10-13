@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:25.930331+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1106180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Rezoner",
+    "discount": "0",
+    "genre": "Animation & Modeling, Design & Illustration, Game Development",
+    "initialprice": "2999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "SpriteStack",
+    "negative": 39,
+    "owners": "0 .. 20,000",
+    "positive": 56,
+    "price": "2999",
+    "publisher": "Rezoner",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 23,
+      "Design & Illustration": 22,
+      "Game Development": 22,
+      "Pixel Graphics": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:18.649566+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1070180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 3,
+    "developer": "Nova Ideas",
+    "discount": "0",
+    "genre": "Adventure, Casual, Indie",
+    "initialprice": "699",
+    "languages": "English, French, German, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Rescue Team 6",
+    "negative": 4,
+    "owners": "0 .. 20,000",
+    "positive": 14,
+    "price": "699",
+    "publisher": "Alawar Casual",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 9,
+      "Adventure": 40,
+      "Casual": 42,
+      "Indie": 41,
+      "Singleplayer": 11,
+      "Strategy": 9,
+      "Time Management": 14
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

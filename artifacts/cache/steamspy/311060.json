@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:10.420089+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 311060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Targem Games",
+    "discount": "75",
+    "genre": "RPG, Strategy",
+    "initialprice": "499",
+    "languages": "English, Russian, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Battle Mages: Sign of Darkness",
+    "negative": 36,
+    "owners": "20,000 .. 50,000",
+    "positive": 123,
+    "price": "124",
+    "publisher": "ESDigital Games",
+    "score_rank": "",
+    "tags": {
+      "Fantasy": 6,
+      "RPG": 65,
+      "RTS": 11,
+      "Strategy": 65
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

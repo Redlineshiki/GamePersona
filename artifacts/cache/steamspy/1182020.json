@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:21.796715+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1182020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 311,
+    "developer": "World Golf Tour, LLC",
+    "discount": "0",
+    "genre": "Simulation, Sports, Free To Play, Early Access",
+    "initialprice": "0",
+    "languages": "English, French, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "WGT Golf",
+    "negative": 1091,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 1820,
+    "price": "0",
+    "publisher": "World Golf Tour, LLC",
+    "score_rank": "",
+    "tags": {
+      "Controller": 27,
+      "Early Access": 28,
+      "Free to Play": 225,
+      "Golf": 56,
+      "Indie": 15,
+      "Multiplayer": 56,
+      "Simulation": 186,
+      "Singleplayer": 22,
+      "Sports": 202,
+      "Strategy": 14,
+      "VR": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

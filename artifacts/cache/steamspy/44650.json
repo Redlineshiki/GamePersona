@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:29.565092+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 44650,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "SimBin",
+    "discount": "0",
+    "genre": "Racing",
+    "initialprice": "399",
+    "languages": "English, French, German, Italian, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "GT Power Pack – Expansion Pack for RACE 07",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 26,
+    "price": "399",
+    "publisher": "SimBin",
+    "score_rank": "",
+    "tags": {
+      "Racing": 35,
+      "Simulation": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

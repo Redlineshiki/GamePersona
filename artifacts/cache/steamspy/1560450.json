@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:32:13.893558+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1560450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "[OneManBand]",
+    "discount": "52",
+    "genre": "Casual, Indie, Simulation",
+    "initialprice": "499",
+    "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Traditional Chinese, Simplified Chinese, Korean, Russian, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "the Sequence [2]",
+    "negative": 2,
+    "owners": "0 .. 20,000",
+    "positive": 25,
+    "price": "239",
+    "publisher": " [OneManBand]",
+    "score_rank": "",
+    "tags": {
+      "Automation": 84,
+      "Casual": 47,
+      "Indie": 58,
+      "Logic": 69,
+      "Minimalist": 61,
+      "Programming": 75,
+      "Puzzle": 79,
+      "Simulation": 71,
+      "Singleplayer": 50,
+      "Stylized": 63
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

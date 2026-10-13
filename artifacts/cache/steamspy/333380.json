@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:56:34.406270+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 333380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "I-Game-Art",
+    "discount": "0",
+    "genre": "Indie, RPG, Early Access",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "SilverQuest: Gaiden",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 6,
+    "price": "0",
+    "publisher": "Wolfgame",
+    "score_rank": "",
+    "tags": {
+      "Early Access": 24,
+      "Indie": 32,
+      "RPG": 32,
+      "Rogue-like": 8
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:19.625029+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 376150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Markus Fick",
+    "discount": "0",
+    "genre": "Simulation, Strategy, Early Access",
+    "initialprice": "999",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Industry Transporters",
+    "negative": 36,
+    "owners": "0 .. 20,000",
+    "positive": 12,
+    "price": "999",
+    "publisher": "MK game production",
+    "score_rank": "",
+    "tags": {
+      "Early Access": 22,
+      "Simulation": 23,
+      "Strategy": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

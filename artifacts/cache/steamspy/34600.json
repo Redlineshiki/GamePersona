@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:45:47.543078+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 34600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "Wargaming.net",
+    "discount": "85",
+    "genre": "Strategy",
+    "initialprice": "799",
+    "languages": "English, French, German, Italian, Polish, Russian, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Order of War",
+    "negative": 181,
+    "owners": "100,000 .. 200,000",
+    "positive": 467,
+    "price": "119",
+    "publisher": "Square Enix",
+    "score_rank": "",
+    "tags": {
+      "Historical": 5,
+      "RTS": 26,
+      "Singleplayer": 9,
+      "Strategy": 65,
+      "War": 16,
+      "World War II": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

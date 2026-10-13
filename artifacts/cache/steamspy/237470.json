@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:50:37.013676+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 237470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "KING Art",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Battle Worlds: Kronos",
+    "negative": 102,
+    "owners": "20,000 .. 50,000",
+    "positive": 207,
+    "price": "1999",
+    "publisher": "KING Art, THQ Nordic",
+    "score_rank": "",
+    "tags": {
+      "Asynchronous Multiplayer": 10,
+      "Hex Grid": 12,
+      "Indie": 13,
+      "Kickstarter": 18,
+      "Multiplayer": 14,
+      "Sci-fi": 33,
+      "Singleplayer": 13,
+      "Strategy": 75,
+      "Tactical": 6,
+      "Turn-Based": 46,
+      "Turn-Based Strategy": 51,
+      "Turn-Based Tactics": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

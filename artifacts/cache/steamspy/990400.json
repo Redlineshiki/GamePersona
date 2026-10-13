@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:25.526033+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 990400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "DigiMight",
+    "discount": "0",
+    "genre": "Casual, Indie",
+    "initialprice": "699",
+    "languages": "English, German, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Solitaire. Dragon Light",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 18,
+    "price": "699",
+    "publisher": "DigiMight",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 10,
+      "Adventure": 10,
+      "Card Game": 15,
+      "Casual": 31,
+      "Fantasy": 10,
+      "Funny": 10,
+      "Indie": 30,
+      "Relaxing": 10,
+      "Singleplayer": 10,
+      "Solitaire": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

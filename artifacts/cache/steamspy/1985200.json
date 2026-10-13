@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:02.630907+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1985200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Sebastian Kemper",
+    "discount": "0",
+    "genre": "Simulation, Design & Illustration, Education, Software Training",
+    "initialprice": "1499",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Simplified Chinese, Greek, Japanese, Korean, Dutch, Polish, Portuguese - Portugal, Romanian, Russian, Swedish, Thai, Czech, Turkish, Ukrainian, Hungarian, Vietnamese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Home Designer - Architecture",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 8,
+    "price": "1499",
+    "publisher": "Sebastian Kemper",
+    "score_rank": "",
+    "tags": {
+      "3D Vision": 14,
+      "Building": 15,
+      "Design & Illustration": 36,
+      "Education": 22,
+      "Simulation": 81,
+      "Software": 13,
+      "Software Training": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

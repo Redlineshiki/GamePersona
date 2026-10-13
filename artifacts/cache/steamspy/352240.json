@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:39.629261+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 352240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Double Zero One Zero",
+    "discount": "0",
+    "genre": "Indie, Simulation",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Westport Independent",
+    "negative": 77,
+    "owners": "50,000 .. 100,000",
+    "positive": 235,
+    "price": "0",
+    "publisher": "Double Zero One Zero",
+    "score_rank": "",
+    "tags": {
+      "Choices Matter": 11,
+      "Dystopian ": 18,
+      "Free to Play": 6,
+      "Indie": 35,
+      "Political": 13,
+      "Simulation": 33,
+      "Singleplayer": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

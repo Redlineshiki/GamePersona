@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:13.657223+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 503370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Illeris",
+    "discount": "0",
+    "genre": "Indie, Simulation, Early Access",
+    "initialprice": "1599",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hospitalize",
+    "negative": 101,
+    "owners": "0 .. 20,000",
+    "positive": 69,
+    "price": "1599",
+    "publisher": "Illeris",
+    "score_rank": "",
+    "tags": {
+      "Early Access": 22,
+      "Indie": 22,
+      "Management": 10,
+      "Simulation": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

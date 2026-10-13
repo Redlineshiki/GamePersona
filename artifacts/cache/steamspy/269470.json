@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:52:45.065051+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 269470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 23,
+    "developer": "Screaming Bee",
+    "discount": "0",
+    "genre": "Audio Production, Utilities",
+    "initialprice": "3999",
+    "languages": "English, German, Spanish - Spain, Japanese, Simplified Chinese, Korean",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MorphVOX Pro 4 - Voice Changer (Old)",
+    "negative": 253,
+    "owners": "0 .. 20,000",
+    "positive": 335,
+    "price": "3999",
+    "publisher": "Screaming Bee",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 35,
+      "Software": 17,
+      "Utilities": 28
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

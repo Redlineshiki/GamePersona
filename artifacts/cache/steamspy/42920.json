@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:22.256762+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 42920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "NeoCoreGames",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Kings' Crusade",
+    "negative": 101,
+    "owners": "50,000 .. 100,000",
+    "positive": 66,
+    "price": "999",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Historical": 6,
+      "Medieval": 15,
+      "RTS": 9,
+      "Strategy": 36
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

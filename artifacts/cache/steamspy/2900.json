@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:43:51.961084+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sonalysts",
+    "discount": "80",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "688(I) Hunter/Killer",
+    "negative": 42,
+    "owners": "20,000 .. 50,000",
+    "positive": 162,
+    "price": "199",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "Military": 6,
+      "Naval": 16,
+      "Naval Combat": 27,
+      "Simulation": 23,
+      "Strategy": 29,
+      "Submarine": 19
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

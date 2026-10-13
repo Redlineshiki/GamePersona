@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:50.282535+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 586460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Strategic Designs Ltd.",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Greyhound Manager 2 Rebooted",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 15,
+    "price": "1499",
+    "publisher": "Strategic Designs Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Dog": 10,
+      "Indie": 31,
+      "Simulation": 31,
+      "Sports": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

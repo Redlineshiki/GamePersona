@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:43.461358+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 803720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Arcade Distillery",
+    "discount": "0",
+    "genre": "RPG, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "War Theatre",
+    "negative": 5,
+    "owners": "20,000 .. 50,000",
+    "positive": 10,
+    "price": "999",
+    "publisher": "Arcade Distillery",
+    "score_rank": "",
+    "tags": {
+      "RPG": 20,
+      "Strategy": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

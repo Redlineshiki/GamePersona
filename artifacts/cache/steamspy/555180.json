@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:36.779849+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 555180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Atom Switch, Inc.",
+    "discount": "0",
+    "genre": "RPG, Strategy",
+    "initialprice": "699",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "InfinitasDM",
+    "negative": 21,
+    "owners": "0 .. 20,000",
+    "positive": 31,
+    "price": "699",
+    "publisher": "Atom Switch, Inc.",
+    "score_rank": "",
+    "tags": {
+      "RPG": 31,
+      "Software": 10,
+      "Strategy": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

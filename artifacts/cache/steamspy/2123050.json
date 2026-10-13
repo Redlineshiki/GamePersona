@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:33.199110+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2123050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "oyajinojiike",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "399",
+    "languages": "Japanese, English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "TAKIBI",
+    "negative": 2,
+    "owners": "0 .. 20,000",
+    "positive": 17,
+    "price": "399",
+    "publisher": "oyajinojiike",
+    "score_rank": "",
+    "tags": {
+      "Clicker": 38,
+      "Realistic": 29,
+      "Sandbox": 21,
+      "Score Attack": 35,
+      "Simulation": 64,
+      "Singleplayer": 23,
+      "Survival": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:31:16.651141+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1480140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 9,
+    "developer": "Cast n Play",
+    "discount": "0",
+    "genre": "Audio Production, Utilities",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "RPG Sounds",
+    "negative": 12,
+    "owners": "50,000 .. 100,000",
+    "positive": 116,
+    "price": "0",
+    "publisher": "Cast n Play",
+    "score_rank": "",
+    "tags": {
+      "Ambient": 11,
+      "Audio Production": 32,
+      "Dungeons & Dragons": 12,
+      "Music": 11,
+      "Music-Based Procedural Generation": 12,
+      "Soundtrack": 11,
+      "Utilities": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

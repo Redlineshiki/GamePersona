@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:42.799619+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 602890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "EasyWays Team",
+    "discount": "80",
+    "genre": "Indie, Simulation",
+    "initialprice": "599",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "hack_me 2",
+    "negative": 249,
+    "owners": "200,000 .. 500,000",
+    "positive": 543,
+    "price": "119",
+    "publisher": "Indovers Studio",
+    "score_rank": "",
+    "tags": {
+      "Hacking": 24,
+      "Indie": 34,
+      "Simulation": 92
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

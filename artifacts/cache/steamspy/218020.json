@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:49:06.197435+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 218020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Spiderweb Software",
+    "discount": "0",
+    "genre": "Strategy, RPG, Indie",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nethergate: Resurrection",
+    "negative": 12,
+    "owners": "50,000 .. 100,000",
+    "positive": 87,
+    "price": "499",
+    "publisher": "Spiderweb Software",
+    "score_rank": "",
+    "tags": {
+      "CRPG": 13,
+      "Fantasy": 14,
+      "Indie": 32,
+      "Isometric": 16,
+      "RPG": 46,
+      "Rome": 5,
+      "Singleplayer": 5,
+      "Strategy": 27,
+      "Turn-Based": 18
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

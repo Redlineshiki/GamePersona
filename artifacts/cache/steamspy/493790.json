@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:43.224136+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 493790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "VRUnicorns",
+    "discount": "0",
+    "genre": "Indie, Sports",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "#Archery",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 19,
+    "price": "999",
+    "publisher": "Bandello ",
+    "score_rank": "",
+    "tags": {
+      "Archery": 30,
+      "Indie": 21,
+      "Sports": 22,
+      "VR": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

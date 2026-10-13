@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:44.899863+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1087270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "Out of the Park Developments, Minos Games",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports, Strategy",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Franchise Hockey Manager 6",
+    "negative": 72,
+    "owners": "20,000 .. 50,000",
+    "positive": 259,
+    "price": "1999",
+    "publisher": "Out of the Park Developments",
+    "score_rank": "",
+    "tags": {
+      "Family Friendly": 10,
+      "Historical": 9,
+      "Hockey": 18,
+      "Indie": 54,
+      "Management": 19,
+      "Mouse only": 9,
+      "Realistic": 9,
+      "Simulation": 53,
+      "Sports": 59,
+      "Strategy": 54
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

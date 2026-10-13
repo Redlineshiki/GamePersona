@@ -1,0 +1,34 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:00.832389+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 274700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Michael Brough",
+    "discount": "0",
+    "genre": "Indie, Strategy",
+    "initialprice": "565",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "868-HACK",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 102,
+    "price": "565",
+    "publisher": "Michael Brough",
+    "score_rank": "",
+    "tags": {
+      "Cyberpunk": 5,
+      "Hacking": 9,
+      "Indie": 24,
+      "Rogue-like": 16,
+      "Strategy": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:47:30.554631+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 73220,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "BattleGoat Studios",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "0",
+    "languages": "English, French, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Supreme Ruler: Cold War",
+    "negative": 82,
+    "owners": "0 .. 20,000",
+    "positive": 117,
+    "price": "0",
+    "publisher": "BattleGoat Studios",
+    "score_rank": "",
+    "tags": {
+      "Cold War": 18,
+      "Grand Strategy": 15,
+      "Historical": 10,
+      "Strategy": 46
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

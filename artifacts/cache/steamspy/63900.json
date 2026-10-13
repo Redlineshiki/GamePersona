@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:47:12.693549+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 63900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Ino-Co",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "499",
+    "languages": "English, Czech, French, German, Italian, Polish, Russian, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Fantasy Wars",
+    "negative": 43,
+    "owners": "100,000 .. 200,000",
+    "positive": 246,
+    "price": "499",
+    "publisher": "Fulqrum Publishing",
+    "score_rank": "",
+    "tags": {
+      "Fantasy": 29,
+      "Hex Grid": 14,
+      "Singleplayer": 17,
+      "Strategy": 58,
+      "Tactical": 12,
+      "Turn-Based": 26,
+      "Turn-Based Strategy": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

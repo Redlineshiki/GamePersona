@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:24:47.094365+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1157960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "Blackout Games",
+    "discount": "0",
+    "genre": "Massively Multiplayer, Simulation, Sports, Strategy, Free To Play",
+    "initialprice": "0",
+    "languages": "English, French",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Blackout Rugby Manager",
+    "negative": 43,
+    "owners": "20,000 .. 50,000",
+    "positive": 81,
+    "price": "0",
+    "publisher": "Blackout Games",
+    "score_rank": "",
+    "tags": {
+      "Competitive": 42,
+      "Early Access": 35,
+      "Football (American)": 28,
+      "Free to Play": 156,
+      "Management": 159,
+      "Massively Multiplayer": 136,
+      "Multiplayer": 31,
+      "Rugby": 169,
+      "Simulation": 153,
+      "Sports": 162,
+      "Strategy": 146,
+      "Team-Based": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

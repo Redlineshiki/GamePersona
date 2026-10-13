@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:59.447572+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1277310,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Taylor McCue",
+    "discount": "0",
+    "genre": "Indie, Free To Play",
+    "initialprice": "0",
+    "languages": "English, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Saving You From Yourself",
+    "negative": 42,
+    "owners": "0 .. 20,000",
+    "positive": 86,
+    "price": "0",
+    "publisher": "Taylor McCue",
+    "score_rank": "",
+    "tags": {
+      "Female Protagonist": 13,
+      "Free to Play": 63,
+      "Indie": 61,
+      "LGBTQ+": 17,
+      "Medical Sim": 14,
+      "Psychological": 16,
+      "Visual Novel": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

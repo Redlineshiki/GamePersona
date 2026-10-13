@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:01.681849+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1620380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "triple A code GmbH",
+    "discount": "0",
+    "genre": "Utilities, Early Access",
+    "initialprice": "199",
+    "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Russian, Spanish - Latin America, Ukrainian, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "INREAL",
+    "negative": 22,
+    "owners": "0 .. 20,000",
+    "positive": 38,
+    "price": "199",
+    "publisher": "triple A code GmbH",
+    "score_rank": "",
+    "tags": {
+      "Early Access": 21,
+      "Software": 11,
+      "Utilities": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

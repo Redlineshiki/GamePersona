@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:25.342593+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 487580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "EnsenaSoft",
+    "discount": "0",
+    "genre": "Casual",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ludo Supremo",
+    "negative": 64,
+    "owners": "50,000 .. 100,000",
+    "positive": 79,
+    "price": "199",
+    "publisher": "EnsenaSoft",
+    "score_rank": "",
+    "tags": {
+      "Board Game": 13,
+      "Casual": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

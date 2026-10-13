@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:00:34.125344+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 394680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Alawar Stargaze",
+    "discount": "70",
+    "genre": "Adventure, Casual",
+    "initialprice": "299",
+    "languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Swedish, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mountain Crime: Requital",
+    "negative": 56,
+    "owners": "50,000 .. 100,000",
+    "positive": 370,
+    "price": "89",
+    "publisher": "Alawar Casual",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 9,
+      "Adventure": 51,
+      "Casual": 56,
+      "Hidden Object": 38,
+      "Indie": 10,
+      "Point & Click": 27,
+      "Singleplayer": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

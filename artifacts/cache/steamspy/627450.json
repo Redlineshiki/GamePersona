@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:37.475408+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 627450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Eko Software",
+    "discount": "0",
+    "genre": "Sports",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "RUGBY 18",
+    "negative": 58,
+    "owners": "0 .. 20,000",
+    "positive": 61,
+    "price": "1999",
+    "publisher": "Nacon",
+    "score_rank": "",
+    "tags": {
+      "Rugby": 32,
+      "Sports": 36
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

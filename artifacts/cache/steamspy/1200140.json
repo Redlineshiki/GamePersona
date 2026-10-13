@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:47.211388+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1200140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Bethuel K. Okelo",
+    "discount": "0",
+    "genre": "Indie, Racing, Simulation",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "4X4 OFF-ROAD CHALLENGE",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 8,
+    "price": "99",
+    "publisher": "Bethuel K. Okelo",
+    "score_rank": "",
+    "tags": {
+      "Automobile Sim": 37,
+      "Driving": 12,
+      "Hentai": 5,
+      "Indie": 31,
+      "Nudity": 5,
+      "Offroad": 13,
+      "Psychological Horror": 17,
+      "Racing": 32,
+      "Simulation": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

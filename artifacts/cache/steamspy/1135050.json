@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:24:01.612306+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1135050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sokpop Collective",
+    "discount": "50",
+    "genre": "Indie, Simulation",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Dr. Umgebung's School of Life",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 11,
+    "price": "149",
+    "publisher": "Sokpop Collective",
+    "score_rank": "",
+    "tags": {
+      "Colorful": 11,
+      "Education": 31,
+      "Experimental": 11,
+      "Exploration": 11,
+      "Indie": 86,
+      "Life Sim": 30,
+      "Puzzle": 11,
+      "Simulation": 86
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

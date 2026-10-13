@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:50.370002+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1705580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Robert Wahler",
+    "discount": "0",
+    "genre": "Casual, Indie, Strategy",
+    "initialprice": "399",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "SiNKR 3",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 24,
+    "price": "399",
+    "publisher": "Wahler Digital",
+    "score_rank": "",
+    "tags": {
+      "Abstract": 28,
+      "Casual": 22,
+      "Family Friendly": 24,
+      "Indie": 21,
+      "Logic": 45,
+      "Minimalist": 30,
+      "Puzzle": 52,
+      "Relaxing": 42,
+      "Strategy": 58
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

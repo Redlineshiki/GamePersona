@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:02.682048+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 672140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Yobowargames",
+    "discount": "40",
+    "genre": "Indie, Strategy",
+    "initialprice": "1599",
+    "languages": "English, French, German, Spanish - Spain, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Battle For Korsun",
+    "negative": 13,
+    "owners": "20,000 .. 50,000",
+    "positive": 5,
+    "price": "959",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Hex Grid": 8,
+      "Historical": 11,
+      "Indie": 21,
+      "Singleplayer": 11,
+      "Strategy": 22,
+      "Tanks": 11,
+      "Turn-Based": 12,
+      "Turn-Based Combat": 10,
+      "Turn-Based Strategy": 10,
+      "War": 11,
+      "Wargame": 15,
+      "World War II": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

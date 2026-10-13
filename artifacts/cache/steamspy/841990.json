@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:43.368874+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 841990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "NMY Mixed-Reality Communication GmbH",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "299",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Der Milchbauer",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 4,
+    "price": "299",
+    "publisher": "KTBL",
+    "score_rank": "",
+    "tags": {
+      "Economy": 10,
+      "Education": 10,
+      "Indie": 10,
+      "Management": 11,
+      "Moddable": 11,
+      "Simulation": 21,
+      "Singleplayer": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

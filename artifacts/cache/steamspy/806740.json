@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:49.777942+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 806740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "致意, 傅真",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "599",
+    "languages": "Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Fei Duanmu VS Kobayashi 端木斐 VS 小林正雪",
+    "negative": 14,
+    "owners": "20,000 .. 50,000",
+    "positive": 181,
+    "price": "599",
+    "publisher": "致意, 傅真",
+    "score_rank": "",
+    "tags": {
+      "Detective": 5,
+      "Indie": 21,
+      "Puzzle": 11,
+      "Visual Novel": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

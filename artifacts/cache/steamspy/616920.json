@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:17.505974+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 616920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 38,
+    "developer": "Antti A. Luostarinen, Emil Nilimaa, Niklas Lindroos, Matti A. Virtanen, Riku-Ville Mäkelä, Lauri Holmas, Polar Night Software Sp. z o.o.",
+    "discount": "0",
+    "genre": "Massively Multiplayer, RPG",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "BatMUD",
+    "negative": 26,
+    "owners": "0 .. 20,000",
+    "positive": 149,
+    "price": "499",
+    "publisher": "Balanced Alternative Techniques ry",
+    "score_rank": "",
+    "tags": {
+      "Massively Multiplayer": 38,
+      "RPG": 40,
+      "Text-Based": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

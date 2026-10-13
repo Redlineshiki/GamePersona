@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:58.298413+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 741820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Arkane Studios",
+    "discount": "0",
+    "genre": "Action",
+    "initialprice": "3999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Prey: Typhon Hunter",
+    "negative": 544,
+    "owners": "50,000 .. 100,000",
+    "positive": 271,
+    "price": "3999",
+    "publisher": "Bethesda Softworks",
+    "score_rank": "",
+    "tags": {
+      "Action": 38,
+      "FPS": 11,
+      "First-Person": 6,
+      "Multiplayer": 20,
+      "Sci-fi": 9,
+      "Shooter": 8,
+      "Singleplayer": 5,
+      "VR": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

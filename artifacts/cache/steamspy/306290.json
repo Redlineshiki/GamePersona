@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:52.491734+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 306290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 9,
+    "developer": "HLA team",
+    "discount": "0",
+    "genre": "RPG, Simulation, Strategy",
+    "initialprice": "699",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "7,62 Hard Life",
+    "negative": 108,
+    "owners": "50,000 .. 100,000",
+    "positive": 419,
+    "price": "699",
+    "publisher": "Fulqrum Publishing",
+    "score_rank": "",
+    "tags": {
+      "Open World": 10,
+      "RPG": 63,
+      "Simulation": 49,
+      "Singleplayer": 18,
+      "Strategy": 58,
+      "Tactical": 42
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

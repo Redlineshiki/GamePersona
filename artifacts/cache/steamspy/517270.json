@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:52.135933+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 517270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Aslak Studio",
+    "discount": "0",
+    "genre": "Simulation, Strategy, Early Access",
+    "initialprice": "1999",
+    "languages": "French, English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Pro Farm Manager",
+    "negative": 18,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "1999",
+    "publisher": "Expone",
+    "score_rank": "",
+    "tags": {
+      "Agriculture": 10,
+      "Early Access": 32,
+      "Farming Sim": 40,
+      "Multiplayer": 12,
+      "Open World": 12,
+      "Realistic": 11,
+      "Resource Management": 12,
+      "Simulation": 31,
+      "Strategy": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

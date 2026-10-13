@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:31.958165+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 415270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 3,
+    "developer": "ZiMAD, Inc.",
+    "discount": "0",
+    "genre": "Casual, Free To Play, Massively Multiplayer, Strategy",
+    "initialprice": "0",
+    "languages": "English, Russian, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Star Crusade CCG",
+    "negative": 379,
+    "owners": "100,000 .. 200,000",
+    "positive": 1500,
+    "price": "0",
+    "publisher": "ZiMAD, Inc.",
+    "score_rank": "",
+    "tags": {
+      "Card Battler": 121,
+      "Card Game": 76,
+      "Casual": 36,
+      "Deckbuilding": 112,
+      "Early Access": 40,
+      "Free to Play": 118,
+      "Massively Multiplayer": 29,
+      "Sci-fi": 12,
+      "Space": 18,
+      "Strategy": 64,
+      "Trading Card Game": 71
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

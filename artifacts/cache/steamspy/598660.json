@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:25.936482+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 598660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Fervr Labs",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Plevr",
+    "negative": 22,
+    "owners": "0 .. 20,000",
+    "positive": 19,
+    "price": "999",
+    "publisher": "Fervr Labs",
+    "score_rank": "",
+    "tags": {
+      "Utilities": 22,
+      "VR": 14,
+      "Video Production": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

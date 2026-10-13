@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:26:27.035475+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1227000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Rafael Braza",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Black Butterfly",
+    "negative": 20,
+    "owners": "0 .. 20,000",
+    "positive": 22,
+    "price": "199",
+    "publisher": "616 GAMES",
+    "score_rank": "",
+    "tags": {
+      "Action-Adventure": 10,
+      "FPS": 11,
+      "First-Person": 11,
+      "Gore": 10,
+      "Horror": 13,
+      "Indie": 31,
+      "Puzzle": 11,
+      "Shooter": 11,
+      "Supernatural": 11,
+      "Survival": 11,
+      "Survival Horror": 11,
+      "Violent": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:56:59.646702+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 340550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "David Teruel",
+    "discount": "0",
+    "genre": "Casual, Indie, Strategy",
+    "initialprice": "0",
+    "languages": "English, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Crunch Time!",
+    "negative": 39,
+    "owners": "20,000 .. 50,000",
+    "positive": 43,
+    "price": "0",
+    "publisher": "David Teruel",
+    "score_rank": "",
+    "tags": {
+      "Card Game": 5,
+      "Casual": 22,
+      "Indie": 22,
+      "Strategy": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

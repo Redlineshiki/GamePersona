@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:14.385017+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 374520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Blue Byte",
+    "discount": "0",
+    "genre": "RPG, Strategy",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Polish, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Champions of Anteria",
+    "negative": 82,
+    "owners": "0 .. 20,000",
+    "positive": 77,
+    "price": "2999",
+    "publisher": "Ubisoft",
+    "score_rank": "",
+    "tags": {
+      "City Builder": 17,
+      "Crafting": 13,
+      "Fantasy": 12,
+      "Funny": 11,
+      "RPG": 38,
+      "RTS": 6,
+      "Singleplayer": 9,
+      "Strategy": 43
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

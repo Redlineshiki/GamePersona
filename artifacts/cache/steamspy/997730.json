@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:36.021332+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 997730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "UPandQ",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Deez",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 59,
+    "price": "99",
+    "publisher": "UPandQ",
+    "score_rank": "",
+    "tags": {
+      "Hentai": 11,
+      "Indie": 26,
+      "Psychological Horror": 11,
+      "Sexual Content": 8
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

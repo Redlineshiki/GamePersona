@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:59.854524+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 561600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 7,
+    "developer": "Milestone S.r.l.",
+    "discount": "90",
+    "genre": "Racing, Simulation, Sports",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MXGP3 - The Official Motocross Videogame",
+    "negative": 172,
+    "owners": "100,000 .. 200,000",
+    "positive": 1004,
+    "price": "199",
+    "publisher": "Milestone S.r.l.",
+    "score_rank": "",
+    "tags": {
+      "Bikes": 11,
+      "Motocross": 37,
+      "Motorbike": 37,
+      "Multiplayer": 18,
+      "Offroad": 15,
+      "Racing": 49,
+      "Simulation": 46,
+      "Singleplayer": 8,
+      "Sports": 45
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

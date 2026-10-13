@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:41.396895+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 803020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Appnori Inc.",
+    "discount": "0",
+    "genre": "Sports, Early Access",
+    "initialprice": "1499",
+    "languages": "English, Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Manny Boxing VR",
+    "negative": 18,
+    "owners": "0 .. 20,000",
+    "positive": 23,
+    "price": "1499",
+    "publisher": "Appnori Inc.",
+    "score_rank": "",
+    "tags": {
+      "Beat 'em up": 36,
+      "Boxing": 43,
+      "Early Access": 37,
+      "Online Co-Op": 20,
+      "Physics": 27,
+      "PvE": 25,
+      "PvP": 23,
+      "Realistic": 39,
+      "Singleplayer": 21,
+      "Sports": 69,
+      "VR": 34
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

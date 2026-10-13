@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:47.567645+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1009850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 3358,
+    "developer": "OVRAS Team",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "799",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "OVR Advanced Settings",
+    "negative": 345,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 4200,
+    "price": "799",
+    "publisher": "OVRAS Team",
+    "score_rank": "",
+    "tags": {
+      "Indie": 38,
+      "Software": 45,
+      "Utilities": 73,
+      "VR": 84
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

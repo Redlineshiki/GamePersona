@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:51:19.113167+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 245550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 3,
+    "developer": "Valve",
+    "discount": "0",
+    "genre": "",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Dutch, Finnish, Hungarian, Korean, Polish, Portuguese, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Traditional Chinese, Ukrainian, Greek, Japanese, Romanian, Thai, Turkish, Danish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Free to Play",
+    "negative": 541,
+    "owners": "0 .. 20,000",
+    "positive": 10597,
+    "price": "0",
+    "publisher": "Valve",
+    "score_rank": "",
+    "tags": {
+      "Beautiful": 11,
+      "Documentary": 1699,
+      "Dog": 5,
+      "Drama": 8,
+      "Emotional": 14,
+      "Epic": 15,
+      "Free to Play": 2689,
+      "Masterpiece": 324,
+      "e-sports": 988
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

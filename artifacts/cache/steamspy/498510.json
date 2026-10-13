@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:58.937813+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 498510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "SandVUE",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "0",
+    "languages": "English, Not supported, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "DreamLand",
+    "negative": 27,
+    "owners": "0 .. 20,000",
+    "positive": 41,
+    "price": "0",
+    "publisher": "SANPACE",
+    "score_rank": "",
+    "tags": {
+      "RPG": 23,
+      "VR": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

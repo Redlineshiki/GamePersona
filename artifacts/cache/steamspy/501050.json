@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:03.182850+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 501050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Rainbow Games",
+    "discount": "0",
+    "genre": "Casual, Free To Play",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Emerland Solitaire: Endless Journey",
+    "negative": 27,
+    "owners": "20,000 .. 50,000",
+    "positive": 88,
+    "price": "0",
+    "publisher": "Rainbow Games",
+    "score_rank": "",
+    "tags": {
+      "Card Game": 7,
+      "Casual": 22,
+      "Free to Play": 29
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

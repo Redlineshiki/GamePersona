@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:39.112265+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 459470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Ageod",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "3999",
+    "languages": "English, French, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Wars of Napoleon",
+    "negative": 56,
+    "owners": "20,000 .. 50,000",
+    "positive": 56,
+    "price": "3999",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Grand Strategy": 22,
+      "Historical": 31,
+      "Military": 28,
+      "Multiplayer": 24,
+      "Strategy": 71,
+      "Turn-Based": 25,
+      "Turn-Based Strategy": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

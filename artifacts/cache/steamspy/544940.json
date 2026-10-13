@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:03.206002+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 544940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Bohemia Interactive",
+    "discount": "0",
+    "genre": "Episodic, Tutorial",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Arma 3 Community Guide Series",
+    "negative": 1,
+    "owners": "0 .. 20,000",
+    "positive": 24,
+    "price": "0",
+    "publisher": "Bohemia Interactive",
+    "score_rank": "",
+    "tags": {
+      "Episodic": 30,
+      "Free to Play": 26,
+      "Tutorial": 40
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

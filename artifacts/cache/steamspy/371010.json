@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:00.744540+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 371010,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Autarca",
+    "discount": "0",
+    "genre": "Indie, Strategy",
+    "initialprice": "499",
+    "languages": "English, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nomad Fleet",
+    "negative": 69,
+    "owners": "20,000 .. 50,000",
+    "positive": 140,
+    "price": "499",
+    "publisher": "Autarca",
+    "score_rank": "",
+    "tags": {
+      "Atmospheric": 12,
+      "Indie": 33,
+      "RTS": 17,
+      "Real-Time": 16,
+      "Replay Value": 12,
+      "Rogue-lite": 10,
+      "Sci-fi": 20,
+      "Singleplayer": 13,
+      "Space": 24,
+      "Strategy": 40
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

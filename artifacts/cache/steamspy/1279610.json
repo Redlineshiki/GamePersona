@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:04.679877+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1279610,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 46,
+    "developer": "1-reality",
+    "discount": "0",
+    "genre": "Free To Play, Animation & Modeling, Utilities, Video Production",
+    "initialprice": "0",
+    "languages": "Simplified Chinese, English, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "PrprLive",
+    "negative": 439,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 978,
+    "price": "0",
+    "publisher": "1-reality",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 38,
+      "Anime": 15,
+      "Free to Play": 156,
+      "GameMaker": 12,
+      "Sexual Content": 8,
+      "Software": 7,
+      "Utilities": 27,
+      "Video Production": 41
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

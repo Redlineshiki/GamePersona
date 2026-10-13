@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:53.960832+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 518040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 8,
+    "developer": "Great Boolean",
+    "discount": "0",
+    "genre": "Sports, Early Access",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Volleyball Unbound - Pro Beach Volleyball",
+    "negative": 16,
+    "owners": "20,000 .. 50,000",
+    "positive": 186,
+    "price": "1499",
+    "publisher": "Great Boolean",
+    "score_rank": "",
+    "tags": {
+      "Early Access": 26,
+      "Simulation": 14,
+      "Sports": 28,
+      "Volleyball": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

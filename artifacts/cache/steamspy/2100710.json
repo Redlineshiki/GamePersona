@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:31.074812+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2100710,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Thrift",
+    "discount": "0",
+    "genre": "Indie, Racing, Simulation, Sports, Strategy",
+    "initialprice": "499",
+    "languages": "English, Russian, Simplified Chinese, Spanish - Latin America",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ambulance Chauffeur Simulator",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 26,
+    "price": "499",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Automobile Sim": 31,
+      "Character Customization": 25,
+      "Choices Matter": 23,
+      "Family Friendly": 19,
+      "Indie": 21,
+      "Racing": 57,
+      "Simulation": 60,
+      "Singleplayer": 21,
+      "Sports": 54,
+      "Strategy": 66
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:35:57.380488+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1970460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 20,
+    "developer": "Anneka Tran",
+    "discount": "50",
+    "genre": "Casual, Indie, Free To Play",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Garden Galaxy",
+    "negative": 49,
+    "owners": "50,000 .. 100,000",
+    "positive": 2342,
+    "price": "499",
+    "publisher": "Anneka Tran",
+    "score_rank": "",
+    "tags": {
+      "Building": 53,
+      "Casual": 63,
+      "Cozy": 14,
+      "Cute": 52,
+      "Family Friendly": 31,
+      "Gambling": 25,
+      "Idler": 65,
+      "Indie": 47,
+      "Isometric": 48,
+      "Nature": 53,
+      "Relaxing": 71,
+      "Sandbox": 69,
+      "Singleplayer": 34,
+      "Stylized": 39
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

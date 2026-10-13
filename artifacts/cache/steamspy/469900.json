@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:04.319201+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 469900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Josh",
+    "discount": "0",
+    "genre": "Indie, Strategy",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Paradox Paradigm",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "99",
+    "publisher": "GamingVNetwork",
+    "score_rank": "",
+    "tags": {
+      "Game Development": 7,
+      "Indie": 30,
+      "Logic": 10,
+      "Platformer": 9,
+      "Puzzle": 11,
+      "Puzzle-Platformer": 10,
+      "Strategy": 31,
+      "Time Travel": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

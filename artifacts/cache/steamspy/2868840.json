@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:37:09.856465+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2868840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Mega Crit",
+    "discount": "0",
+    "genre": "Indie, Strategy, Early Access",
+    "initialprice": "2499",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Thai, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Slay the Spire 2",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "2499",
+    "publisher": "Mega Crit",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

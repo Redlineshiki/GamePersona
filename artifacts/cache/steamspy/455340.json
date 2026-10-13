@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:31.728868+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 455340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Flashback Games, The Lordz Games Studio",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "0",
+    "languages": "English, German, Spanish - Spain, Russian, French",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Warhammer 40,000: Armageddon - Da Orks",
+    "negative": 32,
+    "owners": "0 .. 20,000",
+    "positive": 74,
+    "price": "0",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Games Workshop": 8,
+      "Strategy": 46,
+      "Turn-Based Strategy": 7,
+      "Warhammer 40K": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

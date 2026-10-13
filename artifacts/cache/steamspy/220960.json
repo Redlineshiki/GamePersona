@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:49:24.038456+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 220960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "ACD Systems International Inc.",
+    "discount": "0",
+    "genre": "Photo Editing",
+    "initialprice": "4999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "ACDSee 15",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 13,
+    "price": "4999",
+    "publisher": "ACD Systems International Inc.",
+    "score_rank": "",
+    "tags": {
+      "Photo Editing": 29
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

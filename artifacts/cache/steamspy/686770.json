@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:34.268509+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 686770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Picklefeet Games",
+    "discount": "40",
+    "genre": "Indie, RPG, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Wind and Wilting Blossom",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 171,
+    "price": "599",
+    "publisher": "Picklefeet Games",
+    "score_rank": "",
+    "tags": {
+      "Hand-drawn": 22,
+      "Indie": 103,
+      "Party-Based RPG": 22,
+      "RPG": 101,
+      "Rogue-like": 21,
+      "Rogue-lite": 15,
+      "Singleplayer": 21,
+      "Strategy": 101,
+      "Tactical": 24,
+      "Turn-Based Tactics": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

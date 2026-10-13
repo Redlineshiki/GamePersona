@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:16.535994+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1068820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2180,
+    "developer": "Curtis English",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "1099",
+    "languages": "English, Japanese, Korean, Czech, German, Simplified Chinese, Traditional Chinese, Portuguese - Portugal, French, Spanish - Spain, Dutch, Finnish, Portuguese - Brazil, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "OVR Toolkit - Desktop Overlay",
+    "negative": 372,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 2722,
+    "price": "1099",
+    "publisher": "VoxelLoop Software Limited",
+    "score_rank": "",
+    "tags": {
+      "Software": 26,
+      "Utilities": 68,
+      "VR": 52
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

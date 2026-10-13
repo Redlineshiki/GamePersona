@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:56.418014+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1091400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Rosalie Vile",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Online Simulator",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 40,
+    "price": "199",
+    "publisher": "Vile Games LLC",
+    "score_rank": "",
+    "tags": {
+      "Horror": 10,
+      "Indie": 11,
+      "Interactive Fiction": 11,
+      "Psychological Horror": 13,
+      "Sexual Content": 22,
+      "Simulation": 32,
+      "Visual Novel": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

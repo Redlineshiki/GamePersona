@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:02:59.236129+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 443830,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Choice of Games",
+    "discount": "40",
+    "genre": "Indie, RPG",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Daring Mermaid Expedition",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 11,
+    "price": "299",
+    "publisher": "Choice of Games",
+    "score_rank": "",
+    "tags": {
+      "Choose Your Own Adventure": 6,
+      "Indie": 22,
+      "RPG": 22,
+      "Text-Based": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

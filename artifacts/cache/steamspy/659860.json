@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:42.681236+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 659860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "SilverBlade",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "99",
+    "languages": "Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "作业本战记（exercise book epic）",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 22,
+    "price": "99",
+    "publisher": "SilverBlade",
+    "score_rank": "",
+    "tags": {
+      "Linear": 12,
+      "RPG": 10,
+      "Strategy": 30,
+      "Turn-Based": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

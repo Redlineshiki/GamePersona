@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:19.195114+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 828380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "朵游社",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "999",
+    "languages": "Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Death Mark Vol.1 - 死印之迷雾",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 33,
+    "price": "999",
+    "publisher": "朵游社",
+    "score_rank": "",
+    "tags": {
+      "Detective": 12,
+      "Indie": 32,
+      "Visual Novel": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

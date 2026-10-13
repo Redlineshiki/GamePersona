@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:37.950732+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 492230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "Cyanide Studio",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1499",
+    "languages": "English, French, Italian, German, Spanish - Spain, Czech, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Space Hulk: Tactics (Classic)",
+    "negative": 377,
+    "owners": "20,000 .. 50,000",
+    "positive": 675,
+    "price": "1499",
+    "publisher": "Focus Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Board Game": 7,
+      "Games Workshop": 11,
+      "Sci-fi": 8,
+      "Singleplayer": 5,
+      "Strategy": 52,
+      "Tactical": 5,
+      "Turn-Based": 27,
+      "Turn-Based Strategy": 21,
+      "Turn-Based Tactics": 17,
+      "Violent": 33,
+      "Warhammer 40K": 36
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

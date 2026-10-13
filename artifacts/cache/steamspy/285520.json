@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:34.762480+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 285520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Targem Games",
+    "discount": "0",
+    "genre": "Action, Racing",
+    "initialprice": "799",
+    "languages": "English, German, Spanish - Spain, Russian, French, Italian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Sledgehammer / Gear Grinder",
+    "negative": 37,
+    "owners": "0 .. 20,000",
+    "positive": 125,
+    "price": "799",
+    "publisher": "ESDigital Games ",
+    "score_rank": "",
+    "tags": {
+      "Action": 48,
+      "Racing": 53,
+      "Shooter": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

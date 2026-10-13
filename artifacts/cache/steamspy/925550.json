@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:45.630020+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 925550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Invictus Games Ltd.",
+    "discount": "0",
+    "genre": "Racing, Simulation, Sports",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Hungarian, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cross Racing Championship Extreme",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 91,
+    "price": "999",
+    "publisher": "Invictus Games Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Automobile Sim": 28,
+      "Multiplayer": 17,
+      "Racing": 38,
+      "Simulation": 36,
+      "Singleplayer": 14,
+      "Sports": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

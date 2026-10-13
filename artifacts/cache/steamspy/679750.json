@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:18.559804+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 679750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "metricminds GmbH & Co KG",
+    "discount": "0",
+    "genre": "Simulation, Sports",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Catch & Release",
+    "negative": 38,
+    "owners": "20,000 .. 50,000",
+    "positive": 315,
+    "price": "1999",
+    "publisher": "Advanced Interactive Gaming Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Cartoon": 13,
+      "Casual": 16,
+      "Fishing": 28,
+      "Simulation": 49,
+      "Sports": 44,
+      "VR": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

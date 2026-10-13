@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:20.674265+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1102390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Keystone Knight",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Neckbeardia",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 16,
+    "price": "99",
+    "publisher": "Bush League",
+    "score_rank": "",
+    "tags": {
+      "RPG": 33,
+      "RPGMaker": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

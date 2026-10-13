@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:24.009759+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 576790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "CreateThis.com",
+    "discount": "0",
+    "genre": "Animation & Modeling, Early Access",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mesh Maker VR",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 22,
+    "price": "0",
+    "publisher": "CreateThis.com",
+    "score_rank": "",
+    "tags": {
+      "3D Vision": 10,
+      "Animation & Modeling": 32,
+      "Early Access": 31,
+      "VR": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

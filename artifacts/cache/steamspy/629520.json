@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:47.965343+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 629520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 15279,
+    "developer": "Leppsoft",
+    "discount": "0",
+    "genre": "Audio Production, Utilities",
+    "initialprice": "499",
+    "languages": "English, German, French, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Italian, Spanish - Spain, Japanese, Polish, Thai, Czech, Danish, Dutch, Finnish, Norwegian, Swedish, Turkish, Ukrainian, Bulgarian, Greek, Hungarian, Romanian, Vietnamese, Arabic, Indonesian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Soundpad",
+    "negative": 3466,
+    "owners": "2,000,000 .. 5,000,000",
+    "positive": 84918,
+    "price": "499",
+    "publisher": "Leppsoft",
+    "score_rank": "",
+    "tags": {
+      "Atmospheric": 6,
+      "Audio Production": 163,
+      "Cold War": 14,
+      "Mature": 27,
+      "Music": 137,
+      "NSFW": 37,
+      "Psychological": 12,
+      "Singleplayer": 9,
+      "Software": 127,
+      "Utilities": 173
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:17.330827+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 715840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "CSM, Excellente23",
+    "discount": "50",
+    "genre": "Casual, Indie",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "PooSky",
+    "negative": 41,
+    "owners": "50,000 .. 100,000",
+    "positive": 65,
+    "price": "249",
+    "publisher": "W.T.B.",
+    "score_rank": "",
+    "tags": {
+      "Aliens": 12,
+      "Casual": 32,
+      "Comedy": 12,
+      "Dark Humor": 13,
+      "Indie": 32,
+      "Psychological Horror": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

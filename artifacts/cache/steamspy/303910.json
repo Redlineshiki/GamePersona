@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:41.937945+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 303910,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Wastelands Interactive",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "599",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Time of Fury",
+    "negative": 31,
+    "owners": "50,000 .. 100,000",
+    "positive": 48,
+    "price": "599",
+    "publisher": " Conglomerate 5",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 24,
+      "Strategy": 30,
+      "World War II": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:13.221481+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2013990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Phoenixxx Games",
+    "discount": "89",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Villwars",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 13,
+    "price": "109",
+    "publisher": "Phoenixxx Games",
+    "score_rank": "",
+    "tags": {
+      "Colorful": 31,
+      "Military": 21,
+      "Singleplayer": 23,
+      "Strategy": 63,
+      "Tactical": 29,
+      "Turn-Based Strategy": 34,
+      "Turn-Based Tactics": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

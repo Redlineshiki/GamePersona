@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:43.504555+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 924800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Immersive VR Education PLC",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "TITANIC Shipwreck Exploration",
+    "negative": 20,
+    "owners": "50,000 .. 100,000",
+    "positive": 78,
+    "price": "1999",
+    "publisher": "Immersive VR Education PLC",
+    "score_rank": "",
+    "tags": {
+      "Exploration": 5,
+      "Simulation": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

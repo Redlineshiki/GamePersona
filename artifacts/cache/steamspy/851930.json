@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:03.315831+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 851930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Endless Loop Studios",
+    "discount": "75",
+    "genre": "Indie, Simulation, Strategy",
+    "initialprice": "999",
+    "languages": "English, French, German, Spanish - Spain, Korean, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Battle Royale Tycoon",
+    "negative": 154,
+    "owners": "50,000 .. 100,000",
+    "positive": 355,
+    "price": "249",
+    "publisher": "Endless Loop Studios",
+    "score_rank": "",
+    "tags": {
+      "Battle Royale": 26,
+      "Building": 21,
+      "City Builder": 19,
+      "Economy": 22,
+      "Indie": 27,
+      "Management": 33,
+      "Pixel Graphics": 6,
+      "Resource Management": 21,
+      "Sandbox": 25,
+      "Simulation": 41,
+      "Strategy": 36
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

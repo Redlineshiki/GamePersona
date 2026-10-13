@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:30.106661+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 623090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "2XL Games, Blitworks",
+    "discount": "75",
+    "genre": "Racing, Sports",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "BAJA: Edge of Control HD",
+    "negative": 76,
+    "owners": "20,000 .. 50,000",
+    "positive": 355,
+    "price": "749",
+    "publisher": "THQ Nordic",
+    "score_rank": "",
+    "tags": {
+      "Local Multiplayer": 10,
+      "Offroad": 14,
+      "Open World": 10,
+      "Racing": 35,
+      "Singleplayer": 7,
+      "Split Screen": 10,
+      "Sports": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

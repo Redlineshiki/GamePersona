@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:32:52.951655+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1611360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "",
+    "discount": null,
+    "genre": "",
+    "initialprice": null,
+    "languages": null,
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "iTop Screen Recorder for Steam",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": null,
+    "publisher": "",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

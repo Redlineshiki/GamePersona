@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:56:50.196702+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 336150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 41,
+    "developer": "Celeris",
+    "discount": "40",
+    "genre": "Sports",
+    "initialprice": "2499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Virtual Pool 4",
+    "negative": 129,
+    "owners": "100,000 .. 200,000",
+    "positive": 626,
+    "price": "1499",
+    "publisher": "Celeris ",
+    "score_rank": "",
+    "tags": {
+      "Multiplayer": 9,
+      "Pool": 21,
+      "Simulation": 15,
+      "Singleplayer": 6,
+      "Snooker": 5,
+      "Sports": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

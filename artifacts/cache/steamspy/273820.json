@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:52:56.708651+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 273820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "United Independent Entertainment GmbH",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "499",
+    "languages": "English, French, German, Dutch, Hungarian, Polish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mining & Tunneling Simulator",
+    "negative": 111,
+    "owners": "20,000 .. 50,000",
+    "positive": 27,
+    "price": "499",
+    "publisher": "United Independent Entertainment GmbH",
+    "score_rank": "",
+    "tags": {
+      "Mining": 21,
+      "Simulation": 52
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:29.254352+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 580720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 10,
+    "developer": "Every Single Soldier",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Carrier Deck",
+    "negative": 113,
+    "owners": "100,000 .. 200,000",
+    "positive": 917,
+    "price": "999",
+    "publisher": "Every Single Soldier",
+    "score_rank": "",
+    "tags": {
+      "Management": 23,
+      "Military": 32,
+      "Naval": 33,
+      "Naval Combat": 103,
+      "Simulation": 75,
+      "Singleplayer": 19,
+      "Strategy": 23,
+      "Tactical": 16,
+      "Time Management": 41,
+      "War": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

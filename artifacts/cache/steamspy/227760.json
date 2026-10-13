@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:49:53.464573+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 227760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Paradox Development Studio",
+    "discount": "75",
+    "genre": "Simulation, Strategy",
+    "initialprice": "1999",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "March of the Eagles",
+    "negative": 122,
+    "owners": "50,000 .. 100,000",
+    "positive": 252,
+    "price": "499",
+    "publisher": "Paradox Interactive",
+    "score_rank": "",
+    "tags": {
+      "Grand Strategy": 39,
+      "Historical": 28,
+      "Real-Time with Pause": 18,
+      "Sandbox": 8,
+      "Simulation": 45,
+      "Strategy": 64
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:30.250848+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 454530,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 10,
+    "developer": "VR Designs",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "4999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Decisive Campaigns: Barbarossa",
+    "negative": 28,
+    "owners": "20,000 .. 50,000",
+    "positive": 195,
+    "price": "4999",
+    "publisher": "Matrix Games",
+    "score_rank": "",
+    "tags": {
+      "Hex Grid": 10,
+      "Historical": 8,
+      "Multiplayer": 11,
+      "Replay Value": 24,
+      "Singleplayer": 17,
+      "Strategy": 92,
+      "Strategy RPG": 39,
+      "Turn-Based Strategy": 50,
+      "Wargame": 22,
+      "World War II": 50
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:32.312189+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 600600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "",
+    "discount": "0",
+    "genre": "Casual, Simulation",
+    "initialprice": "799",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MakeThatMoney",
+    "negative": 29,
+    "owners": "0 .. 20,000",
+    "positive": 22,
+    "price": "799",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Capitalism": 46,
+      "Casual": 61,
+      "Choose Your Own Adventure": 32,
+      "Immersive Sim": 31,
+      "Management": 30,
+      "Simulation": 67,
+      "Singleplayer": 27,
+      "Text-Based": 42,
+      "Top-Down": 49
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

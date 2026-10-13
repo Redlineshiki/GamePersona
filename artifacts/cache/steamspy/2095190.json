@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:30.017098+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2095190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 17,
+    "developer": "CrossHud",
+    "discount": "50",
+    "genre": "Utilities",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "CrossHud - Crosshair Overlay",
+    "negative": 61,
+    "owners": "20,000 .. 50,000",
+    "positive": 126,
+    "price": "249",
+    "publisher": "CrossHud",
+    "score_rank": "",
+    "tags": {
+      "Utilities": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

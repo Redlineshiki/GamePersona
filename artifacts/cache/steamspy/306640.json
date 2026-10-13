@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:56.716359+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 306640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 12,
+    "developer": "Slitherine Ltd.",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "3999",
+    "languages": "English, French, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Battle Academy 2: Eastern Front",
+    "negative": 18,
+    "owners": "20,000 .. 50,000",
+    "positive": 211,
+    "price": "3999",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Multiplayer": 14,
+      "Replay Value": 13,
+      "Singleplayer": 15,
+      "Strategy": 67,
+      "Turn-Based": 28,
+      "Turn-Based Strategy": 23,
+      "Wargame": 17,
+      "World War II": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

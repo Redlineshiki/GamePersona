@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:06:29.631319+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 530120,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Whirlybird Games",
+    "discount": "0",
+    "genre": "Casual, Indie, Simulation",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "VR The Diner Duo",
+    "negative": 21,
+    "owners": "50,000 .. 100,000",
+    "positive": 407,
+    "price": "1499",
+    "publisher": "Whirlybird Games",
+    "score_rank": "",
+    "tags": {
+      "Asymmetric VR": 30,
+      "Casual": 23,
+      "Co-op": 7,
+      "Cooking": 19,
+      "Indie": 23,
+      "Local Co-Op": 12,
+      "Local Multiplayer": 7,
+      "Simulation": 23,
+      "VR": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

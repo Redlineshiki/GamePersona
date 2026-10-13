@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:49.914302+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1314930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Jakob Delzer",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Speed Swing",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 39,
+    "price": "499",
+    "publisher": "Indie",
+    "score_rank": "",
+    "tags": {
+      "Difficult": 11,
+      "Fast-Paced": 11,
+      "First-Person": 12,
+      "Indie": 31,
+      "Platformer": 13,
+      "Singleplayer": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:19.347212+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 410980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 155,
+    "developer": "SimTex",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "599",
+    "languages": "English, French, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Master of Orion 2",
+    "negative": 55,
+    "owners": "100,000 .. 200,000",
+    "positive": 1514,
+    "price": "599",
+    "publisher": "Wargaming Labs",
+    "score_rank": "",
+    "tags": {
+      "4X": 56,
+      "Classic": 28,
+      "Grand Strategy": 5,
+      "Multiplayer": 14,
+      "Retro": 6,
+      "Sci-fi": 30,
+      "Singleplayer": 10,
+      "Space": 38,
+      "Strategy": 75,
+      "Turn-Based": 46,
+      "Turn-Based Strategy": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

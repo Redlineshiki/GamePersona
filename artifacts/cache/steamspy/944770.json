@@ -1,0 +1,34 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:19:08.797961+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 944770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 89,
+    "developer": "sheepChat Team",
+    "discount": "0",
+    "genre": "Audio Production, Design & Illustration, Utilities, Video Production, Web Publishing",
+    "initialprice": "999",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "sheepChat",
+    "negative": 81,
+    "owners": "100,000 .. 200,000",
+    "positive": 244,
+    "price": "999",
+    "publisher": "sheepChat Team",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 32,
+      "Design & Illustration": 31,
+      "Utilities": 33,
+      "Video Production": 32,
+      "Web Publishing": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

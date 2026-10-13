@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:49:55.636522+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 228180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 262,
+    "developer": "Mirillis",
+    "discount": "0",
+    "genre": "Audio Production, Education, Software Training, Utilities, Video Production, Web Publishing",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Traditional Chinese, Dutch, Simplified Chinese, Hungarian, Korean, Romanian, Turkish, Vietnamese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Action! - Gameplay Recording and Streaming",
+    "negative": 1033,
+    "owners": "200,000 .. 500,000",
+    "positive": 6218,
+    "price": "2999",
+    "publisher": "Mirillis",
+    "score_rank": "",
+    "tags": {
+      "Action": 38,
+      "Audio Production": 98,
+      "Education": 37,
+      "Software": 32,
+      "Software Training": 71,
+      "Utilities": 92,
+      "Video Production": 127,
+      "Web Publishing": 41
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

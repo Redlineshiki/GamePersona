@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:02:22.442777+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 431730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4541,
+    "developer": "Igara Studio",
+    "discount": "0",
+    "genre": "Animation & Modeling, Design & Illustration, Game Development",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Korean, Russian, Simplified Chinese, Spanish - Latin America, Arabic, Dutch, Japanese, Portuguese - Portugal, Turkish, Afrikaans, Hungarian, Indonesian, Norwegian, Catalan, Thai",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Aseprite",
+    "negative": 198,
+    "owners": "1,000,000 .. 2,000,000",
+    "positive": 21620,
+    "price": "1999",
+    "publisher": "Igara Studio",
+    "score_rank": "",
+    "tags": {
+      "2D": 74,
+      "Animation & Modeling": 195,
+      "Cute": 14,
+      "Design & Illustration": 226,
+      "Game Development": 164,
+      "Indie": 20,
+      "Pixel Graphics": 246,
+      "Retro": 14,
+      "Singleplayer": 10,
+      "Software": 165,
+      "Survival Horror": 5,
+      "Utilities": 66
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

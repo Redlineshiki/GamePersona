@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:31.681266+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 45410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Nemesys Games",
+    "discount": "0",
+    "genre": "Racing",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Polish, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ignite",
+    "negative": 132,
+    "owners": "20,000 .. 50,000",
+    "positive": 174,
+    "price": "999",
+    "publisher": "Nemesys Games",
+    "score_rank": "",
+    "tags": {
+      "Arcade": 5,
+      "Racing": 52
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

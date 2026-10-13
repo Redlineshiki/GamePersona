@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:48.794531+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 806470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "RewindApp",
+    "discount": "0",
+    "genre": "Casual, Indie, Sports",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Archery Blast",
+    "negative": 25,
+    "owners": "0 .. 20,000",
+    "positive": 28,
+    "price": "199",
+    "publisher": "RewindApp",
+    "score_rank": "",
+    "tags": {
+      "Archery": 28,
+      "Casual": 31,
+      "Indie": 31,
+      "Sports": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

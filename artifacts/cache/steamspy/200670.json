@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:47:59.982598+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 200670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Akella, .dat",
+    "discount": "60",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Disciples III - Resurrection",
+    "negative": 214,
+    "owners": "100,000 .. 200,000",
+    "positive": 96,
+    "price": "399",
+    "publisher": "Kalypso Media Digital",
+    "score_rank": "",
+    "tags": {
+      "RPG": 15,
+      "Strategy": 29,
+      "Turn-Based": 12,
+      "Turn-Based Strategy": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

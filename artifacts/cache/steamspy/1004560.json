@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:43.338635+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1004560,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Pixel Games Studio",
+    "discount": "0",
+    "genre": "Indie, RPG",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Everpath",
+    "negative": 25,
+    "owners": "0 .. 20,000",
+    "positive": 53,
+    "price": "299",
+    "publisher": "Pixel Games Studio",
+    "score_rank": "",
+    "tags": {
+      "Indie": 32,
+      "Pixel Graphics": 8,
+      "RPG": 32,
+      "Rogue-lite": 8
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

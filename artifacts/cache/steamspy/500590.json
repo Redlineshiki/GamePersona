@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:01.039207+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 500590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "EnsenaSoft",
+    "discount": "0",
+    "genre": "Casual",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Puppy Dog: Jigsaw Puzzles",
+    "negative": 28,
+    "owners": "50,000 .. 100,000",
+    "positive": 124,
+    "price": "99",
+    "publisher": "EnsenaSoft",
+    "score_rank": "",
+    "tags": {
+      "Casual": 27,
+      "Puzzle": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

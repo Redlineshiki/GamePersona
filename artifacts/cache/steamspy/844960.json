@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:48.610276+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 844960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 20,
+    "developer": "Trophy Games ApS",
+    "discount": "0",
+    "genre": "Free To Play, Simulation, Sports, Strategy",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Danish, Simplified Chinese, Greek, Dutch, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Swedish, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Pro 11 - Football Manager Game",
+    "negative": 82,
+    "owners": "50,000 .. 100,000",
+    "positive": 255,
+    "price": "0",
+    "publisher": "Trophy Games ApS",
+    "score_rank": "",
+    "tags": {
+      "Football (Soccer)": 26,
+      "Free to Play": 40,
+      "Management": 17,
+      "Multiplayer": 14,
+      "Simulation": 55,
+      "Sports": 67,
+      "Strategy": 58
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

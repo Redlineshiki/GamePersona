@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:54.777610+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 497720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Pixelsplit Simulations",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "599",
+    "languages": "English, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Funfair Ride Simulator 3",
+    "negative": 64,
+    "owners": "20,000 .. 50,000",
+    "positive": 77,
+    "price": "599",
+    "publisher": "Pixelsplit Simulations",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

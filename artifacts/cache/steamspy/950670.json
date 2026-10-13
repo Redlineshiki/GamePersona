@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:19:15.101907+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 950670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "THQ Nordic Barcelona",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "0",
+    "languages": "English, German, Spanish - Spain, Polish, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Gothic Playable Teaser",
+    "negative": 4457,
+    "owners": "1,000,000 .. 2,000,000",
+    "positive": 10607,
+    "price": "0",
+    "publisher": "THQ Nordic",
+    "score_rank": "",
+    "tags": {
+      "Action": 13,
+      "Action RPG": 13,
+      "Atmospheric": 34,
+      "Dark Fantasy": 9,
+      "Exploration": 30,
+      "Fantasy": 20,
+      "Gore": 25,
+      "Gothic": 36,
+      "Medieval": 28,
+      "Open World": 14,
+      "RPG": 97,
+      "Sexual Content": 5,
+      "Singleplayer": 37,
+      "Third Person": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

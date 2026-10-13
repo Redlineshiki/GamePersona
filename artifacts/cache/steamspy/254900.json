@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:51:57.840107+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 254900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Rebellion",
+    "discount": "70",
+    "genre": "Strategy",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Gunlok",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 9,
+    "price": "149",
+    "publisher": "Rebellion",
+    "score_rank": "",
+    "tags": {
+      "Futuristic": 11,
+      "Singleplayer": 12,
+      "Strategy": 50,
+      "Strategy RPG": 10,
+      "Top-Down": 11,
+      "Violent": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:19:43.454556+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 966610,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 103,
+    "developer": "Eduard Kozadaev",
+    "discount": "0",
+    "genre": "Utilities, Video Production, Web Publishing, Game Development",
+    "initialprice": "1299",
+    "languages": "English, Italian, Hungarian, Korean, Portuguese - Brazil, Russian, Thai",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "FPS Monitor – hardware in-game & desktop overlays",
+    "negative": 321,
+    "owners": "100,000 .. 200,000",
+    "positive": 1774,
+    "price": "1299",
+    "publisher": "Eduard Kozadaev",
+    "score_rank": "",
+    "tags": {
+      "FPS": 15,
+      "Game Development": 33,
+      "Software": 21,
+      "Utilities": 40,
+      "Video Production": 32,
+      "Web Publishing": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

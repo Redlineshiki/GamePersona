@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:15.528264+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 281350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Icehole Games",
+    "discount": "76",
+    "genre": "Strategy",
+    "initialprice": "299",
+    "languages": "English, German, Greek, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "US and THEM",
+    "negative": 64,
+    "owners": "20,000 .. 50,000",
+    "positive": 35,
+    "price": "71",
+    "publisher": "Conglomerate 5",
+    "score_rank": "",
+    "tags": {
+      "Cold War": 11,
+      "Strategy": 44,
+      "Turn-Based Strategy": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

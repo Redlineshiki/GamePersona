@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:45.767875+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2187560,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "GVR Training Computer Software",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "19999",
+    "languages": "English, Spanish - Spain, Italian, Bangla, Gujarati, Malay, Punjabi (Gurmukhi), Russian, French, German, Arabic, Portuguese - Brazil, Vietnamese, Korean, Turkish, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Electrical Safety VR Training",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 15,
+    "price": "19999",
+    "publisher": "GVR Training Computer Software",
+    "score_rank": "",
+    "tags": {
+      "Asymmetric VR": 23,
+      "Education": 39,
+      "Immersive Sim": 32,
+      "Life Sim": 35,
+      "Simulation": 64,
+      "Singleplayer": 21,
+      "VR": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

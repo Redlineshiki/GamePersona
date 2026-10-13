@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:04.669098+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 310070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Lucky Frame",
+    "discount": "70",
+    "genre": "Indie, Strategy",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Nightmare Cooperative",
+    "negative": 65,
+    "owners": "20,000 .. 50,000",
+    "positive": 64,
+    "price": "149",
+    "publisher": "Blazing Griffin",
+    "score_rank": "",
+    "tags": {
+      "Co-op": 6,
+      "Indie": 28,
+      "Puzzle": 6,
+      "Rogue-like": 19,
+      "Strategy": 28,
+      "Turn-Based": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

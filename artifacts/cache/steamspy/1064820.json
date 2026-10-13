@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:10.270937+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1064820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "студия Ф",
+    "discount": "65",
+    "genre": "Design & Illustration, Photo Editing, Software Training, Utilities, Early Access",
+    "initialprice": "199",
+    "languages": "Simplified Chinese, English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "NB Desktop",
+    "negative": 45,
+    "owners": "20,000 .. 50,000",
+    "positive": 74,
+    "price": "69",
+    "publisher": "студия Ф",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 21,
+      "Early Access": 22,
+      "Photo Editing": 22,
+      "Software": 14,
+      "Software Training": 20,
+      "Utilities": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

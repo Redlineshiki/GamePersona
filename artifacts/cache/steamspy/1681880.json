@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:41.779678+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1681880,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Team6 Game Studios",
+    "discount": "0",
+    "genre": "Racing",
+    "initialprice": "4999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "NHRA Championship Drag Racing: Speed For All",
+    "negative": 119,
+    "owners": "20,000 .. 50,000",
+    "positive": 76,
+    "price": "4999",
+    "publisher": "GameMill Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Asynchronous Multiplayer": 20,
+      "Automobile Sim": 32,
+      "Driving": 31,
+      "Racing": 66,
+      "Realistic": 39,
+      "Singleplayer": 37
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:35.069922+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 511600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "VikingVRStudio",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "499",
+    "languages": "English, Japanese, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Space Jones VR",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 15,
+    "price": "499",
+    "publisher": "VikingVRStudio",
+    "score_rank": "",
+    "tags": {
+      "FPS": 13,
+      "Indie": 32,
+      "VR": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

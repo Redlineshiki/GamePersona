@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:13.334158+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 374400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Binary Fortress Software",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "1999",
+    "languages": "English, Simplified Chinese, Traditional Chinese, French, Italian, German, Spanish - Spain, Danish, Dutch, Hungarian, Korean, Polish, Portuguese - Brazil, Russian, Swedish, Turkish, Japanese, Portuguese - Portugal",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "VoiceBot",
+    "negative": 88,
+    "owners": "20,000 .. 50,000",
+    "positive": 161,
+    "price": "1999",
+    "publisher": "Binary Fortress Software",
+    "score_rank": "",
+    "tags": {
+      "Software": 5,
+      "Utilities": 34,
+      "Voice Control": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

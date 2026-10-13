@@ -1,0 +1,34 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:50.894634+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 423320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Choice of Games",
+    "discount": "40",
+    "genre": "Indie, RPG",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Pendragon Rising",
+    "negative": 20,
+    "owners": "0 .. 20,000",
+    "positive": 76,
+    "price": "299",
+    "publisher": "Choice of Games",
+    "score_rank": "",
+    "tags": {
+      "Choose Your Own Adventure": 11,
+      "Indie": 23,
+      "Interactive Fiction": 6,
+      "RPG": 25,
+      "Text-Based": 18
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

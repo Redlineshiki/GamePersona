@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:02:53.936561+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 441770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Frozen Flame",
+    "discount": "0",
+    "genre": "Animation & Modeling, Design & Illustration, Photo Editing",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MindTex 2",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 120,
+    "price": "1999",
+    "publisher": "Frozen Flame",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 26,
+      "Design & Illustration": 24,
+      "Photo Editing": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

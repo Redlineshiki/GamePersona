@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:01.785330+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1170290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Kavorka Play",
+    "discount": "0",
+    "genre": "Casual, Indie, Simulation, Strategy",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Lovely Heroines",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "499",
+    "publisher": "Kavorka Play",
+    "score_rank": "",
+    "tags": {
+      "Anime": 7,
+      "Casual": 33,
+      "Cute": 10,
+      "Dating Sim": 10,
+      "Funny": 10,
+      "Illuminati": 6,
+      "Indie": 33,
+      "Romance": 11,
+      "Sexual Content": 8,
+      "Simulation": 29,
+      "Singleplayer": 12,
+      "Story Rich": 8,
+      "Strategy": 27,
+      "Visual Novel": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:29.881304+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 725640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "DUEL",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "199",
+    "languages": "Simplified Chinese, English, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "DUEL",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 22,
+    "price": "199",
+    "publisher": "DUEL",
+    "score_rank": "",
+    "tags": {
+      "First-Person": 7,
+      "Flight": 25,
+      "Indie": 32,
+      "Mechs": 17,
+      "Shooter": 18,
+      "Third Person": 18,
+      "Third-Person Shooter": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

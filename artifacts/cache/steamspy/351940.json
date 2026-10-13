@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:35.447888+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 351940,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 15,
+    "developer": "Gaming Corps AB",
+    "discount": "0",
+    "genre": "Adventure, Casual, Indie",
+    "initialprice": "1499",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Descendant",
+    "negative": 811,
+    "owners": "2,000,000 .. 5,000,000",
+    "positive": 6312,
+    "price": "1499",
+    "publisher": "Microids Indie, Microids",
+    "score_rank": "",
+    "tags": {
+      "Adventure": 8423,
+      "Alternate History": 19,
+      "Atmospheric": 9,
+      "Casual": 102,
+      "Choices Matter": 45,
+      "Episodic": 75,
+      "Free to Play": 12,
+      "Horror": 7,
+      "Indie": 35,
+      "Point & Click": 113,
+      "Post-apocalyptic": 93,
+      "Sci-fi": 43,
+      "Singleplayer": 16,
+      "Story Rich": 95
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

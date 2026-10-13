@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:15.077641+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 752520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Cherry Pop Games",
+    "discount": "0",
+    "genre": "Casual, Indie, Sports",
+    "initialprice": "1499",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Football Nation VR Tournament 2018",
+    "negative": 14,
+    "owners": "0 .. 20,000",
+    "positive": 16,
+    "price": "1499",
+    "publisher": "Cherry Pop Games",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 10,
+      "Casual": 31,
+      "Football (Soccer)": 13,
+      "Funny": 11,
+      "Indie": 31,
+      "Multiplayer": 21,
+      "Sports": 21,
+      "VR": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

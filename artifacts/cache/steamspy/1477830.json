@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:31:14.554394+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1477830,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1120,
+    "developer": "Eduard Kozadaev",
+    "discount": "0",
+    "genre": "Action, Education, Software Training, Utilities, Video Production",
+    "initialprice": "799",
+    "languages": "English, Russian, Simplified Chinese, French, Italian, German, Bulgarian, Japanese, Korean, Portuguese - Brazil, Swedish, Thai, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "HudSight - crosshair overlay",
+    "negative": 536,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 4141,
+    "price": "799",
+    "publisher": "Eduard Kozadaev",
+    "score_rank": "",
+    "tags": {
+      "Action": 33,
+      "Education": 25,
+      "FPS": 15,
+      "Shooter": 13,
+      "Software": 15,
+      "Software Training": 26,
+      "Utilities": 39,
+      "Video Production": 34
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

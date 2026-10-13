@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:37.271239+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 730860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Grab Games",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1499",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Amoeba Battle: Microscopic RTS Action",
+    "negative": 5,
+    "owners": "20,000 .. 50,000",
+    "positive": 39,
+    "price": "1499",
+    "publisher": "Grab Games",
+    "score_rank": "",
+    "tags": {
+      "Co-op": 154,
+      "Co-op Campaign": 171,
+      "Online Co-Op": 156,
+      "Pixel Graphics": 11,
+      "RTS": 178,
+      "Rogue-lite": 169,
+      "Strategy": 165
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

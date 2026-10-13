@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:41.484753+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1302930,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Childish Things Ltd",
+    "discount": "0",
+    "genre": "Simulation, Sports, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cricket Captain 2020",
+    "negative": 32,
+    "owners": "0 .. 20,000",
+    "positive": 68,
+    "price": "999",
+    "publisher": "Childish Things Ltd",
+    "score_rank": "",
+    "tags": {
+      "Cricket": 14,
+      "Management": 12,
+      "Multiplayer": 11,
+      "Simulation": 31,
+      "Singleplayer": 12,
+      "Sports": 35,
+      "Strategy": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

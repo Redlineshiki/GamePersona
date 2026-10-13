@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:35:50.029160+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1961460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Mob Entertainment",
+    "discount": "0",
+    "genre": "Action, Indie, Free To Play, Early Access",
+    "initialprice": "0",
+    "languages": "English, French, German, Spanish - Spain, Russian, Spanish - Latin America, Italian, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "PROJECT: PLAYTIME",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "0",
+    "publisher": "Mob Entertainment",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

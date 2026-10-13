@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:27.755174+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 724740,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Konstructors",
+    "discount": "60",
+    "genre": "Casual, Indie, Strategy",
+    "initialprice": "199",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Lines X",
+    "negative": 163,
+    "owners": "100,000 .. 200,000",
+    "positive": 758,
+    "price": "79",
+    "publisher": "Hook Games",
+    "score_rank": "",
+    "tags": {
+      "2D": 6,
+      "Abstract": 22,
+      "Atmospheric": 20,
+      "Casual": 54,
+      "Indie": 45,
+      "Minimalist": 27,
+      "Puzzle": 34,
+      "Relaxing": 28,
+      "Singleplayer": 23,
+      "Strategy": 36,
+      "Stylized": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

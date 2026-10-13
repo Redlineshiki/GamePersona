@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:47:24.227019+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 70120,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "exosyphen studios",
+    "discount": "0",
+    "genre": "Indie, Simulation",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hacker Evolution Duality",
+    "negative": 344,
+    "owners": "200,000 .. 500,000",
+    "positive": 182,
+    "price": "299",
+    "publisher": "exosyphen studios",
+    "score_rank": "",
+    "tags": {
+      "Hacking": 34,
+      "Indie": 44,
+      "Simulation": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

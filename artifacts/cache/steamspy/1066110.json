@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:13.417030+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1066110,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 27,
+    "developer": "Room Planner Ltd",
+    "discount": "0",
+    "genre": "Animation & Modeling, Design & Illustration, Education",
+    "initialprice": "4999",
+    "languages": "English, French, Italian, German, Arabic, Czech, Dutch, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Bulgarian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Home Planner - Design Room 3D - Pro",
+    "negative": 67,
+    "owners": "0 .. 20,000",
+    "positive": 166,
+    "price": "4999",
+    "publisher": "Room Planner Ltd",
+    "score_rank": "",
+    "tags": {
+      "Animation & Modeling": 40,
+      "Design & Illustration": 40,
+      "Education": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

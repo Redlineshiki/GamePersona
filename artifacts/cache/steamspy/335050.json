@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:56:43.878128+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 335050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Eversim",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "499",
+    "languages": "English, French, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "World Of Leaders",
+    "negative": 95,
+    "owners": "0 .. 20,000",
+    "positive": 21,
+    "price": "499",
+    "publisher": "Eversim",
+    "score_rank": "",
+    "tags": {
+      "MMORPG": 5,
+      "Massively Multiplayer": 8,
+      "Simulation": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

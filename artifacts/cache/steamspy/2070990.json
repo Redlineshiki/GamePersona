@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:23.699112+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2070990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 12,
+    "developer": "MAGIX Software GmbH",
+    "discount": "0",
+    "genre": "Video Production",
+    "initialprice": "24900",
+    "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "VEGAS Edit 20 Steam Edition",
+    "negative": 14,
+    "owners": "0 .. 20,000",
+    "positive": 40,
+    "price": "24900",
+    "publisher": "MAGIX Software GmbH",
+    "score_rank": "",
+    "tags": {
+      "Software": 15,
+      "Video Production": 35
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

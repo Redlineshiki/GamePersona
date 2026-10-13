@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:58:31.376111+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 365240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "cybercritics",
+    "discount": "50",
+    "genre": "Strategy",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Galaxy Union",
+    "negative": 9,
+    "owners": "20,000 .. 50,000",
+    "positive": 9,
+    "price": "249",
+    "publisher": "cybercritics",
+    "score_rank": "",
+    "tags": {
+      "4X": 5,
+      "Space": 5,
+      "Strategy": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

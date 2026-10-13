@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:24.473396+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 833810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Yash Future Tech Solutions Pvt Ltd",
+    "discount": "85",
+    "genre": "Racing, Sports",
+    "initialprice": "699",
+    "languages": "English, French, German, Spanish - Spain, Dutch, Japanese, Korean, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Extreme Formula Championship",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 12,
+    "price": "104",
+    "publisher": "Yash Future Tech Solutions Pvt Ltd",
+    "score_rank": "",
+    "tags": {
+      "Racing": 23,
+      "Sports": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

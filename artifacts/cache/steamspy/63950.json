@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:47:13.738710+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 63950,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "1C: Maddox Games",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "0",
+    "languages": "English, French, German, Italian, Polish, Spanish - Spain, Russian, Czech",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "IL-2 Sturmovik: Cliffs of Dover",
+    "negative": 334,
+    "owners": "100,000 .. 200,000",
+    "positive": 668,
+    "price": "0",
+    "publisher": "Fulqrum Publishing",
+    "score_rank": "",
+    "tags": {
+      "Flight": 34,
+      "Historical": 18,
+      "Simulation": 52,
+      "World War II": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

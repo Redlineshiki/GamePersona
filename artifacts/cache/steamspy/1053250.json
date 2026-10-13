@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:21:52.347808+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1053250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Crew Lab",
+    "discount": "27",
+    "genre": "Casual, Indie",
+    "initialprice": "99",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "TOK HARDCORE",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 131,
+    "price": "72",
+    "publisher": "Crew Lab",
+    "score_rank": "",
+    "tags": {
+      "Abstract": 28,
+      "Casual": 51,
+      "Clicker": 57,
+      "Difficult": 99,
+      "Family Friendly": 72,
+      "Hacking": 58,
+      "Indie": 86,
+      "Logic": 89,
+      "Minimalist": 78,
+      "Programming": 86,
+      "Puzzle": 84,
+      "Relaxing": 70,
+      "Short": 63,
+      "Singleplayer": 67
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

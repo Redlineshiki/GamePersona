@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:37:16.370580+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 3527290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Team PEAK",
+    "discount": "0",
+    "genre": "Action, Adventure, Indie",
+    "initialprice": "799",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America, Ukrainian, Polish, Turkish, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "PEAK",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "799",
+    "publisher": "Aggro Crab, Evil Landfall?",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:06:53.844683+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 542210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Xemory LLC",
+    "discount": "0",
+    "genre": "Simulation, Early Access",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Xemo : Robot Simulation",
+    "negative": 44,
+    "owners": "0 .. 20,000",
+    "positive": 29,
+    "price": "0",
+    "publisher": "Xemory LLC",
+    "score_rank": "",
+    "tags": {
+      "Early Access": 22,
+      "Simulation": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

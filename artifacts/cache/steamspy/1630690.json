@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:07.961276+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1630690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "DXF Games",
+    "discount": "0",
+    "genre": "Indie, RPG, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Equin 2: The Warren Peace",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 15,
+    "price": "999",
+    "publisher": "DXF Games",
+    "score_rank": "",
+    "tags": {
+      "Cute": 25,
+      "Fantasy": 23,
+      "Grid-Based Movement": 41,
+      "Indie": 21,
+      "Loot": 20,
+      "Pixel Graphics": 32,
+      "Puzzle": 16,
+      "RPG": 41,
+      "Rogue-like": 37,
+      "Strategy": 45,
+      "Top-Down": 38,
+      "Traditional Roguelike": 52,
+      "Turn-Based Combat": 47
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

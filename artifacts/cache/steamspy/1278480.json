@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:03.715244+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1278480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 111,
+    "developer": "Smart Game Booster",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Czech, Hungarian, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Danish, Greek, Finnish, Dutch",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Smart Game Booster",
+    "negative": 374,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 1434,
+    "price": "0",
+    "publisher": "Smart Game Booster",
+    "score_rank": "",
+    "tags": {
+      "Software": 11,
+      "Utilities": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

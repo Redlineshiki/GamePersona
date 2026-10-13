@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:05.613427+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 976850,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "crimsonearthgames",
+    "discount": "0",
+    "genre": "Racing, Simulation, Sports",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Trafic Road Rush",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 39,
+    "price": "99",
+    "publisher": "crimsonearthgames",
+    "score_rank": "",
+    "tags": {
+      "Racing": 22,
+      "Simulation": 22,
+      "Sports": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:02.335253+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 444420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "J. Fletcher, Michael Flynn",
+    "discount": "0",
+    "genre": "Action, Adventure, Casual, Indie, RPG",
+    "initialprice": "399",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "24 Hours 'til Rescue",
+    "negative": 61,
+    "owners": "20,000 .. 50,000",
+    "positive": 25,
+    "price": "399",
+    "publisher": "BrainCraft Gaming, FlynnFour Games",
+    "score_rank": "",
+    "tags": {
+      "Action": 25,
+      "Adventure": 24,
+      "Atmospheric": 12,
+      "Casual": 22,
+      "Indie": 23,
+      "Open World": 15,
+      "Pixel Graphics": 8,
+      "RPG": 36,
+      "RPGMaker": 27,
+      "Real-Time": 13,
+      "Sandbox": 14,
+      "Survival Horror": 17,
+      "Zombies": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

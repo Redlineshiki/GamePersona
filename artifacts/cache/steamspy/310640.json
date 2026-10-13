@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:07.181372+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 310640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Funky Logic Studios",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "299",
+    "languages": "English, German, Polish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "European Fishing",
+    "negative": 24,
+    "owners": "0 .. 20,000",
+    "positive": 8,
+    "price": "299",
+    "publisher": "Libredia",
+    "score_rank": "",
+    "tags": {
+      "Fishing": 16,
+      "Simulation": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

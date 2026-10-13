@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:45:18.108875+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 22130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 50,
+    "developer": "Paradox Development Studio",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hearts of Iron 2 Complete",
+    "negative": 84,
+    "owners": "100,000 .. 200,000",
+    "positive": 539,
+    "price": "1499",
+    "publisher": "Paradox Interactive",
+    "score_rank": "",
+    "tags": {
+      "Grand Strategy": 46,
+      "Historical": 31,
+      "RTS": 10,
+      "Simulation": 8,
+      "Strategy": 78,
+      "World War II": 37
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

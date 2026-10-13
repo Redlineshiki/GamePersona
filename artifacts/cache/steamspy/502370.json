@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:09.442240+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 502370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 22,
+    "developer": "Straylight Entertainment",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, German, Spanish - Spain, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Warhammer 40,000: Sanctus Reach (Classic)",
+    "negative": 225,
+    "owners": "50,000 .. 100,000",
+    "positive": 1221,
+    "price": "1999",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Games Workshop": 41,
+      "Multiplayer": 5,
+      "Sci-fi": 6,
+      "Strategy": 80,
+      "Tactical": 29,
+      "Turn-Based": 50,
+      "Turn-Based Strategy": 37,
+      "Turn-Based Tactics": 33,
+      "Wargame": 29,
+      "Warhammer 40K": 59
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

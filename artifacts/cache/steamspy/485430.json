@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:19.073835+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 485430,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Chequered Ink Ltd.",
+    "discount": "0",
+    "genre": "Violent, Gore, Indie, Early Access",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "NAL Is Alive",
+    "negative": 11,
+    "owners": "0 .. 20,000",
+    "positive": 36,
+    "price": "99",
+    "publisher": "Chequered Ink Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Arcade": 12,
+      "Early Access": 21,
+      "Gore": 22,
+      "Indie": 32,
+      "Platformer": 12,
+      "Violent": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

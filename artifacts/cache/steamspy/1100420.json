@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:16.424298+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1100420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 18,
+    "developer": "Torus Games, Pyro Studios",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Russian, Simplified Chinese, Traditional Chinese, Korean",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Praetorians - HD Remaster",
+    "negative": 85,
+    "owners": "50,000 .. 100,000",
+    "positive": 900,
+    "price": "1999",
+    "publisher": "Kalypso Media",
+    "score_rank": "",
+    "tags": {
+      "Historical": 5,
+      "Multiplayer": 19,
+      "Old School": 21,
+      "RTS": 24,
+      "Real Time Tactics": 19,
+      "Rome": 9,
+      "Strategy": 87
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

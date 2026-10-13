@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:37.169184+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 512300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Prospect Games",
+    "discount": "90",
+    "genre": "Action, Adventure, Indie",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Unbox: Newbie's Adventure",
+    "negative": 106,
+    "owners": "50,000 .. 100,000",
+    "positive": 509,
+    "price": "199",
+    "publisher": "Merge Games",
+    "score_rank": "",
+    "tags": {
+      "3D Platformer": 46,
+      "4 Player Local": 13,
+      "Action": 35,
+      "Adventure": 52,
+      "Collectathon": 10,
+      "Comedy": 21,
+      "Cute": 16,
+      "Funny": 19,
+      "Indie": 34,
+      "Local Multiplayer": 6,
+      "Multiplayer": 7,
+      "Open World": 46,
+      "Platformer": 10,
+      "Singleplayer": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

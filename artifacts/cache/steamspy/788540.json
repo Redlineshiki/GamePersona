@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:23.502449+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 788540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "makemepulse",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "0",
+    "languages": "English, French",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Vivez Versailles",
+    "negative": 16,
+    "owners": "0 .. 20,000",
+    "positive": 33,
+    "price": "0",
+    "publisher": "Château de Versailles, Fondation Orange",
+    "score_rank": "",
+    "tags": {
+      "Historical": 5,
+      "Simulation": 26,
+      "VR": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

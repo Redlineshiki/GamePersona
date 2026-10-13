@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:45:29.765492+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 25500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Mindstorm Studios",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cricket Revolution",
+    "negative": 55,
+    "owners": "0 .. 20,000",
+    "positive": 70,
+    "price": "299",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Cricket": 12,
+      "Indie": 23,
+      "Simulation": 23,
+      "Sports": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

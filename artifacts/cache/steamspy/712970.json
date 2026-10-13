@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:13.177336+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 712970,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Totem Games",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "2499",
+    "languages": "English, Russian, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Clad in Iron: Philippines 1898",
+    "negative": 4,
+    "owners": "0 .. 20,000",
+    "positive": 27,
+    "price": "2499",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "Naval": 15,
+      "Naval Combat": 11,
+      "Simulation": 30,
+      "Strategy": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

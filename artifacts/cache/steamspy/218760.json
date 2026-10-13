@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:49:12.473197+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 218760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 14,
+    "developer": "Acoustica, Inc.",
+    "discount": "0",
+    "genre": "Audio Production, Utilities, Video Production",
+    "initialprice": "3999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Danish, Dutch, Greek, Hungarian, Japanese, Korean, Norwegian, Portuguese - Portugal, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mixcraft 8 Home Studio",
+    "negative": 69,
+    "owners": "20,000 .. 50,000",
+    "positive": 567,
+    "price": "3999",
+    "publisher": "Acoustica, Inc.",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 32,
+      "Utilities": 34,
+      "Video Production": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

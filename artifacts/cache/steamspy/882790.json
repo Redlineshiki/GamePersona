@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:48.528131+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 882790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 25,
+    "developer": "JSL Entertainment",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "2109",
+    "languages": "Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Fate Seeker",
+    "negative": 1215,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 12053,
+    "price": "2109",
+    "publisher": "JSL Entertainment, Phoenix Game",
+    "score_rank": "",
+    "tags": {
+      "Action": 27,
+      "Action RPG": 39,
+      "Adventure": 36,
+      "Dating Sim": 9,
+      "Martial Arts": 59,
+      "Multiple Endings": 5,
+      "Puzzle": 7,
+      "RPG": 104,
+      "Sexual Content": 8,
+      "Singleplayer": 16,
+      "Turn-Based": 19
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

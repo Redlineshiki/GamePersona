@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:57.719785+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1711690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sokpop Collective",
+    "discount": "50",
+    "genre": "Adventure, Indie",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Aran's Bike Trip",
+    "negative": 3,
+    "owners": "20,000 .. 50,000",
+    "positive": 26,
+    "price": "249",
+    "publisher": "Sokpop Collective",
+    "score_rank": "",
+    "tags": {
+      "360 Video": 33,
+      "Adventure": 68,
+      "Bikes": 25,
+      "Choose Your Own Adventure": 36,
+      "FMV": 23,
+      "Indie": 21,
+      "Interactive Fiction": 42,
+      "Linear": 21,
+      "Relaxing": 27,
+      "Singleplayer": 17,
+      "Story Rich": 20,
+      "Visual Novel": 39
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:12.347453+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1175480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Killed Pixel Games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Shadowrain",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 22,
+    "price": "99",
+    "publisher": "Killed Pixel Games",
+    "score_rank": "",
+    "tags": {
+      "Dystopian ": 12,
+      "Horror": 12,
+      "Indie": 31,
+      "Psychological Horror": 11,
+      "Sci-fi": 11,
+      "Survival Horror": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:26.878045+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 683900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 236,
+    "developer": "Origin8 Technologies Ltd.",
+    "discount": "75",
+    "genre": "Simulation, Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Dutch, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "RollerCoaster Tycoon Classic",
+    "negative": 237,
+    "owners": "200,000 .. 500,000",
+    "positive": 2334,
+    "price": "499",
+    "publisher": "Atari",
+    "score_rank": "",
+    "tags": {
+      "Building": 7,
+      "Classic": 23,
+      "Isometric": 11,
+      "Management": 54,
+      "Pixel Graphics": 17,
+      "Retro": 18,
+      "Sandbox": 16,
+      "Simulation": 49,
+      "Singleplayer": 21,
+      "Strategy": 42
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

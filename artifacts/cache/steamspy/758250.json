@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:27.743441+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 758250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "OneOcean LLC",
+    "discount": "50",
+    "genre": "Strategy",
+    "initialprice": "1499",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Taste of Power",
+    "negative": 22,
+    "owners": "20,000 .. 50,000",
+    "positive": 45,
+    "price": "749",
+    "publisher": "OneOcean LLC",
+    "score_rank": "",
+    "tags": {
+      "Alternate History": 10,
+      "Base-Building": 18,
+      "Early Access": 11,
+      "Historical": 8,
+      "Medieval": 15,
+      "RTS": 19,
+      "Strategy": 34
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

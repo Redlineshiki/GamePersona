@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:29.231449+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1185280,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Game Brewery",
+    "discount": "0",
+    "genre": "Indie, RPG, Simulation, Early Access",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Innkeeper",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 9,
+    "price": "299",
+    "publisher": "Game Brewery",
+    "score_rank": "",
+    "tags": {
+      "Cooking": 11,
+      "Early Access": 31,
+      "Indie": 81,
+      "RPG": 80,
+      "Simulation": 80,
+      "Strategy": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

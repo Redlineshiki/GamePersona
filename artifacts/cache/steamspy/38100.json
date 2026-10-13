@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:45:58.104291+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 38100,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Hip Soft",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Build-A-Lot 3: Passport to Europe",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 20,
+    "price": "999",
+    "publisher": "Next Game",
+    "score_rank": "",
+    "tags": {
+      "Building": 6,
+      "Simulation": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

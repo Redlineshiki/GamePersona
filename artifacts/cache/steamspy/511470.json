@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:32.989658+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 511470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 11,
+    "developer": "Onyx Lute",
+    "discount": "0",
+    "genre": "Casual, Indie",
+    "initialprice": "499",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Polish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Glass Masquerade",
+    "negative": 202,
+    "owners": "2,000,000 .. 5,000,000",
+    "positive": 6405,
+    "price": "499",
+    "publisher": "Onyx Lute",
+    "score_rank": "",
+    "tags": {
+      "2D": 18,
+      "Atmospheric": 61,
+      "Beautiful": 47,
+      "Casual": 88,
+      "Great Soundtrack": 53,
+      "Indie": 68,
+      "Puzzle": 437,
+      "Relaxing": 94,
+      "Singleplayer": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

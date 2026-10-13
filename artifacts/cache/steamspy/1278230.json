@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:02.580732+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1278230,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Ofek Ben Shalom, Eldar Ben Shalom",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "1099",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "DENIAL",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 9,
+    "price": "1099",
+    "publisher": "Ofek Ben Shalom, Eldar Ben Shalom",
+    "score_rank": "",
+    "tags": {
+      "Blood": 11,
+      "Dark": 11,
+      "First-Person": 13,
+      "Horror": 12,
+      "Indie": 31,
+      "Multiple Endings": 11,
+      "Psychological Horror": 13,
+      "Puzzle": 11,
+      "Singleplayer": 11,
+      "Survival Horror": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

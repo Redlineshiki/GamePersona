@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:59.836987+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1716950,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Company Not Found",
+    "discount": "0",
+    "genre": "Casual, Indie, Strategy",
+    "initialprice": "299",
+    "languages": "English, Portuguese - Brazil, Spanish - Latin America",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Gra&Vity",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 16,
+    "price": "299",
+    "publisher": "Company Not Found",
+    "score_rank": "",
+    "tags": {
+      "Abstract": 11,
+      "Casual": 74,
+      "Difficult": 87,
+      "Indie": 79,
+      "Logic": 60,
+      "Minimalist": 82,
+      "Puzzle": 13,
+      "Relaxing": 61,
+      "Short": 73,
+      "Singleplayer": 66,
+      "Solitaire": 26,
+      "Strategy": 46,
+      "Stylized": 56
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

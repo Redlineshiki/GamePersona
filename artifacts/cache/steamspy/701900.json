@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:53.137104+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 701900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Simple Blue",
+    "discount": "0",
+    "genre": "Adventure",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Splat the Blob",
+    "negative": 12,
+    "owners": "200,000 .. 500,000",
+    "positive": 107,
+    "price": "0",
+    "publisher": "Simple Blue",
+    "score_rank": "",
+    "tags": {
+      "3D Platformer": 9,
+      "Adventure": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:45.380406+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 881680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Dan",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Czech, Dutch, Finnish, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Thai, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mouse Enhancer Pro",
+    "negative": 21,
+    "owners": "0 .. 20,000",
+    "positive": 106,
+    "price": "999",
+    "publisher": "Dan",
+    "score_rank": "",
+    "tags": {
+      "Software": 11,
+      "Utilities": 32,
+      "e-sports": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

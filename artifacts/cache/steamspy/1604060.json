@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:32:48.537326+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1604060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 8,
+    "developer": "Childish Things Ltd",
+    "discount": "0",
+    "genre": "Simulation, Sports, Strategy",
+    "initialprice": "899",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cricket Captain 2021",
+    "negative": 27,
+    "owners": "0 .. 20,000",
+    "positive": 48,
+    "price": "899",
+    "publisher": "Childish Things Ltd",
+    "score_rank": "",
+    "tags": {
+      "Cricket": 29,
+      "Historical": 22,
+      "Management": 41,
+      "Multiplayer": 32,
+      "PvP": 24,
+      "Simulation": 53,
+      "Singleplayer": 36,
+      "Sports": 68,
+      "Strategy": 41
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

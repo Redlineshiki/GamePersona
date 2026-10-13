@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:00.171048+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 850980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Arc System Works",
+    "discount": "80",
+    "genre": "Action",
+    "initialprice": "999",
+    "languages": "English, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "GUILTY GEAR",
+    "negative": 113,
+    "owners": "50,000 .. 100,000",
+    "positive": 497,
+    "price": "199",
+    "publisher": "Arc System Works",
+    "score_rank": "",
+    "tags": {
+      "2D Fighter": 27,
+      "Action": 35,
+      "Anime": 22,
+      "Arcade": 10,
+      "Classic": 29,
+      "Controller": 14,
+      "Fighting": 31,
+      "Great Soundtrack": 12,
+      "Local Multiplayer": 16,
+      "Pixel Graphics": 6,
+      "Retro": 6,
+      "Singleplayer": 16,
+      "e-sports": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

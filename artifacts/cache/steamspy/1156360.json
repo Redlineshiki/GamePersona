@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:24:46.037982+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1156360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Nhat Nguyen",
+    "discount": "0",
+    "genre": "Casual, Indie, RPG, Simulation",
+    "initialprice": "1199",
+    "languages": "English, Vietnamese, French, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Peaceful Days",
+    "negative": 29,
+    "owners": "0 .. 20,000",
+    "positive": 169,
+    "price": "1199",
+    "publisher": "Nhat Nguyen",
+    "score_rank": "",
+    "tags": {
+      "Agriculture": 16,
+      "Early Access": 23,
+      "Farming Sim": 20,
+      "Indie": 44,
+      "Pixel Graphics": 19,
+      "RPG": 44,
+      "RPGMaker": 12,
+      "Simulation": 41
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

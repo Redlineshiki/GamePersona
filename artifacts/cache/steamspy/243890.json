@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:51:11.690376+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 243890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Bytes of Learning",
+    "discount": "0",
+    "genre": "Education, Software Training",
+    "initialprice": "2999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mavis Beacon Teaches Typing Family Edition",
+    "negative": 16,
+    "owners": "20,000 .. 50,000",
+    "positive": 15,
+    "price": "2999",
+    "publisher": "Encore",
+    "score_rank": "",
+    "tags": {
+      "Bullet Hell": 11,
+      "Cold War": 17,
+      "Conspiracy": 13,
+      "Cult Classic": 6,
+      "Education": 167,
+      "Epic": 6,
+      "Family Friendly": 9,
+      "Hentai": 24,
+      "Immersive": 34,
+      "NSFW": 5,
+      "Software Training": 31,
+      "Tactical": 15,
+      "Typing": 136,
+      "World War II": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:38.209855+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 798810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Myou",
+    "discount": "0",
+    "genre": "Simulation, Utilities",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Natural Locomotion",
+    "negative": 105,
+    "owners": "100,000 .. 200,000",
+    "positive": 486,
+    "price": "999",
+    "publisher": "Myou",
+    "score_rank": "",
+    "tags": {
+      "Immersive": 11,
+      "Simulation": 66,
+      "Utilities": 36,
+      "VR": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

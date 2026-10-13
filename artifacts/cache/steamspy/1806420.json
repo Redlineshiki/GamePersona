@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:34:38.625866+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1806420,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Freaks United",
+    "discount": "0",
+    "genre": "Casual, Strategy",
+    "initialprice": "1299",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Do U Copy?",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 23,
+    "price": "1299",
+    "publisher": "Freaks United",
+    "score_rank": "",
+    "tags": {
+      "Action RTS": 17,
+      "Asymmetric VR": 50,
+      "Asynchronous Multiplayer": 43,
+      "Casual": 57,
+      "Heist": 26,
+      "Level Editor": 17,
+      "Logic": 21,
+      "RTS": 21,
+      "Stealth": 27,
+      "Strategy": 20,
+      "Team-Based": 33,
+      "VR": 40
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

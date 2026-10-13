@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:28.748332+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1660890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "螺母游戏",
+    "discount": "0",
+    "genre": "Indie, RPG, Strategy",
+    "initialprice": "999",
+    "languages": "Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "混沌小队（CHAOS SQUAD）",
+    "negative": 21,
+    "owners": "0 .. 20,000",
+    "positive": 6,
+    "price": "999",
+    "publisher": "螺母游戏",
+    "score_rank": "",
+    "tags": {
+      "Cartoon": 19,
+      "Dark": 17,
+      "Dark Fantasy": 21,
+      "Dungeon Crawler": 45,
+      "Indie": 21,
+      "RPG": 47,
+      "Singleplayer": 15,
+      "Strategy": 61,
+      "Strategy RPG": 29,
+      "Third Person": 22,
+      "Top-Down": 25,
+      "Traditional Roguelike": 47,
+      "Turn-Based Strategy": 35,
+      "Turn-Based Tactics": 38
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

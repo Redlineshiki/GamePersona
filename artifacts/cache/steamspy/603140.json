@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:44.960964+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 603140,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Eternal Night Studios",
+    "discount": "0",
+    "genre": "Casual, Free To Play, Indie, Simulation",
+    "initialprice": "0",
+    "languages": "English, Spanish - Spain, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Connected Hearts - Visual novel",
+    "negative": 34,
+    "owners": "20,000 .. 50,000",
+    "positive": 290,
+    "price": "0",
+    "publisher": "Stw Projects, Ziel Graywords",
+    "score_rank": "",
+    "tags": {
+      "Anime": 21,
+      "Casual": 27,
+      "Free to Play": 46,
+      "Indie": 30,
+      "Psychological Horror": 5,
+      "Simulation": 28,
+      "Visual Novel": 37
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

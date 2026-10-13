@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:59:10.226775+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 374120,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Mint Arcade Ltd.",
+    "discount": "0",
+    "genre": "Indie, Simulation, Early Access",
+    "initialprice": "799",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Fork Truck Challenge",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 4,
+    "price": "799",
+    "publisher": "Mint Arcade Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Automobile Sim": 26,
+      "Early Access": 21,
+      "Indie": 20,
+      "Simulation": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

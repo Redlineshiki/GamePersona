@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:39.338657+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 419700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Mildbeast",
+    "discount": "0",
+    "genre": "Action, Casual, Indie",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Polish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "AT SUNDOWN: Shots in the Dark",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 29,
+    "price": "999",
+    "publisher": "Mildbeast",
+    "score_rank": "",
+    "tags": {
+      "Competitive": 14,
+      "Local Multiplayer": 18,
+      "Multiplayer": 5,
+      "Stealth": 14,
+      "Top-Down Shooter": 6,
+      "Twin Stick Shooter": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

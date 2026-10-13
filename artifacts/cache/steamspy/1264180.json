@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:41.568229+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1264180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Blueplanet VR",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "2499",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Blueplanet VR v2",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 47,
+    "price": "2499",
+    "publisher": "Blueplanet VR",
+    "score_rank": "",
+    "tags": {
+      "Beautiful": 12,
+      "Documentary": 13,
+      "Experience": 13,
+      "Nature": 11,
+      "Realistic": 12,
+      "Relaxing": 12,
+      "Simulation": 81,
+      "VR": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

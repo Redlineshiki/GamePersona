@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:55.255375+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 702790,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "quan home",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "199",
+    "languages": "Simplified Chinese, English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "午餐13",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 15,
+    "price": "199",
+    "publisher": "quan home",
+    "score_rank": "",
+    "tags": {
+      "Gore": 20,
+      "RPG": 20,
+      "Violent": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

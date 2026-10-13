@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:07.906817+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 638200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "Enlight Software Limited",
+    "discount": "0",
+    "genre": "Indie, Simulation, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Capitalism 2",
+    "negative": 96,
+    "owners": "50,000 .. 100,000",
+    "positive": 430,
+    "price": "999",
+    "publisher": "Enlight Software Limited , Retroism",
+    "score_rank": "",
+    "tags": {
+      "Capitalism": 61,
+      "Economy": 74,
+      "Indie": 33,
+      "Management": 58,
+      "RTS": 17,
+      "Simulation": 71,
+      "Strategy": 61,
+      "Villain Protagonist": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

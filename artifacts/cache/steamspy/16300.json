@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:44:54.017148+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 16300,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Queasy Games",
+    "discount": "0",
+    "genre": "Indie, Casual",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Everyday Shooter",
+    "negative": 6,
+    "owners": "20,000 .. 50,000",
+    "positive": 110,
+    "price": "999",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Bullet Hell": 6,
+      "Casual": 22,
+      "Great Soundtrack": 7,
+      "Indie": 32,
+      "Music": 12,
+      "Shoot 'Em Up": 9,
+      "Shooter": 10,
+      "Twin Stick Shooter": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

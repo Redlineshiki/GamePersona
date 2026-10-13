@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:14.072896+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 410210,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "PiGravity",
+    "discount": "0",
+    "genre": "Indie, Racing",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ampersand",
+    "negative": 689,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 378,
+    "price": "199",
+    "publisher": "Back To Basics Gaming",
+    "score_rank": "",
+    "tags": {
+      "Futuristic": 5,
+      "Indie": 38,
+      "Racing": 91,
+      "Singleplayer": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:14.233913+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 642770,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "EntroPi Games",
+    "discount": "50",
+    "genre": "Indie, Simulation, Audio Production",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Vinyl Reality - DJ in VR",
+    "negative": 11,
+    "owners": "0 .. 20,000",
+    "positive": 147,
+    "price": "999",
+    "publisher": "EntroPi Games",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 32,
+      "Education": 10,
+      "Immersive Sim": 10,
+      "Indie": 31,
+      "Music": 13,
+      "Simulation": 32,
+      "VR": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

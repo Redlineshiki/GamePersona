@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:44.482849+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 514130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "MicroProse Software",
+    "discount": "25",
+    "genre": "Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "European Air War",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 48,
+    "price": "749",
+    "publisher": "MicroProse Software",
+    "score_rank": "",
+    "tags": {
+      "Co-op": 21,
+      "Combat": 35,
+      "Flight": 47,
+      "Local Co-Op": 24,
+      "Local Multiplayer": 22,
+      "Multiplayer": 18,
+      "PvP": 26,
+      "Retro": 37,
+      "Simulation": 72,
+      "Singleplayer": 29,
+      "War": 16,
+      "World War II": 45
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

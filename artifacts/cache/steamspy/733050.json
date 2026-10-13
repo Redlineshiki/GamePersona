@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:41.452918+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 733050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Konstructors",
+    "discount": "60",
+    "genre": "Casual, Indie, Strategy",
+    "initialprice": "199",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Lines Infinite",
+    "negative": 46,
+    "owners": "20,000 .. 50,000",
+    "positive": 511,
+    "price": "79",
+    "publisher": "Hook Games",
+    "score_rank": "",
+    "tags": {
+      "Abstract": 14,
+      "Casual": 40,
+      "Indie": 38,
+      "Minimalist": 16,
+      "Puzzle": 24,
+      "Relaxing": 16,
+      "Strategy": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

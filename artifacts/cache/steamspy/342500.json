@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:06.082353+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 342500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Machine 22",
+    "discount": "0",
+    "genre": "Indie, Simulation, Strategy",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Human Extinction Simulator",
+    "negative": 26,
+    "owners": "20,000 .. 50,000",
+    "positive": 13,
+    "price": "1999",
+    "publisher": "Machine 22",
+    "score_rank": "",
+    "tags": {
+      "Difficult": 9,
+      "Hex Grid": 12,
+      "Indie": 21,
+      "Sci-fi": 12,
+      "Simulation": 22,
+      "Space": 16,
+      "Strategy": 24,
+      "Tactical": 11,
+      "Turn-Based": 15,
+      "Turn-Based Strategy": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

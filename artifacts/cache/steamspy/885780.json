@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:53.831702+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 885780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Turnspender",
+    "discount": "0",
+    "genre": "Indie, RPG",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Legion's Crawl",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 31,
+    "price": "499",
+    "publisher": "Turnspender",
+    "score_rank": "",
+    "tags": {
+      "Crafting": 11,
+      "Dungeon Crawler": 14,
+      "Fantasy": 13,
+      "Female Protagonist": 10,
+      "Indie": 33,
+      "Magic": 14,
+      "Mystery Dungeon": 11,
+      "Procedural Generation": 14,
+      "RPG": 32,
+      "Rogue-like": 26,
+      "Singleplayer": 13,
+      "Traditional Roguelike": 26,
+      "Turn-Based": 14
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

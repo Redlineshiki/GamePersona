@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:05.408149+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 469920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 7,
+    "developer": "ComCODE",
+    "discount": "0",
+    "genre": "Indie, Massively Multiplayer, RPG, Simulation",
+    "initialprice": "1899",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "hackmud",
+    "negative": 179,
+    "owners": "20,000 .. 50,000",
+    "positive": 647,
+    "price": "1899",
+    "publisher": "ComCODE",
+    "score_rank": "",
+    "tags": {
+      "Cyberpunk": 34,
+      "Hacking": 51,
+      "Indie": 40,
+      "Massively Multiplayer": 44,
+      "Memes": 26,
+      "Programming": 48,
+      "Puzzle": 32,
+      "RPG": 22,
+      "Simulation": 43,
+      "Text-Based": 30
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

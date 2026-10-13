@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:52.102811+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 701290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "IP Izmailov Vladimir Yurievich",
+    "discount": "25",
+    "genre": "Casual, Indie",
+    "initialprice": "899",
+    "languages": "English, Russian, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Dutch, Polish, Czech, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Legendary Mahjong",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 40,
+    "price": "674",
+    "publisher": "HH-Games",
+    "score_rank": "",
+    "tags": {
+      "Abstract": 29,
+      "Board Game": 46,
+      "Casual": 66,
+      "Classic": 25,
+      "Difficult": 36,
+      "Hand-drawn": 43,
+      "Indie": 71,
+      "Mahjong": 52,
+      "Puzzle": 60,
+      "PvE": 27,
+      "Singleplayer": 56,
+      "Tabletop": 40,
+      "Turn-Based": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

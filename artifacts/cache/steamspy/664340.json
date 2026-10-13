@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:45.904210+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 664340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Bernhard Potuzak",
+    "discount": "0",
+    "genre": "Indie, RPG",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Indeep | The casual dungeon crawler",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 19,
+    "price": "0",
+    "publisher": "Bernhard Potuzak",
+    "score_rank": "",
+    "tags": {
+      "Dungeon Crawler": 11,
+      "Fantasy": 11,
+      "Indie": 32,
+      "RPG": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

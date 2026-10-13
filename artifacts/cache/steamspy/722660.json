@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:24.631931+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 722660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "PulPul Games",
+    "discount": "0",
+    "genre": "Indie, Simulation, Strategy",
+    "initialprice": "1199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Startup Freak",
+    "negative": 16,
+    "owners": "0 .. 20,000",
+    "positive": 37,
+    "price": "1199",
+    "publisher": "PulPul Games",
+    "score_rank": "",
+    "tags": {
+      "Building": 11,
+      "Economy": 13,
+      "Indie": 32,
+      "Management": 21,
+      "Sandbox": 11,
+      "Simulation": 35,
+      "Singleplayer": 10,
+      "Strategy": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,34 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:39.075349+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 46360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Fulqrum Publishing",
+    "discount": "80",
+    "genre": "Simulation, Strategy",
+    "initialprice": "499",
+    "languages": "English, Russian, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Theatre of War 2: Kursk 1943",
+    "negative": 68,
+    "owners": "20,000 .. 50,000",
+    "positive": 152,
+    "price": "99",
+    "publisher": "Fulqrum Publishing",
+    "score_rank": "",
+    "tags": {
+      "RTS": 9,
+      "Simulation": 49,
+      "Strategy": 54,
+      "Tanks": 14,
+      "World War II": 19
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,8 +1,10 @@
 import pytest
 
-from gamepersona.audit import audit, coverage, replay
+from gamepersona.audit import audit, calculate, coverage, render, replay
 from gamepersona.sampling import select_games
-from gamepersona.storage import read_json
+from gamepersona.storage import read_json, write_json
+from gamepersona.ingest import import_kaggle
+from gamepersona.storage import Store
 
 
 def test_zero_denominator_unknown():
@@ -40,3 +42,37 @@ def test_replay_detects_changed_raw(imported):
     (imported.path("kg") / "raw" / "users.csv").write_text("changed")
     with pytest.raises(ValueError,match="原始"):
         replay(imported,"report")
+
+
+def test_full_fractional_duration_audit_is_exact_and_replayable(tmp_path):
+    source = tmp_path / "fractional"
+    source.mkdir()
+    (source / "games.csv").write_text("app_id,title\n1,One\n", encoding="utf-8")
+    (source / "games_metadata.json").write_text('{"app_id":1,"tags":["Action"]}\n', encoding="utf-8")
+    # Multiple database row groups expose parallel floating-point reduction drift.
+    count = 300000
+    with (source / "users.csv").open("w", encoding="utf-8") as users, \
+            (source / "recommendations.csv").open("w", encoding="utf-8") as records:
+        users.write("user_id\n")
+        records.write("app_id,user_id,review_id,hours,date,is_recommended\n")
+        for i in range(count):
+            users.write(f"{i}\n")
+            records.write(f"1,{i},{i},0.1,2024-01-01,true\n")
+    store = Store(tmp_path / "artifacts")
+    import_kaggle(store, "kg", source, hours_unit="hours", hours_evidence="fixture specification",
+                  memory_limit="256MiB", threads=1)
+    result = audit(store, "report", kaggle="kg")
+    rate = result["offline"]["metadata_duration_coverage"]
+    assert rate["numerator"] == rate["denominator"] == 30000.0
+    assert rate["ratio"] == 1.0
+    for _ in range(3):
+        assert replay(store, "report")["status"] == "identical"
+
+
+def test_legacy_report_replays_with_its_saved_calculation_version(imported):
+    metrics = calculate(imported, "kg", None, None, None, None, calculation_version="stage1-audit-v1")
+    path, manifest = imported.create("legacy-report", "report", metrics["snapshots"])
+    write_json(path / "metrics.json", metrics)
+    (path / "report.md").write_text(render(metrics), encoding="utf-8")
+    imported.finish(path, manifest)
+    assert replay(imported, "legacy-report")["metrics_sha256"] == metrics["metrics_sha256"]

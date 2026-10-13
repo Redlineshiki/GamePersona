@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:56.213177+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1710580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 34,
+    "developer": "Milestone S.r.l.",
+    "discount": "85",
+    "genre": "Racing, Simulation, Sports",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Simplified Chinese, Thai, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MotoGP22",
+    "negative": 291,
+    "owners": "100,000 .. 200,000",
+    "positive": 1190,
+    "price": "449",
+    "publisher": "Milestone S.r.l.",
+    "score_rank": "",
+    "tags": {
+      "Bikes": 35,
+      "Controller": 37,
+      "First-Person": 43,
+      "Local Multiplayer": 26,
+      "Motorbike": 24,
+      "Multiplayer": 41,
+      "PvP": 30,
+      "Racing": 84,
+      "Simulation": 75,
+      "Singleplayer": 25,
+      "Split Screen": 45,
+      "Sports": 67,
+      "Third Person": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

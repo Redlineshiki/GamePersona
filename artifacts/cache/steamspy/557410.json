@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:50.407206+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 557410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Peter Whalen",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Dream Quest",
+    "negative": 33,
+    "owners": "0 .. 20,000",
+    "positive": 277,
+    "price": "999",
+    "publisher": "Peter Whalen",
+    "score_rank": "",
+    "tags": {
+      "Card Battler": 22,
+      "Card Game": 18,
+      "Deckbuilding": 35,
+      "RPG": 27,
+      "Rogue-like": 45,
+      "Roguelike Deckbuilder": 504,
+      "Singleplayer": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

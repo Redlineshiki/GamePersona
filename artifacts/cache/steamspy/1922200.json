@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:35:38.503409+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1922200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Duodli",
+    "discount": "90",
+    "genre": "Casual, Indie",
+    "initialprice": "1099",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Spoils Of War",
+    "negative": 2,
+    "owners": "0 .. 20,000",
+    "positive": 10,
+    "price": "109",
+    "publisher": "kazakovstudios",
+    "score_rank": "",
+    "tags": {
+      "Artificial Intelligence": 23,
+      "Casual": 49,
+      "Creature Collector": 38,
+      "Difficult": 32,
+      "Dungeon Crawler": 44,
+      "Hidden Object": 33,
+      "Indie": 21,
+      "Singleplayer": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

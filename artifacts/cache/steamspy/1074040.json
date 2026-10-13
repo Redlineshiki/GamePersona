@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:22.840425+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1074040,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Patrick Wilson",
+    "discount": "0",
+    "genre": "RPG, Early Access",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Red Prison",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 35,
+    "price": "0",
+    "publisher": "Patrick Wilson",
+    "score_rank": "",
+    "tags": {
+      "Dungeons & Dragons": 18,
+      "Early Access": 53,
+      "Indie": 12,
+      "RPG": 23,
+      "Rogue-like": 75,
+      "Traditional Roguelike": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

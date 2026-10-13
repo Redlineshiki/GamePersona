@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:15:50.809918+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 809340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "A Nostru",
+    "discount": "0",
+    "genre": "Casual, Indie, Racing, Sports",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Extreme School Driving Simulator",
+    "negative": 33,
+    "owners": "0 .. 20,000",
+    "positive": 60,
+    "price": "199",
+    "publisher": "My Way Games",
+    "score_rank": "",
+    "tags": {
+      "Action": 26,
+      "Automobile Sim": 57,
+      "Casual": 52,
+      "Driving": 76,
+      "Family Friendly": 62,
+      "Horror": 30,
+      "Indie": 87,
+      "Racing": 50,
+      "Relaxing": 58,
+      "Simulation": 61,
+      "Singleplayer": 72,
+      "Space": 28,
+      "Sports": 79
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

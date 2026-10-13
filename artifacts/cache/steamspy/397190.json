@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:00:42.572728+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 397190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Byzantine Games",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "2999",
+    "languages": "English, German, Spanish - Spain, French",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Sengoku Jidai: Shadow of the Shogun",
+    "negative": 43,
+    "owners": "20,000 .. 50,000",
+    "positive": 143,
+    "price": "2999",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Grand Strategy": 26,
+      "Historical": 32,
+      "Military": 40,
+      "Ninja": 14,
+      "Strategy": 62,
+      "Tactical": 7,
+      "Turn-Based Strategy": 29,
+      "Turn-Based Tactics": 6,
+      "Wargame": 8
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

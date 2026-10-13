@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:06:07.600955+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 521720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "KOEI TECMO GAMES CO., LTD.",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "1299",
+    "languages": "Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Uncharted Waters",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 25,
+    "price": "1299",
+    "publisher": "KOEI TECMO GAMES CO., LTD.",
+    "score_rank": "",
+    "tags": {
+      "RPG": 43,
+      "Retro": 6,
+      "Trading": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

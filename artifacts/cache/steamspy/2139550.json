@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:39.479325+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2139550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Atomic Fabrik",
+    "discount": "0",
+    "genre": "Casual, Indie, Racing, Simulation",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "City Construction Simulator",
+    "negative": 4,
+    "owners": "0 .. 20,000",
+    "positive": 17,
+    "price": "99",
+    "publisher": "Atomic Fabrik",
+    "score_rank": "",
+    "tags": {
+      "Base-Building": 25,
+      "Building": 32,
+      "Casual": 68,
+      "City Builder": 26,
+      "Family Friendly": 19,
+      "Indie": 21,
+      "Management": 22,
+      "Open World": 16,
+      "Racing": 58,
+      "Simulation": 62,
+      "Singleplayer": 36,
+      "Time Management": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

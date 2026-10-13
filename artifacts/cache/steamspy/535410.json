@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:06:39.071157+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 535410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "RowlesCorp Studios",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "799",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Saga of the Void: Admirals",
+    "negative": 6,
+    "owners": "20,000 .. 50,000",
+    "positive": 27,
+    "price": "799",
+    "publisher": "Self-Published",
+    "score_rank": "",
+    "tags": {
+      "RTS": 12,
+      "Space": 12,
+      "Strategy": 32,
+      "VR": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

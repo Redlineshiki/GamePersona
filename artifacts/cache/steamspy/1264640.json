@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:42.659907+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1264640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Wallpaper Master Team",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "299",
+    "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Wallpaper Master",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 9,
+    "price": "299",
+    "publisher": "Wallpaper Master Team",
+    "score_rank": "",
+    "tags": {
+      "Software": 11,
+      "Utilities": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

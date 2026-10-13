@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:05:27.752710+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 509130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Fabricated Reality Software",
+    "discount": "0",
+    "genre": "Indie, Racing, Simulation",
+    "initialprice": "699",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "RC-AirSim - RC Model Airplane Flight Simulator",
+    "negative": 11,
+    "owners": "0 .. 20,000",
+    "positive": 37,
+    "price": "699",
+    "publisher": "Fabricated Reality Software",
+    "score_rank": "",
+    "tags": {
+      "Flight": 6,
+      "Indie": 21,
+      "Racing": 19,
+      "Simulation": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

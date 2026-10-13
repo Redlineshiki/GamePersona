@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:52.361614+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 588190,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 7,
+    "developer": "FeelThere",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "5999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Tower!3D Pro",
+    "negative": 305,
+    "owners": "100,000 .. 200,000",
+    "positive": 608,
+    "price": "5999",
+    "publisher": "FeelThere ",
+    "score_rank": "",
+    "tags": {
+      "Flight": 17,
+      "Management": 12,
+      "Multiplayer": 11,
+      "Realistic": 8,
+      "Simulation": 58,
+      "Voice Control": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

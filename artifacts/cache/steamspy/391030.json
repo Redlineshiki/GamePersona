@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:00:12.875330+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 391030,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Burut CT",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "799",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hard to Be a God",
+    "negative": 21,
+    "owners": "20,000 .. 50,000",
+    "positive": 103,
+    "price": "799",
+    "publisher": "Akella",
+    "score_rank": "",
+    "tags": {
+      "Medieval": 10,
+      "RPG": 35,
+      "Sci-fi": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

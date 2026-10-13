@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:31:47.156540+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1529570,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 63,
+    "developer": "Screaming Bee",
+    "discount": "0",
+    "genre": "Audio Production",
+    "initialprice": "3999",
+    "languages": "English, German, Spanish - Spain, Japanese, Korean, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MorphVOX Pro 5 - Voice Changer",
+    "negative": 96,
+    "owners": "0 .. 20,000",
+    "positive": 88,
+    "price": "3999",
+    "publisher": "Screaming Bee",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:06.076682+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1063520,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Tony Floyd",
+    "discount": "0",
+    "genre": "Design & Illustration, Photo Editing, Utilities, Game Development",
+    "initialprice": "3499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Universal Character Generator",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 13,
+    "price": "3499",
+    "publisher": "Tony Floyd",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 23,
+      "Game Development": 23,
+      "Photo Editing": 22,
+      "Utilities": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

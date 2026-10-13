@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:02:42.402411+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 436690,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Aartform Games",
+    "discount": "0",
+    "genre": "Indie, Simulation, Strategy",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Tempest Citadel",
+    "negative": 14,
+    "owners": "0 .. 20,000",
+    "positive": 41,
+    "price": "1999",
+    "publisher": "Aartform Games",
+    "score_rank": "",
+    "tags": {
+      "Indie": 20,
+      "Simulation": 20,
+      "Strategy": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

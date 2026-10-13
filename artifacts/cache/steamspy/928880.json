@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:48.781016+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 928880,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Thetis Games",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "2499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "FlyWings 2018 Flight Simulator",
+    "negative": 33,
+    "owners": "0 .. 20,000",
+    "positive": 9,
+    "price": "2499",
+    "publisher": "Thetis Games",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

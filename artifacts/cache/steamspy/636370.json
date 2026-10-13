@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:03.714946+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 636370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Cipher Hive",
+    "discount": "89",
+    "genre": "RPG",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Sun Never Sets",
+    "negative": 24,
+    "owners": "50,000 .. 100,000",
+    "positive": 24,
+    "price": "54",
+    "publisher": "My Way Games",
+    "score_rank": "",
+    "tags": {
+      "RPG": 36,
+      "RPGMaker": 7
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

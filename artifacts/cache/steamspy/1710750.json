@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:57.071833+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1710750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Nyxtales",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "499",
+    "languages": "English, Japanese, Korean, Simplified Chinese, Vietnamese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Slit Mouthed - 口裂け女",
+    "negative": 14,
+    "owners": "0 .. 20,000",
+    "positive": 62,
+    "price": "499",
+    "publisher": "Nyxtales",
+    "score_rank": "",
+    "tags": {
+      "Cinematic": 33,
+      "Gore": 23,
+      "Horror": 47,
+      "Indie": 23,
+      "Psychological Horror": 36,
+      "Singleplayer": 25,
+      "Stealth": 23,
+      "Story Rich": 30,
+      "Survival Horror": 40,
+      "Violent": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:01.526353+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1278200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Brazen Legions",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1899",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Spacer: Legacies",
+    "negative": 7,
+    "owners": "50,000 .. 100,000",
+    "positive": 14,
+    "price": "1899",
+    "publisher": "Brazen Legions",
+    "score_rank": "",
+    "tags": {
+      "Sci-fi": 13,
+      "Space": 14,
+      "Strategy": 82,
+      "Tactical": 14,
+      "Tactical RPG": 11,
+      "Turn-Based Combat": 13,
+      "Turn-Based Strategy": 10,
+      "Turn-Based Tactics": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

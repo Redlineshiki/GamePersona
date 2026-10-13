@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:41.762815+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 602860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Totem Games",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ironclads 2: Boshin War",
+    "negative": 2,
+    "owners": "0 .. 20,000",
+    "positive": 16,
+    "price": "999",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "Naval": 5,
+      "Simulation": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

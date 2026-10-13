@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:33.201426+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 655480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "BrainGoodGames",
+    "discount": "50",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Solar Settlers",
+    "negative": 12,
+    "owners": "20,000 .. 50,000",
+    "positive": 286,
+    "price": "499",
+    "publisher": "BrainGoodGames",
+    "score_rank": "",
+    "tags": {
+      "Board Game": 13,
+      "Card Game": 15,
+      "Indie": 11,
+      "Procedural Generation": 12,
+      "Puzzle": 12,
+      "Sci-fi": 11,
+      "Space": 12,
+      "Strategy": 34,
+      "Turn-Based": 14,
+      "Turn-Based Strategy": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:48.826379+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1314840,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "namespace.media",
+    "discount": "0",
+    "genre": "Adventure, Free To Play, Indie",
+    "initialprice": "0",
+    "languages": "English, French, German, Dutch",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "encrypt.",
+    "negative": 2,
+    "owners": "0 .. 20,000",
+    "positive": 26,
+    "price": "0",
+    "publisher": "namespace.media",
+    "score_rank": "",
+    "tags": {
+      "2D Platformer": 12,
+      "Adventure": 55,
+      "Cyberpunk": 11,
+      "Free to Play": 59,
+      "Great Soundtrack": 11,
+      "Indie": 56,
+      "Puzzle-Platformer": 11,
+      "Retro": 12,
+      "Singleplayer": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

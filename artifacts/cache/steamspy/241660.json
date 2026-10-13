@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:50:59.497237+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 241660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 49,
+    "developer": "GRAOUMF",
+    "discount": "0",
+    "genre": "Audio Production, Software Training",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ohm Studio",
+    "negative": 134,
+    "owners": "50,000 .. 100,000",
+    "positive": 178,
+    "price": "0",
+    "publisher": "Ohm Force",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 35,
+      "Software Training": 27,
+      "Utilities": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

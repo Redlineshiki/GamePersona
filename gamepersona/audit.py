@@ -44,7 +44,10 @@ def tag_metrics(app_ids: set[int], tags: list[dict], scope: str) -> dict:
 
 
 def calculate(store: Store, kaggle: str, steamspy: str | None, steam: str | None,
-              selection: str | None, sources: str | None) -> dict:
+              selection: str | None, sources: str | None, *,
+              calculation_version: str = "stage1-audit-v2") -> dict:
+    if calculation_version not in {"stage1-audit-v1", "stage1-audit-v2"}:
+        raise ValueError("不支持的审计计算版本")
     kg = store.load(kaggle, "kaggle")
     spy = store.load(steamspy, "steamspy") if steamspy else None
     sel = store.load(selection, "selection") if selection else None
@@ -58,7 +61,11 @@ def calculate(store: Store, kaggle: str, steamspy: str | None, steam: str | None
     if sel and sel["config"]["steam_snapshot"] != steam:
         raise ValueError("账号快照必须与候选选样时一致")
     tags = read_json(store.path(steamspy) / "tags.json") if steamspy else []
-    con = connect(store.path(kaggle) / "audit.duckdb", read_only=True)
+    # V2 uses a stable scan and compensated summation. Parallel floating-point
+    # reductions drift between runs on the full 41-million-row data set.
+    duration_sum = "sum" if calculation_version == "stage1-audit-v1" else "fsum"
+    con = connect(store.path(kaggle) / "audit.duckdb", threads=4 if calculation_version == "stage1-audit-v1" else 1,
+                  read_only=True)
     try:
         attach_tags(con, tags)
         app_ids = {r[0] for r in con.execute("SELECT DISTINCT app_id FROM records WHERE app_id>0").fetchall()}
@@ -99,9 +106,9 @@ def calculate(store: Store, kaggle: str, steamspy: str | None, steam: str | None
             "scorable_duration_coverage": {"value": None,"reason": "待第二阶段；有标签不等于可计分"},
         }
         if kg["config"]["hours_unit"] != "unverified":
-            total_hours = con.execute(f"SELECT coalesce(sum(duration_hours),0) FROM records WHERE duration_state='positive' AND {UNIQUE_DURATION}").fetchone()[0]
-            matched_hours = con.execute(f"SELECT coalesce(sum(duration_hours),0) FROM records WHERE duration_state='positive' AND game_matched AND {UNIQUE_DURATION}").fetchone()[0]
-            tagged_hours = con.execute(f"SELECT coalesce(sum(r.duration_hours),0) FROM records r JOIN spy_tags s ON r.app_id=s.app_id WHERE r.duration_state='positive' AND s.status='available' AND {UNIQUE_DURATION}").fetchone()[0]
+            total_hours = con.execute(f"SELECT coalesce({duration_sum}(duration_hours),0) FROM records WHERE duration_state='positive' AND {UNIQUE_DURATION}").fetchone()[0]
+            matched_hours = con.execute(f"SELECT coalesce({duration_sum}(duration_hours),0) FROM records WHERE duration_state='positive' AND game_matched AND {UNIQUE_DURATION}").fetchone()[0]
+            tagged_hours = con.execute(f"SELECT coalesce({duration_sum}(r.duration_hours),0) FROM records r JOIN spy_tags s ON r.app_id=s.app_id WHERE r.duration_state='positive' AND s.status='available' AND {UNIQUE_DURATION}").fetchone()[0]
             offline["duration_coverage_conflict_policy"] = "冲突累计时长不进入加权覆盖分子或分母，数量在隔离统计中另报"
             offline["metadata_duration_coverage"] = coverage(matched_hours,total_hours,"离线已核实单位的已知正时长；仅元数据匹配")
             offline["tag_duration_coverage"] = coverage(tagged_hours,total_hours,"离线已核实单位的已知正时长；仅标签存在")
@@ -156,7 +163,7 @@ def calculate(store: Store, kaggle: str, steamspy: str | None, steam: str | None
         for name, evidence in source["evidence"].items():
             if evidence["status"] != "ok":
                 blockers.append(f"来源证据获取失败：{name}")
-    result = {"schema_version":"stage1-audit-v1", "snapshots": {"kaggle":kaggle,"steamspy":steamspy,
+    result = {"schema_version":calculation_version, "snapshots": {"kaggle":kaggle,"steamspy":steamspy,
               "steam":steam,"selection":selection,"sources":sources},
               "offline":offline,"online":online,
               "selection": {k: sel[k] for k in ("base_games","account_games","total_games","available_population")} if sel else None,
@@ -186,6 +193,8 @@ def render(metrics: dict) -> str:
               "", "## 时长与用户记录", "",
               f"来源时长最大值：{offline['source_duration_maximum']}；该值记录数：{offline['records_at_maximum']}。",
               "上限集中不证明真实游玩上限；时间语义未核实前不能用于历史预测。",
+              "单位证据不证明数值无误。作者历史采集代码存在千位逗号解析失真及失败默认零的风险；当前 CSV 无法逐条反推修复，零值也不一定代表实际未游玩。来源代码、适用边界及证据快照见项目 docs/STAGE1_EVIDENCE_RESEARCH.md。",
+              "采集时累计时长不等于评论创建时长，逐行采集时间没有导出；导出生成的 review_id 不作为跨版本稳定 Steam 评论标识。",
               "", "```json", __import__('json').dumps({k:offline[k] for k in ['users_before_cleaning','users_after_cleaning','user_input_observable_games','user_observable_games','user_missing_duration_ratio','user_filter_loss_ratio','user_positive_games','user_known_hours','review_date_range','duration_top_values','metadata_tag_states','metadata_tag_count','spy_tag_counts','spy_vote_totals','product_kinds','metadata_duration_coverage','tag_duration_coverage','steamspy']}, ensure_ascii=False,indent=2), "```",
               "", "## 线上实测", "", "```json", __import__('json').dumps(online, ensure_ascii=False,indent=2), "```",
               "", "## 特征与下一阶段", "", "八维特征可用率与可计分时长覆盖率：待第二阶段。标签存在率不能代替特征完整性。", ""]
@@ -201,7 +210,8 @@ def audit(store: Store, report: str, *, kaggle: str, steamspy: str | None = None
     path, manifest = store.create(report,"report", metrics["snapshots"])
     write_json(path / "metrics.json",metrics)
     (path / "report.md").write_text(render(metrics),encoding="utf-8")
-    store.finish(path,manifest,stage_status=metrics["stage_acceptance"]["status"],metrics_sha256=metrics["metrics_sha256"])
+    store.finish(path,manifest,stage_status=metrics["stage_acceptance"]["status"],metrics_sha256=metrics["metrics_sha256"],
+                 calculation_version=metrics["schema_version"])
     return metrics
 
 
@@ -219,8 +229,9 @@ def replay(store: Store, report: str) -> dict:
     for info in kg["normalized_files"]:
         if sha256(store.path(config["kaggle"]) / "normalized" / info["name"]) != info["sha256"]:
             raise ValueError("规范化快照已发生变化")
-    metrics = calculate(store,**{k:config[k] for k in ("kaggle","steamspy","steam","selection","sources")})
     expected = read_json(store.path(report) / "metrics.json")
+    metrics = calculate(store,**{k:config[k] for k in ("kaggle","steamspy","steam","selection","sources")},
+                        calculation_version=expected["schema_version"])
     if metrics != expected:
         raise ValueError("离线重算与固定报告不一致；请检查快照是否被修改")
     return {"status":"identical","metrics_sha256":metrics["metrics_sha256"]}

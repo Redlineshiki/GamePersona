@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:56.208289+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 741150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 13,
+    "developer": "Artware Studio",
+    "discount": "0",
+    "genre": "Nudity, Design & Illustration",
+    "initialprice": "999",
+    "languages": "English, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "ArtPose Pro",
+    "negative": 52,
+    "owners": "0 .. 20,000",
+    "positive": 211,
+    "price": "999",
+    "publisher": "Artware Studio",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 25,
+      "Nudity": 19
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

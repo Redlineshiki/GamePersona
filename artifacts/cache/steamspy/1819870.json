@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:34:52.242180+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1819870,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Wolverine Studios",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports, Strategy",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Draft Day Sports: Pro Basketball 2022",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 12,
+    "price": "1999",
+    "publisher": "Wolverine Studios",
+    "score_rank": "",
+    "tags": {
+      "Basketball": 43,
+      "Indie": 21,
+      "Simulation": 54,
+      "Singleplayer": 27,
+      "Sports": 60,
+      "Strategy": 53
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

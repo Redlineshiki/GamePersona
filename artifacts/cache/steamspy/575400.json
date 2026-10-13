@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:19.896494+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 575400,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "gearspecs",
+    "discount": "0",
+    "genre": "Indie, Racing, Simulation",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Try Hard Parking",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 67,
+    "price": "199",
+    "publisher": "gearspecs",
+    "score_rank": "",
+    "tags": {
+      "Automobile Sim": 35,
+      "Difficult": 13,
+      "Driving": 10,
+      "Indie": 34,
+      "Isometric": 15,
+      "Racing": 22,
+      "Retro": 11,
+      "Simulation": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

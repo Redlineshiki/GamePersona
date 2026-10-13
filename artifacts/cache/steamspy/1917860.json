@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:35:35.369913+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1917860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sander Bos",
+    "discount": "80",
+    "genre": "Indie, Simulation",
+    "initialprice": "1499",
+    "languages": "English, German, French",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Visionarium 2 - The Descent",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 42,
+    "price": "299",
+    "publisher": "Sander Bos",
+    "score_rank": "",
+    "tags": {
+      "Exploration": 27,
+      "Fantasy": 65,
+      "Futuristic": 62,
+      "Immersive Sim": 31,
+      "Indie": 50,
+      "Interactive Fiction": 71,
+      "Linear": 52,
+      "Psychedelic": 57,
+      "Simulation": 77,
+      "Singleplayer": 34,
+      "Surreal": 30,
+      "VR": 70
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

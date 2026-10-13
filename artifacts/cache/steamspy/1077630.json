@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:28.123672+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1077630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "Statto Software",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports, Strategy",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Australian Football Coach 2020",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 23,
+    "price": "1499",
+    "publisher": "Statto Software",
+    "score_rank": "",
+    "tags": {
+      "Football (American)": 9,
+      "Indie": 56,
+      "Management": 12,
+      "Simulation": 56,
+      "Sports": 59,
+      "Strategy": 55
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

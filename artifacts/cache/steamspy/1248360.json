@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:10.129532+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1248360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 8,
+    "developer": "Frankly Dog",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "WalkinVR",
+    "negative": 4,
+    "owners": "20,000 .. 50,000",
+    "positive": 46,
+    "price": "0",
+    "publisher": "Frankly Dog",
+    "score_rank": "",
+    "tags": {
+      "Controller": 11,
+      "Utilities": 22,
+      "VR": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

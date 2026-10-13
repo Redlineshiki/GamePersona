@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:51:26.384190+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 248510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Illwinter Game Design",
+    "discount": "0",
+    "genre": "Indie, Strategy",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Dominions 3: The Awakening",
+    "negative": 23,
+    "owners": "20,000 .. 50,000",
+    "positive": 101,
+    "price": "1999",
+    "publisher": "Illwinter Game Design",
+    "score_rank": "",
+    "tags": {
+      "4X": 13,
+      "Difficult": 9,
+      "Fantasy": 16,
+      "God Game": 15,
+      "Grand Strategy": 19,
+      "Indie": 36,
+      "Moddable": 11,
+      "Multiplayer": 12,
+      "Singleplayer": 9,
+      "Strategy": 49,
+      "Turn-Based": 20,
+      "Turn-Based Strategy": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

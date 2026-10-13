@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:16.607588+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 281390,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Strategy First",
+    "discount": "80",
+    "genre": "Strategy",
+    "initialprice": "399",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "O.R.B: Off-World Resource Base",
+    "negative": 23,
+    "owners": "20,000 .. 50,000",
+    "positive": 79,
+    "price": "79",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "RTS": 20,
+      "Sci-fi": 14,
+      "Space": 30,
+      "Strategy": 49
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

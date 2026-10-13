@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:37:14.084384+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 3167020,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Team Soda",
+    "discount": "30",
+    "genre": "Action, Adventure, Indie, RPG",
+    "initialprice": "1799",
+    "languages": "Simplified Chinese, English, Traditional Chinese, Japanese, German, Russian, Spanish - Latin America, Korean, French, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Escape From Duckov",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "1259",
+    "publisher": "bilibili",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

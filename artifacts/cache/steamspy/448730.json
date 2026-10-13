@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:18.083226+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 448730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Game Studio Abraham Stolk Inc.",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "799",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Imhotep, Pyramid Builder",
+    "negative": 4,
+    "owners": "0 .. 20,000",
+    "positive": 12,
+    "price": "799",
+    "publisher": "Game Studio Abraham Stolk Inc.",
+    "score_rank": "",
+    "tags": {
+      "Economy": 10,
+      "Simulation": 21,
+      "Strategy": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

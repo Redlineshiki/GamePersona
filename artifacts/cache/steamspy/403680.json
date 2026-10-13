@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:01.508975+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 403680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Quandary Solutions LTD",
+    "discount": "0",
+    "genre": "Action, Indie, Racing",
+    "initialprice": "699",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Dexterity Ball 3D",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 9,
+    "price": "699",
+    "publisher": "Quandary Solutions LTD",
+    "score_rank": "",
+    "tags": {
+      "3D Platformer": 12,
+      "Action": 33,
+      "Difficult": 12,
+      "Indie": 21,
+      "Multiplayer": 11,
+      "Physics": 12,
+      "Puzzle-Platformer": 12,
+      "Racing": 21,
+      "Singleplayer": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

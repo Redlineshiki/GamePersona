@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:23.359099+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 450570,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "United Independent Entertainment",
+    "discount": "0",
+    "genre": "Casual, Simulation",
+    "initialprice": "299",
+    "languages": "English, French, Italian, German, Dutch, Polish, Hungarian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Roadworks Simulator",
+    "negative": 22,
+    "owners": "0 .. 20,000",
+    "positive": 5,
+    "price": "299",
+    "publisher": "United Independent Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Casual": 22,
+      "Simulation": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

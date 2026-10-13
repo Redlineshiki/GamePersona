@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:34:56.421014+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1829470,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Icetesy",
+    "discount": "67",
+    "genre": "Indie",
+    "initialprice": "1499",
+    "languages": "English, French, Spanish - Spain, Portuguese - Brazil, Japanese, Korean, Russian, Simplified Chinese, Thai, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Melody's Escape 2",
+    "negative": 22,
+    "owners": "20,000 .. 50,000",
+    "positive": 274,
+    "price": "494",
+    "publisher": "Icetesy",
+    "score_rank": "",
+    "tags": {
+      "Character Customization": 85,
+      "Colorful": 87,
+      "Early Access": 59,
+      "Female Protagonist": 76,
+      "Indie": 68,
+      "Music": 92,
+      "Music-Based Procedural Generation": 101,
+      "Rhythm": 95,
+      "Runner": 71
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

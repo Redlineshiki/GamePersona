@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:57.418011+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 632750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "OrangeStar",
+    "discount": "0",
+    "genre": "Utilities, Video Production",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "StarPlayerVR",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 11,
+    "price": "999",
+    "publisher": "OrangeStar",
+    "score_rank": "",
+    "tags": {
+      "Utilities": 22,
+      "VR": 6,
+      "Video Production": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:02.520397+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 742540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Bullid Games",
+    "discount": "0",
+    "genre": "Casual, Indie",
+    "initialprice": "299",
+    "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Greek, Simplified Chinese, Portuguese - Portugal, Russian, Turkish, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Keep Rollin!",
+    "negative": 13,
+    "owners": "50,000 .. 100,000",
+    "positive": 27,
+    "price": "299",
+    "publisher": "Bullid Games",
+    "score_rank": "",
+    "tags": {
+      "Casual": 21,
+      "Indie": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

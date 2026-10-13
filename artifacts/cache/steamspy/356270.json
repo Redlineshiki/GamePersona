@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:52.797354+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 356270,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "G5 Software",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "499",
+    "languages": "English, Russian, German, Bulgarian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cuban Missile Crisis",
+    "negative": 66,
+    "owners": "50,000 .. 100,000",
+    "positive": 204,
+    "price": "499",
+    "publisher": "Fulqrum Publishing",
+    "score_rank": "",
+    "tags": {
+      "Cold War": 9,
+      "RTS": 14,
+      "Strategy": 43
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

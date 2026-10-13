@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:03.460342+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 976410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Peter Brinson",
+    "discount": "0",
+    "genre": "Free To Play, Indie",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Infinite Children",
+    "negative": 47,
+    "owners": "20,000 .. 50,000",
+    "positive": 86,
+    "price": "0",
+    "publisher": "Southern Accident",
+    "score_rank": "",
+    "tags": {
+      "Free to Play": 35,
+      "Indie": 34
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

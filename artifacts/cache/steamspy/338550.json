@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:56:55.461208+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 338550,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "DM Media",
+    "discount": "75",
+    "genre": "Casual, Indie",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Terra Lander Remastered",
+    "negative": 93,
+    "owners": "50,000 .. 100,000",
+    "positive": 129,
+    "price": "74",
+    "publisher": "Funbox Media Ltd",
+    "score_rank": "",
+    "tags": {
+      "Arcade": 15,
+      "Casual": 42,
+      "Indie": 52,
+      "Retro": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

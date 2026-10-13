@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:29:10.909435+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1335290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Dennkind",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "399",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Dennkind Dock",
+    "negative": 16,
+    "owners": "0 .. 20,000",
+    "positive": 66,
+    "price": "399",
+    "publisher": "Dennkind",
+    "score_rank": "",
+    "tags": {
+      "Software": 12,
+      "Utilities": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

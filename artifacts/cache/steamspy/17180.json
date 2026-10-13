@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:44:57.167523+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 17180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Tilted Mill Entertainment, Inc.",
+    "discount": "75",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mosby's Confederacy",
+    "negative": 14,
+    "owners": "20,000 .. 50,000",
+    "positive": 25,
+    "price": "249",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Historical": 7,
+      "Strategy": 29
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:56.569675+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 588750,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "WildLabs",
+    "discount": "0",
+    "genre": "Indie, Racing, Simulation, Sports",
+    "initialprice": "699",
+    "languages": "English, Russian, French, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "King Of Dirt",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 15,
+    "price": "699",
+    "publisher": "WildLabs",
+    "score_rank": "",
+    "tags": {
+      "BMX": 27,
+      "Bikes": 25,
+      "Indie": 22,
+      "Racing": 20,
+      "Simulation": 23,
+      "Sports": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

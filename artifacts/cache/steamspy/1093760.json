@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:00.644910+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1093760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Home Net Games",
+    "discount": "80",
+    "genre": "Indie, Strategy",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Ukrainian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Shogun's Empire: Hex Commander",
+    "negative": 15,
+    "owners": "20,000 .. 50,000",
+    "positive": 53,
+    "price": "199",
+    "publisher": "Home Net Games",
+    "score_rank": "",
+    "tags": {
+      "Economy": 13,
+      "Free to Play": 5,
+      "Indie": 44,
+      "Politics": 13,
+      "Simulation": 13,
+      "Strategy": 47,
+      "Turn-Based Strategy": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

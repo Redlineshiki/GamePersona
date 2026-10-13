@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:44:19.280942+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 8890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Irrational Games",
+    "discount": "75",
+    "genre": "RPG, Strategy",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Freedom Force vs. the Third Reich",
+    "negative": 43,
+    "owners": "100,000 .. 200,000",
+    "positive": 246,
+    "price": "124",
+    "publisher": "2K",
+    "score_rank": "",
+    "tags": {
+      "Comic Book": 11,
+      "RPG": 43,
+      "Real-Time with Pause": 18,
+      "Singleplayer": 5,
+      "Strategy": 41,
+      "Superhero": 24,
+      "Tactical": 5,
+      "World War II": 7
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

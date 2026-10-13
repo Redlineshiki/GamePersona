@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:41.918646+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 317080,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Ghost Machine",
+    "discount": "0",
+    "genre": "Racing, Simulation, Sports",
+    "initialprice": "1499",
+    "languages": "English, French, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MotorSport Revolution",
+    "negative": 65,
+    "owners": "0 .. 20,000",
+    "positive": 14,
+    "price": "1499",
+    "publisher": "Ghost Machine",
+    "score_rank": "",
+    "tags": {
+      "Racing": 24,
+      "Simulation": 26,
+      "Sports": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

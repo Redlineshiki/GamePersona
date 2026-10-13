@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:22.714620+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 647500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Distorted Games",
+    "discount": "0",
+    "genre": "Violent, Gore, Indie",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Near Death Experience",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 18,
+    "price": "499",
+    "publisher": "Distorted Games",
+    "score_rank": "",
+    "tags": {
+      "Gore": 23,
+      "Horror": 15,
+      "Indie": 22,
+      "Psychological Horror": 16,
+      "Survival Horror": 13,
+      "Violent": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

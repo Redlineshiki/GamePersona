@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:40.093726+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 880380,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Out of the Park Developments, Minos Games",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports, Strategy",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Franchise Hockey Manager 5",
+    "negative": 62,
+    "owners": "0 .. 20,000",
+    "positive": 90,
+    "price": "1999",
+    "publisher": "Out of the Park Developments",
+    "score_rank": "",
+    "tags": {
+      "Hockey": 8,
+      "Indie": 43,
+      "Management": 7,
+      "Simulation": 44,
+      "Sports": 48,
+      "Strategy": 42
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

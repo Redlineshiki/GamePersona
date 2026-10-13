@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:22:34.403239+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1081730,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 7,
+    "developer": "Medis Media",
+    "discount": "0",
+    "genre": "Simulation, Education, Software Training",
+    "initialprice": "0",
+    "languages": "English, Italian, German, Spanish - Spain, Polish, Portuguese - Portugal, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese, French, Greek, Russian, Ukrainian, Dutch",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "3D Organon VR Anatomy",
+    "negative": 28,
+    "owners": "20,000 .. 50,000",
+    "positive": 28,
+    "price": "0",
+    "publisher": "Medis Media",
+    "score_rank": "",
+    "tags": {
+      "Education": 33,
+      "Simulation": 45,
+      "Software Training": 24,
+      "VR": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

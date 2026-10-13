@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:23.213723+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 910050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Tobin Asher, Elise Ogle, Jeremy Bailenson",
+    "discount": "0",
+    "genre": "Education",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Coral Compass: Fighting Climate Change in Palau",
+    "negative": 1,
+    "owners": "0 .. 20,000",
+    "positive": 15,
+    "price": "0",
+    "publisher": "Virtual Human Interaction Lab",
+    "score_rank": "",
+    "tags": {
+      "Education": 22,
+      "VR": 6
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:01:48.760840+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 423120,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Hosted Games",
+    "discount": "0",
+    "genre": "Indie, RPG",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Community College Hero: Trial by Fire",
+    "negative": 37,
+    "owners": "0 .. 20,000",
+    "positive": 217,
+    "price": "499",
+    "publisher": "Hosted Games",
+    "score_rank": "",
+    "tags": {
+      "Choose Your Own Adventure": 13,
+      "Indie": 25,
+      "Interactive Fiction": 6,
+      "LGBTQ+": 5,
+      "RPG": 23,
+      "Superhero": 7,
+      "Text-Based": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

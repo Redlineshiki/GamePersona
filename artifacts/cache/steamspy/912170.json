@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:28.448237+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 912170,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Stardock",
+    "discount": "0",
+    "genre": "Software Training, Utilities",
+    "initialprice": "0",
+    "languages": "English, German, Spanish - Spain, Polish, Portuguese - Brazil, Simplified Chinese, French, Dutch, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Groupy",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 36,
+    "price": "0",
+    "publisher": "Stardock",
+    "score_rank": "",
+    "tags": {
+      "Futuristic": 10,
+      "Indie": 10,
+      "Singleplayer": 10,
+      "Software": 13,
+      "Software Training": 21,
+      "Utilities": 38
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

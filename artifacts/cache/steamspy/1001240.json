@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:39.158824+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1001240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Thetis Games",
+    "discount": "25",
+    "genre": "Simulation",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "VR Flight Simulator New York - Cessna",
+    "negative": 14,
+    "owners": "0 .. 20,000",
+    "positive": 11,
+    "price": "1499",
+    "publisher": "Thetis Games",
+    "score_rank": "",
+    "tags": {
+      "Flight": 11,
+      "Simulation": 32,
+      "VR": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:57.273647+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 741590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Home Net Games",
+    "discount": "0",
+    "genre": "Free To Play, Indie, Strategy",
+    "initialprice": "0",
+    "languages": "English, German, Polish, Russian, French, Italian, Spanish - Spain, Portuguese - Portugal, Simplified Chinese, Ukrainian, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hex Commander: Fantasy Heroes",
+    "negative": 69,
+    "owners": "100,000 .. 200,000",
+    "positive": 225,
+    "price": "0",
+    "publisher": "Home Net Games",
+    "score_rank": "",
+    "tags": {
+      "Dark Fantasy": 11,
+      "Economy": 10,
+      "Fantasy": 14,
+      "Free to Play": 46,
+      "Hex Grid": 16,
+      "Indie": 41,
+      "Singleplayer": 6,
+      "Strategy": 45,
+      "Turn-Based": 25,
+      "Turn-Based Strategy": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

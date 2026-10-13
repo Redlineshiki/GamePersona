@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:22.371180+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 828890,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Racing Bros",
+    "discount": "0",
+    "genre": "Casual, Indie, Early Access",
+    "initialprice": "99",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "My Golf",
+    "negative": 25,
+    "owners": "0 .. 20,000",
+    "positive": 28,
+    "price": "99",
+    "publisher": "ANPA.US",
+    "score_rank": "",
+    "tags": {
+      "Casual": 22,
+      "Early Access": 23,
+      "Indie": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

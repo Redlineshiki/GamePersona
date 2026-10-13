@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:57.954495+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 887800,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 34,
+    "developer": "Lab42",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Snooker 19",
+    "negative": 209,
+    "owners": "0 .. 20,000",
+    "positive": 549,
+    "price": "2999",
+    "publisher": "Ripstone",
+    "score_rank": "",
+    "tags": {
+      "Indie": 31,
+      "Multiplayer": 16,
+      "Pool": 16,
+      "Simulation": 34,
+      "Snooker": 38,
+      "Sports": 41
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

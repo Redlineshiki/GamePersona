@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:02.153018+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 892960,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Gamegrustudio",
+    "discount": "0",
+    "genre": "Free To Play, Indie, Strategy",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Dimension Of Gameth",
+    "negative": 5,
+    "owners": "20,000 .. 50,000",
+    "positive": 14,
+    "price": "0",
+    "publisher": "Gamegrustudio",
+    "score_rank": "",
+    "tags": {
+      "Competitive": 12,
+      "Difficult": 12,
+      "Fantasy": 13,
+      "Free to Play": 35,
+      "Indie": 32,
+      "Multiplayer": 16,
+      "Singleplayer": 12,
+      "Strategy": 32,
+      "Tactical": 13,
+      "Turn-Based": 16,
+      "Turn-Based Combat": 13,
+      "Turn-Based Strategy": 12,
+      "Turn-Based Tactics": 13,
+      "e-sports": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

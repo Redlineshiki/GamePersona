@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:50.632653+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 883130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "New Star Games Ltd.",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "New Star Manager",
+    "negative": 60,
+    "owners": "0 .. 20,000",
+    "positive": 428,
+    "price": "1999",
+    "publisher": "Five Aces Publishing Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Football (Soccer)": 38,
+      "Indie": 55,
+      "Management": 32,
+      "RPG": 14,
+      "Simulation": 64,
+      "Singleplayer": 6,
+      "Sports": 56
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

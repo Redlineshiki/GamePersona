@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:32:39.052750+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1598370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "OpalA dev",
+    "discount": "0",
+    "genre": "Action, Casual, Indie",
+    "initialprice": "199",
+    "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Polish, Portuguese - Portugal, Russian, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Vojo",
+    "negative": 17,
+    "owners": "0 .. 20,000",
+    "positive": 257,
+    "price": "199",
+    "publisher": "OpalA",
+    "score_rank": "",
+    "tags": {
+      "3D": 31,
+      "Action": 22,
+      "Arcade": 39,
+      "Casual": 64,
+      "Flight": 36,
+      "Indie": 22,
+      "Runner": 33,
+      "Singleplayer": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

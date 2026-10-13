@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:42.548601+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1304340,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Milestone S.r.l.",
+    "discount": "0",
+    "genre": "Racing, Simulation, Sports",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Spanish - Latin America, Portuguese - Brazil",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Monster Energy Supercross - The Official Videogame 4",
+    "negative": 230,
+    "owners": "0 .. 20,000",
+    "positive": 429,
+    "price": "2999",
+    "publisher": "Milestone S.r.l.",
+    "score_rank": "",
+    "tags": {
+      "First-Person": 27,
+      "Motocross": 33,
+      "Motorbike": 26,
+      "Multiplayer": 36,
+      "PvP": 38,
+      "Racing": 72,
+      "Simulation": 66,
+      "Singleplayer": 31,
+      "Sports": 63,
+      "Third Person": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

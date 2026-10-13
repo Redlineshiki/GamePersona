@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:23.395985+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 987330,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Team6 Games",
+    "discount": "0",
+    "genre": "Racing",
+    "initialprice": "1999",
+    "languages": "English, Dutch, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Street Outlaws: The List",
+    "negative": 38,
+    "owners": "0 .. 20,000",
+    "positive": 36,
+    "price": "1999",
+    "publisher": "GameMill Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Racing": 54
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,28 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:12:32.135201+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 686060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Edmund McMillen, Tyler Glaiel",
+    "discount": "25",
+    "genre": "Adventure, Indie, RPG, Simulation, Strategy",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Korean, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mewgenics",
+    "negative": 0,
+    "owners": "0 .. 20,000",
+    "positive": 0,
+    "price": "2249",
+    "publisher": "Edmund McMillen, Tyler Glaiel",
+    "score_rank": "",
+    "tags": [],
+    "userscore": 0
+  },
+  "status": "ok"
+}

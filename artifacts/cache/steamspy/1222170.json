@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:26:17.571669+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1222170,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "DUBUS Alain",
+    "discount": "35",
+    "genre": "Adventure, Indie",
+    "initialprice": "599",
+    "languages": "English, French",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Cutish",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 33,
+    "price": "389",
+    "publisher": "DUBUS Alain",
+    "score_rank": "",
+    "tags": {
+      "Adventure": 59,
+      "Atmospheric": 12,
+      "Choose Your Own Adventure": 10,
+      "Indie": 57,
+      "Relaxing": 10,
+      "Singleplayer": 11,
+      "Walking Simulator": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

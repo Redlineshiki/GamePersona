@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:44:35.123947+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 11250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Buka Entertainment, Lesta Studio",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "799",
+    "languages": "Russian\r\nEnglish\r\nSpanish - Spain\r\nFrench\r\nJapanese\r\nCzech",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Pacific Storm",
+    "negative": 26,
+    "owners": "20,000 .. 50,000",
+    "positive": 43,
+    "price": "799",
+    "publisher": "ESDigital Games",
+    "score_rank": "",
+    "tags": {
+      "Naval": 7,
+      "Naval Combat": 27,
+      "RTS": 6,
+      "Simulation": 46,
+      "Strategy": 46,
+      "World War II": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

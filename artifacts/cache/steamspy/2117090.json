@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:32.114659+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2117090,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "TITA Studios",
+    "discount": "0",
+    "genre": "Casual, Indie, Racing, Simulation, Sports",
+    "initialprice": "499",
+    "languages": "English, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Let's Park Backyard Edition",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 13,
+    "price": "499",
+    "publisher": "TITA Studios",
+    "score_rank": "",
+    "tags": {
+      "Auto Battler": 31,
+      "Automobile Sim": 26,
+      "Casual": 68,
+      "Character Customization": 24,
+      "Choices Matter": 21,
+      "Combat Racing": 16,
+      "Family Friendly": 17,
+      "Indie": 20,
+      "Racing": 58,
+      "Simulation": 60,
+      "Singleplayer": 21,
+      "Sports": 54
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

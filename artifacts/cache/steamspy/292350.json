@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:06.253989+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 292350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "GTGD",
+    "discount": "0",
+    "genre": "Education, Software Training",
+    "initialprice": "4999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Gamer To Game Developer Series 2 Learn Unity 2D",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 21,
+    "price": "4999",
+    "publisher": "GTGD",
+    "score_rank": "",
+    "tags": {
+      "2D": 11,
+      "Artificial Intelligence": 11,
+      "Base-Building": 11,
+      "Education": 55,
+      "Game Development": 35,
+      "Indie": 13,
+      "Linear": 11,
+      "Pixel Graphics": 12,
+      "Programming": 13,
+      "Sandbox": 12,
+      "Software Training": 54,
+      "Tutorial": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

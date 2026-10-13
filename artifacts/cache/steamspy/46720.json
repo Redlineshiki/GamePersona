@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:42.248140+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 46720,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Dagger Games",
+    "discount": "0",
+    "genre": "RPG",
+    "initialprice": "899",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Dimensity",
+    "negative": 19,
+    "owners": "0 .. 20,000",
+    "positive": 6,
+    "price": "899",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "Action RPG": 6,
+      "RPG": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

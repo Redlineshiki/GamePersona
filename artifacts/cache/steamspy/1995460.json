@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:07.848313+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1995460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Max Pedro",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports",
+    "initialprice": "2499",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "FIRE HEAT",
+    "negative": 1,
+    "owners": "0 .. 20,000",
+    "positive": 9,
+    "price": "2499",
+    "publisher": "Louie Inc",
+    "score_rank": "",
+    "tags": {
+      "Arcade": 37,
+      "Basketball": 23,
+      "Character Customization": 21,
+      "Indie": 21,
+      "Minimalist": 31,
+      "Precision Platformer": 34,
+      "Simulation": 66,
+      "Singleplayer": 19,
+      "Sports": 60
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:47.289772+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 557260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Labory",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "iREC",
+    "negative": 200,
+    "owners": "200,000 .. 500,000",
+    "positive": 182,
+    "price": "499",
+    "publisher": "SA Industry",
+    "score_rank": "",
+    "tags": {
+      "First-Person": 19,
+      "Horror": 23,
+      "Indie": 31,
+      "Multiplayer": 9,
+      "Puzzle": 20,
+      "Singleplayer": 19
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

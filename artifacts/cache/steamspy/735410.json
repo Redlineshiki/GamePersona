@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:43.557980+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 735410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Laush Dmitriy Sergeevich",
+    "discount": "81",
+    "genre": "Indie",
+    "initialprice": "399",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Task is to Survive",
+    "negative": 31,
+    "owners": "0 .. 20,000",
+    "positive": 35,
+    "price": "75",
+    "publisher": "Laush Dmitriy Sergeevich",
+    "score_rank": "",
+    "tags": {
+      "Arena Shooter": 13,
+      "Atmospheric": 13,
+      "Blood": 13,
+      "FPS": 18,
+      "Gore": 33,
+      "Indie": 33,
+      "Singleplayer": 13,
+      "Survival": 17,
+      "Violent": 34,
+      "Zombies": 17
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

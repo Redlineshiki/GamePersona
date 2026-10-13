@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:21:36.565236+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1043250,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "StreamPad Dev",
+    "discount": "0",
+    "genre": "Audio Production, Utilities, Video Production, Early Access",
+    "initialprice": "399",
+    "languages": "English, Spanish - Latin America, Japanese, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "StreamPad",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 11,
+    "price": "399",
+    "publisher": "StreamPad Dev",
+    "score_rank": "",
+    "tags": {
+      "Audio Production": 22,
+      "Early Access": 22,
+      "Utilities": 25,
+      "Video Production": 23
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

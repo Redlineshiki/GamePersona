@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:24:44.990414+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1153510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "TM xR Lab",
+    "discount": "0",
+    "genre": "Utilities",
+    "initialprice": "0",
+    "languages": "English, Japanese, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Daily OVR Free",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 24,
+    "price": "0",
+    "publisher": "TM xR Lab",
+    "score_rank": "",
+    "tags": {
+      "Utilities": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:53:26.029792+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 283490,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Neutron Games",
+    "discount": "0",
+    "genre": "Sports",
+    "initialprice": "299",
+    "languages": "English, Italian, German, Spanish - Spain, Danish, Hungarian, Portuguese - Portugal",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "IHF Handball Challenge 12",
+    "negative": 30,
+    "owners": "0 .. 20,000",
+    "positive": 52,
+    "price": "299",
+    "publisher": "Libredia",
+    "score_rank": "",
+    "tags": {
+      "Sports": 34
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

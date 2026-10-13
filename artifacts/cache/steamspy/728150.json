@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:33.043553+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 728150,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Tim McArthur",
+    "discount": "0",
+    "genre": "Indie, Racing",
+    "initialprice": "999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Portugal",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Virtual Race Car Engineer 2018",
+    "negative": 9,
+    "owners": "0 .. 20,000",
+    "positive": 6,
+    "price": "999",
+    "publisher": "Monkey Face Software LLC",
+    "score_rank": "",
+    "tags": {
+      "Automobile Sim": 25,
+      "Indie": 30,
+      "Racing": 31
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

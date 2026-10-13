@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:21:06.420801+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1019450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Echo Chamber Games",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "1799",
+    "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Table Manners: Physics-Based Dating Game",
+    "negative": 216,
+    "owners": "50,000 .. 100,000",
+    "positive": 286,
+    "price": "1799",
+    "publisher": "Curve Games",
+    "score_rank": "",
+    "tags": {
+      "Comedy": 21,
+      "Dating Sim": 23,
+      "First-Person": 15,
+      "Funny": 19,
+      "Intentionally Awkward Controls": 21,
+      "Physics": 19,
+      "Simulation": 156
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

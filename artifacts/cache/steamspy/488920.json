@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:04:28.519220+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 488920,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Grab Games",
+    "discount": "0",
+    "genre": "Sports",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Knockout League - Arcade VR Boxing",
+    "negative": 82,
+    "owners": "20,000 .. 50,000",
+    "positive": 286,
+    "price": "1999",
+    "publisher": "Grab Games",
+    "score_rank": "",
+    "tags": {
+      "Boxing": 10,
+      "Fighting": 8,
+      "Sports": 29,
+      "VR": 19
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

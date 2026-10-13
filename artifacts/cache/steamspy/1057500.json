@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:21:57.630458+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1057500,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "SimppleGames",
+    "discount": "0",
+    "genre": "Utilities, Video Production",
+    "initialprice": "499",
+    "languages": "English, Korean, German, Japanese, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Sim 4K VR MediaPlayer",
+    "negative": 7,
+    "owners": "0 .. 20,000",
+    "positive": 12,
+    "price": "499",
+    "publisher": "SimppleGames",
+    "score_rank": "",
+    "tags": {
+      "Utilities": 22,
+      "VR": 12,
+      "Video Production": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,34 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:10:52.171948+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 630900,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 9,
+    "developer": "Illwinter Game Design",
+    "discount": "0",
+    "genre": "RPG, Design & Illustration, Utilities",
+    "initialprice": "799",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Illwinter's Floorplan Generator",
+    "negative": 33,
+    "owners": "50,000 .. 100,000",
+    "positive": 429,
+    "price": "799",
+    "publisher": "Illwinter Game Design",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 42,
+      "RPG": 42,
+      "Software": 18,
+      "Tabletop": 9,
+      "Utilities": 41
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

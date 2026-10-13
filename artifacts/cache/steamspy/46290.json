@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:35.870581+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 46290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Fulqrum Publishing",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "399",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Theatre of War",
+    "negative": 132,
+    "owners": "100,000 .. 200,000",
+    "positive": 220,
+    "price": "399",
+    "publisher": "Fulqrum Publishing",
+    "score_rank": "",
+    "tags": {
+      "Military": 5,
+      "Multiplayer": 9,
+      "RTS": 16,
+      "Realistic": 5,
+      "Singleplayer": 5,
+      "Strategy": 43,
+      "Tanks": 10,
+      "War": 10,
+      "World War II": 27
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

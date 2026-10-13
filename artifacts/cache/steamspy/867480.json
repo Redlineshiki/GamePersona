@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:17:24.373632+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 867480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Pudding",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Daddy",
+    "negative": 70,
+    "owners": "20,000 .. 50,000",
+    "positive": 91,
+    "price": "299",
+    "publisher": "Pudding",
+    "score_rank": "",
+    "tags": {
+      "Funny": 8,
+      "Horror": 6,
+      "Indie": 37
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

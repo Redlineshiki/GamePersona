@@ -1,0 +1,30 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:27.184178+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 312860,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Hidden Path Entertainment",
+    "discount": "60",
+    "genre": "",
+    "initialprice": "599",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Defense Grid 2: Steam Special Edition Upgrade",
+    "negative": 17,
+    "owners": "0 .. 20,000",
+    "positive": 5,
+    "price": "239",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Tower Defense": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

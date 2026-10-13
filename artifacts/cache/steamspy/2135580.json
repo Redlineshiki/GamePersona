@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:37.665872+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2135580,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Perspektik",
+    "discount": "30",
+    "genre": "Indie",
+    "initialprice": "399",
+    "languages": "English, Turkish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Again and Again",
+    "negative": 29,
+    "owners": "0 .. 20,000",
+    "positive": 99,
+    "price": "279",
+    "publisher": "Perspektik",
+    "score_rank": "",
+    "tags": {
+      "Anime": 25,
+      "Character Customization": 28,
+      "Difficult": 30,
+      "First-Person": 70,
+      "Horror": 82,
+      "Indie": 52,
+      "Multiplayer": 32,
+      "Psychological Horror": 78,
+      "Realistic": 61,
+      "Singleplayer": 57,
+      "Story Rich": 75,
+      "Thriller": 88,
+      "Walking Simulator": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

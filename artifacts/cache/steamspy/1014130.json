@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:58.017854+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1014130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "THEEY STORE PTE. LTD.",
+    "discount": "0",
+    "genre": "Utilities, Game Development",
+    "initialprice": "599",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Jitsumi's Game Booster",
+    "negative": 36,
+    "owners": "0 .. 20,000",
+    "positive": 116,
+    "price": "599",
+    "publisher": "THEEY STORE PTE. LTD.",
+    "score_rank": "",
+    "tags": {
+      "Game Development": 31,
+      "Software": 15,
+      "Tutorial": 12,
+      "Utilities": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

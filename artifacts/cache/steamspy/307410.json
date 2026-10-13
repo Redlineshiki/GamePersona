@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:58.783350+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 307410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Twelve Games",
+    "discount": "0",
+    "genre": "Sports",
+    "initialprice": "299",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Martial Arts: Capoeira",
+    "negative": 34,
+    "owners": "0 .. 20,000",
+    "positive": 23,
+    "price": "299",
+    "publisher": "Libredia",
+    "score_rank": "",
+    "tags": {
+      "Fighting": 14,
+      "Martial Arts": 6,
+      "Sports": 34
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

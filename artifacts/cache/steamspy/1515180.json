@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:31:33.561820+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1515180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Rebelia Games",
+    "discount": "0",
+    "genre": "Simulation",
+    "initialprice": "0",
+    "languages": "English, French, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Junkyard Simulator: First Car (Prologue 2)",
+    "negative": 167,
+    "owners": "100,000 .. 200,000",
+    "positive": 354,
+    "price": "0",
+    "publisher": "PlayWay S.A.",
+    "score_rank": "",
+    "tags": {
+      "Exploration": 43,
+      "FPS": 31,
+      "First-Person": 28,
+      "Free to Play": 30,
+      "Management": 44,
+      "Multiplayer": 7,
+      "Open World": 37,
+      "Resource Management": 25,
+      "Simulation": 74,
+      "Singleplayer": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

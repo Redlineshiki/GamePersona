@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:52.416241+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1204370,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "MIPODAS DIGITAL STUDIO",
+    "discount": "0",
+    "genre": "Casual, Indie, Strategy",
+    "initialprice": "499",
+    "languages": "English, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "UIFO DEFENSE HD",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 32,
+    "price": "499",
+    "publisher": "MIPODAS DIGITAL STUDIO",
+    "score_rank": "",
+    "tags": {
+      "Building": 11,
+      "Casual": 32,
+      "Indie": 31,
+      "RTS": 9,
+      "Strategy": 30,
+      "Tower Defense": 13
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

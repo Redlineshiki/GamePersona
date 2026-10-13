@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:34.488535+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1189630,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 69,
+    "developer": "香港商河洛互動娛樂股份有限公司",
+    "discount": "0",
+    "genre": "Indie, RPG",
+    "initialprice": "3499",
+    "languages": "Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Path Of Wuxia",
+    "negative": 6527,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 23689,
+    "price": "3499",
+    "publisher": "香港商河洛互動娛樂股份有限公司",
+    "score_rank": "",
+    "tags": {
+      "Anime": 21,
+      "Character Customization": 20,
+      "Choices Matter": 22,
+      "Dating Sim": 22,
+      "Early Access": 18,
+      "Female Protagonist": 26,
+      "Indie": 123,
+      "Martial Arts": 105,
+      "RPG": 185,
+      "Simulation": 19,
+      "Story Rich": 18,
+      "Time Management": 26,
+      "Turn-Based": 76,
+      "Turn-Based Combat": 25
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

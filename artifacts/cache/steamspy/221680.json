@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:49:30.447695+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 221680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 683,
+    "developer": "Ubisoft - San Francisco, Ubisoft - Osaka",
+    "discount": "0",
+    "genre": "Casual, Simulation",
+    "initialprice": "999",
+    "languages": "English, German, French, Italian, Spanish - Spain, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Rocksmith 2014 Edition REMASTERED LEARN & PLAY",
+    "negative": 2633,
+    "owners": "500,000 .. 1,000,000",
+    "positive": 21217,
+    "price": "999",
+    "publisher": "Ubisoft",
+    "score_rank": "",
+    "tags": {
+      "Addictive": 8,
+      "Casual": 94,
+      "Co-op": 10,
+      "Difficult": 16,
+      "Education": 380,
+      "Great Soundtrack": 110,
+      "Local Co-Op": 89,
+      "Moddable": 10,
+      "Multiplayer": 7,
+      "Music": 550,
+      "Rhythm": 220,
+      "Rock Music": 22,
+      "Simulation": 250,
+      "Singleplayer": 75
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:06:05.492023+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 521430,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "David Mulder",
+    "discount": "95",
+    "genre": "Indie",
+    "initialprice": "1699",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Super Switch",
+    "negative": 25,
+    "owners": "20,000 .. 50,000",
+    "positive": 121,
+    "price": "84",
+    "publisher": "SA Industry",
+    "score_rank": "",
+    "tags": {
+      "Difficult": 6,
+      "Indie": 36,
+      "Platformer": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

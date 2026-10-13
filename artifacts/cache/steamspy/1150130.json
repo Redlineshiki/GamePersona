@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:24:40.786956+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1150130,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "StaticSpring",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "499",
+    "languages": "Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "吾光笔记",
+    "negative": 6,
+    "owners": "0 .. 20,000",
+    "positive": 18,
+    "price": "499",
+    "publisher": "StaticSpring",
+    "score_rank": "",
+    "tags": {
+      "Detective": 37,
+      "Indie": 64,
+      "Investigation": 30,
+      "Puzzle": 40,
+      "Singleplayer": 22,
+      "Text-Based": 24,
+      "Word Game": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

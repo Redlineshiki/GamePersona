@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:33.257134+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1114000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Phoenixxx Games",
+    "discount": "0",
+    "genre": "Adventure",
+    "initialprice": "99",
+    "languages": "English, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "King of Dragon Balls",
+    "negative": 23,
+    "owners": "0 .. 20,000",
+    "positive": 37,
+    "price": "99",
+    "publisher": "KuKo",
+    "score_rank": "",
+    "tags": {
+      "2D": 5,
+      "Adventure": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:07.664872+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 816590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "深圳中青宝互动网络股份有限公司",
+    "discount": "0",
+    "genre": "Massively Multiplayer, Racing, Strategy",
+    "initialprice": "0",
+    "languages": "English, Not supported, Simplified Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "FinalFire",
+    "negative": 64,
+    "owners": "0 .. 20,000",
+    "positive": 77,
+    "price": "0",
+    "publisher": "深圳中青宝互动网络股份有限公司",
+    "score_rank": "",
+    "tags": {
+      "Massively Multiplayer": 23,
+      "Racing": 22,
+      "Strategy": 22,
+      "Tanks": 7
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

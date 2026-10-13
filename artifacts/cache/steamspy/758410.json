@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:30.886464+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 758410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Big Ant Studios",
+    "discount": "0",
+    "genre": "Sports",
+    "initialprice": "2499",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "AO International Tennis",
+    "negative": 106,
+    "owners": "20,000 .. 50,000",
+    "positive": 266,
+    "price": "2499",
+    "publisher": "Big Ant Studios",
+    "score_rank": "",
+    "tags": {
+      "Simulation": 7,
+      "Sports": 29,
+      "Tennis": 41
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

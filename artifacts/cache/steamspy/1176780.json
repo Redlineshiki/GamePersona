@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:25:13.392513+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1176780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "OfficialCH",
+    "discount": "0",
+    "genre": "Free To Play, Indie, Strategy",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nuclear Arms Race",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 14,
+    "price": "0",
+    "publisher": "OfficialCH",
+    "score_rank": "",
+    "tags": {
+      "Free to Play": 57,
+      "Indie": 56,
+      "Multiplayer": 11,
+      "Strategy": 56,
+      "Turn-Based Strategy": 12,
+      "War": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

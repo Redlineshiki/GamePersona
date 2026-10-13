@@ -1,0 +1,43 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:56:28.115619+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 332260,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Rainbow Studios",
+    "discount": "0",
+    "genre": "Racing",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Danish, Polish, Swedish",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Disney•Pixar Cars Mater-National Championship",
+    "negative": 47,
+    "owners": "20,000 .. 50,000",
+    "positive": 478,
+    "price": "1999",
+    "publisher": "THQ, Disney",
+    "score_rank": "",
+    "tags": {
+      "Action": 6,
+      "Adventure": 43,
+      "Atmospheric": 7,
+      "Cute": 12,
+      "Dark": 5,
+      "Dark Fantasy": 5,
+      "Family Friendly": 46,
+      "Funny": 15,
+      "Great Soundtrack": 26,
+      "Multiplayer": 12,
+      "Post-apocalyptic": 5,
+      "Racing": 84,
+      "Singleplayer": 17,
+      "Story Rich": 32
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

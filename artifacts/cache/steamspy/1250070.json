@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:27:15.288094+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1250070,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Stardock",
+    "discount": "0",
+    "genre": "Design & Illustration, Utilities",
+    "initialprice": "999",
+    "languages": "English, French, German, Spanish - Spain, Korean, Russian, Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Curtains",
+    "negative": 12,
+    "owners": "0 .. 20,000",
+    "positive": 20,
+    "price": "999",
+    "publisher": "Stardock",
+    "score_rank": "",
+    "tags": {
+      "Beautiful": 11,
+      "Design & Illustration": 21,
+      "Moddable": 11,
+      "Utilities": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

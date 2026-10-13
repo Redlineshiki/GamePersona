@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:14:21.437929+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 755590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Mattrified Games, LLC, Point5Projects",
+    "discount": "0",
+    "genre": "Action, Indie",
+    "initialprice": "199",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Battle High 2 A+",
+    "negative": 4,
+    "owners": "0 .. 20,000",
+    "positive": 36,
+    "price": "199",
+    "publisher": "Mattrified Games, LLC",
+    "score_rank": "",
+    "tags": {
+      "2D Fighter": 14,
+      "Action": 21,
+      "Fighting": 14,
+      "Indie": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

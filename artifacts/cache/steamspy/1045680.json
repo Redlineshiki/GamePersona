@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:21:39.687058+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1045680,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Spaghetti Code Ltd",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "0",
+    "languages": "English, German",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Money Makes Money",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 23,
+    "price": "0",
+    "publisher": "Spaghetti Code Ltd",
+    "score_rank": "",
+    "tags": {
+      "Economy": 14,
+      "Education": 12,
+      "Indie": 11,
+      "Simulation": 35,
+      "Strategy": 32,
+      "Turn-Based": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

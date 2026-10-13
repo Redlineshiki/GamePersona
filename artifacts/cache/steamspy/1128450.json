@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:23:55.328265+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1128450,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Forace",
+    "discount": "0",
+    "genre": "Indie, RPG, Simulation",
+    "initialprice": "399",
+    "languages": "Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "光與暗之戀曲",
+    "negative": 18,
+    "owners": "0 .. 20,000",
+    "positive": 41,
+    "price": "399",
+    "publisher": "Forace",
+    "score_rank": "",
+    "tags": {
+      "Dating Sim": 9,
+      "Indie": 31,
+      "Nudity": 39,
+      "RPG": 32,
+      "Sexual Content": 42,
+      "Simulation": 32,
+      "Visual Novel": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:32:38.028308+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1595050,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 4,
+    "developer": "FarSight Studios",
+    "discount": "50",
+    "genre": "Simulation, Sports",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Latin America",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "PBA Pro Bowling 2023",
+    "negative": 32,
+    "owners": "0 .. 20,000",
+    "positive": 66,
+    "price": "1499",
+    "publisher": "FarSight Studios",
+    "score_rank": "",
+    "tags": {
+      "Bowling": 37,
+      "Local Multiplayer": 21,
+      "Massively Multiplayer": 19,
+      "Multiplayer": 25,
+      "Physics": 27,
+      "PvP": 33,
+      "Realistic": 17,
+      "Simulation": 69,
+      "Singleplayer": 24,
+      "Sports": 61,
+      "e-sports": 42
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

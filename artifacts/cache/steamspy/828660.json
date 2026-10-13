@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:16:20.264142+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 828660,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 2,
+    "developer": "Van der Veer Games",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "1299",
+    "languages": "English, French, German, Spanish - Spain, Portuguese - Brazil, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "War Of The Zombie",
+    "negative": 20,
+    "owners": "0 .. 20,000",
+    "positive": 47,
+    "price": "1299",
+    "publisher": "Van der Veer Games",
+    "score_rank": "",
+    "tags": {
+      "Gore": 22,
+      "Outbreak Sim": 26,
+      "Real-Time": 15,
+      "Simulation": 34,
+      "Strategy": 35,
+      "Top-Down Shooter": 11,
+      "Zombies": 16
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

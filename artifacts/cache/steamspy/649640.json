@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:26.913107+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 649640,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Big Ant Studios",
+    "discount": "0",
+    "genre": "Indie, Sports",
+    "initialprice": "2499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ashes Cricket",
+    "negative": 88,
+    "owners": "50,000 .. 100,000",
+    "positive": 403,
+    "price": "2499",
+    "publisher": "Big Ant Studios",
+    "score_rank": "",
+    "tags": {
+      "Cricket": 23,
+      "Indie": 35,
+      "Sports": 39
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

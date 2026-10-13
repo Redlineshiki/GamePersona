@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:04.912155+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 590670,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Wise Wizard Games, LLC",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Epic Card Game",
+    "negative": 32,
+    "owners": "20,000 .. 50,000",
+    "positive": 105,
+    "price": "0",
+    "publisher": "Wise Wizard Games, LLC",
+    "score_rank": "",
+    "tags": {
+      "Asynchronous Multiplayer": 12,
+      "Board Game": 6,
+      "Card Battler": 14,
+      "Card Game": 15,
+      "Fantasy": 13,
+      "Free to Play": 13,
+      "Multiplayer": 13,
+      "Strategy": 58
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

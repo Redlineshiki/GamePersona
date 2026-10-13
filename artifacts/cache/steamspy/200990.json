@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:48:04.181052+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 200990,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Spiderweb Software",
+    "discount": "60",
+    "genre": "Strategy, RPG, Indie",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Geneforge 3",
+    "negative": 8,
+    "owners": "50,000 .. 100,000",
+    "positive": 46,
+    "price": "799",
+    "publisher": "Spiderweb Software",
+    "score_rank": "",
+    "tags": {
+      "CRPG": 6,
+      "Creature Collector": 7,
+      "Female Protagonist": 5,
+      "Indie": 30,
+      "Isometric": 12,
+      "Old School": 5,
+      "RPG": 40,
+      "Strategy": 23,
+      "Turn-Based": 7,
+      "Turn-Based Combat": 12
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

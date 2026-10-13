@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:48:03.131815+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 200980,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Spiderweb Software",
+    "discount": "0",
+    "genre": "Strategy, RPG, Indie",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Geneforge 2",
+    "negative": 10,
+    "owners": "50,000 .. 100,000",
+    "positive": 72,
+    "price": "1999",
+    "publisher": "Spiderweb Software",
+    "score_rank": "",
+    "tags": {
+      "CRPG": 7,
+      "Creature Collector": 8,
+      "Fantasy": 8,
+      "Indie": 38,
+      "Isometric": 16,
+      "RPG": 49,
+      "Singleplayer": 6,
+      "Story Rich": 5,
+      "Strategy": 27,
+      "Turn-Based": 11,
+      "Turn-Based Combat": 14
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

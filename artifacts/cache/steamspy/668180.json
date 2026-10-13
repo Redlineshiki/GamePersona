@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:11:55.308216+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 668180,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Gone Coyote",
+    "discount": "0",
+    "genre": "Short",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ghost Ship",
+    "negative": 1,
+    "owners": "0 .. 20,000",
+    "positive": 7,
+    "price": "0",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "360 Video": 31,
+      "Short": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

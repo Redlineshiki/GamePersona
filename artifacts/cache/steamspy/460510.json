@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:43.294437+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 460510,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Emblematic Group",
+    "discount": "0",
+    "genre": "Free To Play, Indie, Simulation",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "One Dark Night",
+    "negative": 52,
+    "owners": "20,000 .. 50,000",
+    "positive": 42,
+    "price": "0",
+    "publisher": "Emblematic Group",
+    "score_rank": "",
+    "tags": {
+      "FPS": 6,
+      "Free to Play": 37,
+      "Indie": 28,
+      "Political": 10,
+      "Psychological Horror": 16,
+      "Simulation": 28,
+      "VR": 23,
+      "Villain Protagonist": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

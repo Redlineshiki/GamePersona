@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:46:55.912682+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 49000,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 3,
+    "developer": "PlayFirst",
+    "discount": "0",
+    "genre": "Casual",
+    "initialprice": "699",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Hotel Dash Suite Success",
+    "negative": 18,
+    "owners": "0 .. 20,000",
+    "positive": 89,
+    "price": "699",
+    "publisher": "",
+    "score_rank": "",
+    "tags": {
+      "Casual": 31,
+      "Time Management": 8
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

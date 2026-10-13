@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:19:48.718483+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 968440,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 22,
+    "developer": "YDKR",
+    "discount": "0",
+    "genre": "Indie, Free To Play",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Artist Idle",
+    "negative": 174,
+    "owners": "100,000 .. 200,000",
+    "positive": 316,
+    "price": "0",
+    "publisher": "YDKR",
+    "score_rank": "",
+    "tags": {
+      "Clicker": 35,
+      "Free to Play": 37,
+      "Idler": 27,
+      "Indie": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

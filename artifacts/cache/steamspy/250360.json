@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:51:34.756633+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 250360,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "The Writer Zone",
+    "discount": "0",
+    "genre": "Utilities, Video Production",
+    "initialprice": "2999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Hungarian, Japanese, Russian, Simplified Chinese, Swedish, Turkish, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "MovieWriterPro",
+    "negative": 5,
+    "owners": "0 .. 20,000",
+    "positive": 16,
+    "price": "2999",
+    "publisher": "The Writer Zone",
+    "score_rank": "",
+    "tags": {
+      "Utilities": 24,
+      "Video Production": 21
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

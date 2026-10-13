@@ -1,0 +1,36 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:07:13.675114+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 548560,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "DaGGaSoft",
+    "discount": "0",
+    "genre": "Indie, RPG, Simulation, Strategy, Early Access",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Manastorm: Champions of G'nar",
+    "negative": 24,
+    "owners": "0 .. 20,000",
+    "positive": 46,
+    "price": "499",
+    "publisher": "DaGGaSoft",
+    "score_rank": "",
+    "tags": {
+      "Card Game": 7,
+      "Early Access": 21,
+      "Indie": 21,
+      "RPG": 20,
+      "Simulation": 21,
+      "Strategy": 22,
+      "VR": 14
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

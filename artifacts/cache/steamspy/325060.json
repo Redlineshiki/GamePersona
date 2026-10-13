@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:56:09.207593+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 325060,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Toasty Games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "499",
+    "languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Polish, Russian, Ukrainian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Parallax",
+    "negative": 26,
+    "owners": "0 .. 20,000",
+    "positive": 130,
+    "price": "499",
+    "publisher": "Toasty Games",
+    "score_rank": "",
+    "tags": {
+      "First-Person": 25,
+      "Indie": 38,
+      "Puzzle": 28,
+      "Puzzle-Platformer": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

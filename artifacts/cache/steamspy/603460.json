@@ -1,0 +1,31 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:09:45.990717+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 603460,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Playsoft",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "699",
+    "languages": "English, French, Italian, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "King and Assassins",
+    "negative": 61,
+    "owners": "50,000 .. 100,000",
+    "positive": 29,
+    "price": "699",
+    "publisher": "Twin Sails Interactive",
+    "score_rank": "",
+    "tags": {
+      "Board Game": 10,
+      "Strategy": 33
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

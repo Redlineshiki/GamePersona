@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:57.451066+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 358350,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Apogee Entertainment",
+    "discount": "83",
+    "genre": "Action",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Secret Agent",
+    "negative": 17,
+    "owners": "0 .. 20,000",
+    "positive": 88,
+    "price": "84",
+    "publisher": "Apogee Entertainment",
+    "score_rank": "",
+    "tags": {
+      "1990's": 6,
+      "2D": 6,
+      "Action": 26,
+      "Classic": 7,
+      "Platformer": 11,
+      "Retro": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

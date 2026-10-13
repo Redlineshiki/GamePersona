@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:54:09.483973+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 292760,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Ageod",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, German, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Rise of Prussia Gold",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 32,
+    "price": "1999",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Grand Strategy": 22,
+      "Historical": 25,
+      "Multiplayer": 13,
+      "Replay Value": 13,
+      "Singleplayer": 17,
+      "Strategy": 43,
+      "Turn-Based": 19,
+      "Turn-Based Strategy": 18,
+      "Wargame": 24
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

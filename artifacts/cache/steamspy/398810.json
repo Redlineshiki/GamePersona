@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:00:48.922807+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 398810,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 27,
+    "developer": "PGN Inc",
+    "discount": "0",
+    "genre": "Design & Illustration, Photo Editing",
+    "initialprice": "5999",
+    "languages": "English, Japanese, Simplified Chinese, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "openCanvas 7",
+    "negative": 122,
+    "owners": "20,000 .. 50,000",
+    "positive": 400,
+    "price": "5999",
+    "publisher": "PGN Inc",
+    "score_rank": "",
+    "tags": {
+      "Anime": 5,
+      "Design & Illustration": 33,
+      "Photo Editing": 28,
+      "Software": 10
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

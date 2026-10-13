@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:22.845251+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 348200,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 34,
+    "developer": "Nimble Tools",
+    "discount": "50",
+    "genre": "Design & Illustration, Utilities, Web Publishing",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Nimble Writer",
+    "negative": 79,
+    "owners": "100,000 .. 200,000",
+    "positive": 552,
+    "price": "499",
+    "publisher": "Nimble Tools",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 28,
+      "Typing": 15,
+      "Utilities": 36,
+      "Web Publishing": 29
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:36:41.564295+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 2151290,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 169,
+    "developer": "SidelineSim Studios",
+    "discount": "0",
+    "genre": "Simulation, Sports, Strategy",
+    "initialprice": "1999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Football Coach: College Dynasty",
+    "negative": 47,
+    "owners": "20,000 .. 50,000",
+    "positive": 1155,
+    "price": "1999",
+    "publisher": "SidelineSim Studios",
+    "score_rank": "",
+    "tags": {
+      "Choices Matter": 27,
+      "Football (American)": 44,
+      "Management": 37,
+      "Realistic": 42,
+      "Resource Management": 24,
+      "Simulation": 77,
+      "Singleplayer": 20,
+      "Sports": 72,
+      "Strategy": 24,
+      "Text-Based": 40,
+      "Turn-Based Tactics": 20
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

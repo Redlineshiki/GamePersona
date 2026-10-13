@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:28:55.244931+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1324410,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Sloppy Studios",
+    "discount": "50",
+    "genre": "Indie, Racing, Simulation",
+    "initialprice": "1099",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Car Parking Simulator VR",
+    "negative": 15,
+    "owners": "0 .. 20,000",
+    "positive": 36,
+    "price": "549",
+    "publisher": "Sloppy Studios",
+    "score_rank": "",
+    "tags": {
+      "Driving": 13,
+      "Indie": 32,
+      "Puzzle": 11,
+      "Racing": 34,
+      "Simulation": 31,
+      "VR": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

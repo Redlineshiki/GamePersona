@@ -1,0 +1,37 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:08:07.265712+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 566700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "VinLia Games",
+    "discount": "0",
+    "genre": "Casual, Indie, Strategy",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Eye in the Sky",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 92,
+    "price": "999",
+    "publisher": "VinLia Games",
+    "score_rank": "",
+    "tags": {
+      "Asymmetric VR": 13,
+      "Casual": 60,
+      "Co-op Campaign": 16,
+      "Indie": 57,
+      "Local Co-Op": 21,
+      "Puzzle-Platformer": 15,
+      "Strategy": 55,
+      "VR": 18
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

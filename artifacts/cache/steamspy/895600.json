@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:18:07.429263+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 895600,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "L. Stotch",
+    "discount": "0",
+    "genre": "Casual, Indie, RPG",
+    "initialprice": "299",
+    "languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Greek, Danish, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Vietnamese, Spanish - Latin America",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Mojo",
+    "negative": 13,
+    "owners": "0 .. 20,000",
+    "positive": 82,
+    "price": "299",
+    "publisher": "L. Stotch",
+    "score_rank": "",
+    "tags": {
+      "Anime": 14,
+      "Casual": 40,
+      "Hentai": 9,
+      "Indie": 33,
+      "Mature": 7,
+      "Nudity": 44,
+      "Puzzle": 12,
+      "RPG": 30,
+      "Sexual Content": 50
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

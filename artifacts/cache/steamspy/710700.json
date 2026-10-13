@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:13:09.935406+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 710700,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Mark Fassett",
+    "discount": "0",
+    "genre": "Casual",
+    "initialprice": "0",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Paperback: The Game",
+    "negative": 19,
+    "owners": "20,000 .. 50,000",
+    "positive": 45,
+    "price": "0",
+    "publisher": "Fowers Games",
+    "score_rank": "",
+    "tags": {
+      "Asynchronous Multiplayer": 20,
+      "Board Game": 43,
+      "Card Game": 68,
+      "Casual": 60,
+      "Deckbuilding": 78,
+      "Hand-drawn": 30,
+      "Multiplayer": 24,
+      "PvP": 26,
+      "Romance": 28,
+      "Singleplayer": 22,
+      "Strategy": 32,
+      "Tabletop": 65,
+      "Word Game": 72
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

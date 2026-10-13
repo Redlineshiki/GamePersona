@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:55:34.535787+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 313620,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "FrameLineNetwork",
+    "discount": "0",
+    "genre": "Simulation, Strategy",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "The Terminal 2",
+    "negative": 130,
+    "owners": "20,000 .. 50,000",
+    "positive": 46,
+    "price": "499",
+    "publisher": "FrameLineNetwork",
+    "score_rank": "",
+    "tags": {
+      "Management": 10,
+      "Simulation": 29,
+      "Strategy": 28
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

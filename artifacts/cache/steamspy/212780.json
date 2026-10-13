@@ -1,0 +1,33 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:48:53.594730+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 212780,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 6,
+    "developer": "New Star Games",
+    "discount": "0",
+    "genre": "Indie, Simulation, Sports",
+    "initialprice": "999",
+    "languages": "English, Italian, Polish, Dutch, Turkish, Portuguese - Brazil, French, German, Portuguese - Portugal, Spanish - Spain",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "New Star Soccer 5",
+    "negative": 248,
+    "owners": "100,000 .. 200,000",
+    "positive": 574,
+    "price": "999",
+    "publisher": "New Star Games",
+    "score_rank": "",
+    "tags": {
+      "Football (Soccer)": 23,
+      "Indie": 35,
+      "Simulation": 35,
+      "Sports": 39
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

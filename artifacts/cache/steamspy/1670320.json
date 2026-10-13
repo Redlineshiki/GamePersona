@@ -1,0 +1,32 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:33:33.997255+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1670320,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Knife Entertainment",
+    "discount": "0",
+    "genre": "Design & Illustration, Utilities, Game Development",
+    "initialprice": "499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Sky Creator",
+    "negative": 10,
+    "owners": "0 .. 20,000",
+    "positive": 24,
+    "price": "499",
+    "publisher": "Knife Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Design & Illustration": 21,
+      "Game Development": 21,
+      "Utilities": 22
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

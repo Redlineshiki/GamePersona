@@ -1,0 +1,38 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:58:35.632227+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 365480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Witching Hour Studios",
+    "discount": "0",
+    "genre": "RPG, Strategy",
+    "initialprice": "1499",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Ravenmark: Scourge of Estellion",
+    "negative": 37,
+    "owners": "20,000 .. 50,000",
+    "positive": 67,
+    "price": "1499",
+    "publisher": "Slitherine Ltd.",
+    "score_rank": "",
+    "tags": {
+      "Fantasy": 14,
+      "RPG": 54,
+      "Singleplayer": 25,
+      "Story Rich": 15,
+      "Strategy": 64,
+      "Tactical": 30,
+      "Turn-Based": 30,
+      "Turn-Based Strategy": 22,
+      "Turn-Based Tactics": 26
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

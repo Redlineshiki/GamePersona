@@ -1,0 +1,42 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:26:38.565026+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1233590,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 5,
+    "developer": "Gasket Games",
+    "discount": "90",
+    "genre": "Strategy",
+    "initialprice": "1999",
+    "languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Polish, Russian, Japanese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Warhammer Age of Sigmar: Storm Ground",
+    "negative": 423,
+    "owners": "100,000 .. 200,000",
+    "positive": 643,
+    "price": "199",
+    "publisher": "Focus Entertainment",
+    "score_rank": "",
+    "tags": {
+      "Fantasy": 54,
+      "Games Workshop": 39,
+      "Multiplayer": 29,
+      "PvP": 33,
+      "Rogue-like": 14,
+      "Rogue-lite": 33,
+      "Singleplayer": 34,
+      "Strategy": 74,
+      "Top-Down": 40,
+      "Turn-Based": 8,
+      "Turn-Based Strategy": 60,
+      "Turn-Based Tactics": 52,
+      "Warhammer 40K": 5
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

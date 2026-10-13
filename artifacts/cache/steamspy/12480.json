@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:44:44.533199+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 12480,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 1,
+    "developer": "Новый Диск, Lesta Studio",
+    "discount": "0",
+    "genre": "Strategy",
+    "initialprice": "999",
+    "languages": "English, French, Hungarian, Polish, Russian, Czech, Traditional Chinese",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "9th Company: Roots Of Terror",
+    "negative": 98,
+    "owners": "20,000 .. 50,000",
+    "positive": 136,
+    "price": "999",
+    "publisher": "Strategy First",
+    "score_rank": "",
+    "tags": {
+      "Cold War": 7,
+      "Military": 12,
+      "RTS": 17,
+      "Singleplayer": 5,
+      "Strategy": 33,
+      "War": 7
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

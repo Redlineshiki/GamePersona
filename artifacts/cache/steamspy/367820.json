@@ -1,0 +1,35 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:58:49.497743+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 367820,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "UNIT9",
+    "discount": "0",
+    "genre": "RPG, Early Access",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Decromancer",
+    "negative": 3,
+    "owners": "0 .. 20,000",
+    "positive": 11,
+    "price": "999",
+    "publisher": "UNIT9",
+    "score_rank": "",
+    "tags": {
+      "Card Battler": 35,
+      "Card Game": 38,
+      "Deckbuilding": 25,
+      "Early Access": 21,
+      "RPG": 21,
+      "Trading Card Game": 11
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

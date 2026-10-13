@@ -1,0 +1,41 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:20:51.716731+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 1010970,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "VIOLET",
+    "discount": "0",
+    "genre": "Indie, Simulation",
+    "initialprice": "999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Dead Wishes",
+    "negative": 8,
+    "owners": "0 .. 20,000",
+    "positive": 70,
+    "price": "999",
+    "publisher": "VIOLET",
+    "score_rank": "",
+    "tags": {
+      "Dating Sim": 8,
+      "Gore": 31,
+      "Horror": 11,
+      "Indie": 30,
+      "LGBTQ+": 10,
+      "Otome": 6,
+      "Psychological Horror": 26,
+      "Romance": 26,
+      "Sexual Content": 28,
+      "Simulation": 20,
+      "Violent": 34,
+      "Visual Novel": 29
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

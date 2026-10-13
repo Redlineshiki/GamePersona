@@ -1,0 +1,40 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T13:03:48.545496+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 462240,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 0,
+    "developer": "Studio Chahut",
+    "discount": "90",
+    "genre": "Indie, Strategy",
+    "initialprice": "1499",
+    "languages": "English, French, German, Simplified Chinese, Spanish - Spain, Russian",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Post Human W.A.R",
+    "negative": 20,
+    "owners": "20,000 .. 50,000",
+    "positive": 106,
+    "price": "149",
+    "publisher": "Dear Villagers",
+    "score_rank": "",
+    "tags": {
+      "Funny": 13,
+      "Hex Grid": 18,
+      "Indie": 44,
+      "Local Multiplayer": 16,
+      "Multiplayer": 15,
+      "Post-apocalyptic": 14,
+      "Strategy": 46,
+      "Tactical": 16,
+      "Turn-Based": 20,
+      "Turn-Based Strategy": 14,
+      "Turn-Based Tactics": 15
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}

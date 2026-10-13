@@ -1,0 +1,39 @@
+{
+  "attempts": 1,
+  "collected_at": "2026-10-13T12:57:42.772070+00:00",
+  "http_status": 200,
+  "response": {
+    "appid": 353540,
+    "average_2weeks": 0,
+    "average_forever": 0,
+    "ccu": 7,
+    "developer": "increpare games",
+    "discount": "0",
+    "genre": "Indie",
+    "initialprice": "2999",
+    "languages": "English",
+    "median_2weeks": 0,
+    "median_forever": 0,
+    "name": "Stephen's Sausage Roll",
+    "negative": 81,
+    "owners": "100,000 .. 200,000",
+    "positive": 1672,
+    "price": "2999",
+    "publisher": "increpare games",
+    "score_rank": "",
+    "tags": {
+      "3D": 5,
+      "Cooking": 9,
+      "Difficult": 62,
+      "Indie": 78,
+      "Pixel Graphics": 5,
+      "Psychological Horror": 18,
+      "Puzzle": 88,
+      "Singleplayer": 28,
+      "Sokoban": 27,
+      "Top-Down": 9
+    },
+    "userscore": 0
+  },
+  "status": "ok"
+}
