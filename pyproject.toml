@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gamepersona"
+version = "0.1.0"
+description = "Reproducible Steam data auditing for GamePersona"
+requires-python = ">=3.11"
+dependencies = ["duckdb==1.5.6", "httpx==0.28.1"]
+
+[project.optional-dependencies]
+test = ["pytest==8.4.2"]
+
+[project.scripts]
+gamepersona = "gamepersona.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["gamepersona*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q -p no:cacheprovider"
