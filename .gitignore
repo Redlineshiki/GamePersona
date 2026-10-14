@@ -1,5 +1,9 @@
 .venv/
 .cache/
+web/node_modules/
+web/dist/
+web/test-results/
+web/playwright-report/
 __pycache__/
 .pytest_cache/
 *.egg-info/
@@ -11,3 +15,4 @@ data_source/
 .env
 .env.*
 !.env.example
+!.env.web.example

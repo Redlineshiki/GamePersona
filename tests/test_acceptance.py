@@ -7,7 +7,7 @@ from gamepersona.audit import audit, replay
 from gamepersona.collect import Fetcher, fetch_steam, fetch_steamspy, verify_sources
 from gamepersona.ingest import import_kaggle
 from gamepersona.sampling import select_games
-from gamepersona.storage import Store, write_json
+from gamepersona.storage import Store, read_json, write_json
 
 
 def test_complete_synthetic_acceptance_and_account_union(tmp_path):
@@ -28,7 +28,7 @@ def test_complete_synthetic_acceptance_and_account_union(tmp_path):
     store=Store(tmp_path / "artifacts")
     import_kaggle(store,"kg",source,hours_unit="hours",hours_evidence="fixture specification",
                   duration_time_semantics="at_collection",time_evidence="fixture specification",
-                  dataset_version="synthetic-fixture",memory_limit="256MiB",threads=1)
+                  dataset_version="unverified",memory_limit="256MiB",threads=1)
     def handler(request):
         if request.url.host=="api.steampowered.com":
             return httpx.Response(200,json={"response":{"game_count":1,"games":[{"appid":4001,"playtime_forever":60}]}})
@@ -37,8 +37,6 @@ def test_complete_synthetic_acceptance_and_account_union(tmp_path):
         if request.url.host=="www.kaggle.com":
             return httpx.Response(200,json={"licenseName":"CC0: Public Domain","currentVersionNumber":28})
         return httpx.Response(200,text="Fixture source evidence")
-    review=tmp_path / "review.json"
-    write_json(review,{"steamspy_public_free_use":{"status":"verified","evidence":"fixture only","rationale":"synthetic acceptance scenario"}})
     with httpx.Client(transport=httpx.MockTransport(handler)) as client:
         fetcher=Fetcher(client,sleep=lambda _:None)
         fetch_steam(store,"steam","fixture-key","76561198000000000",fetcher)
@@ -46,9 +44,11 @@ def test_complete_synthetic_acceptance_and_account_union(tmp_path):
         assert selected["base_games"]==3000
         assert selected["total_games"]==3001
         fetch_steamspy(store,"spy","selection",fetcher)
-        verify_sources(store,"sources",fetcher,review)
+        verify_sources(store,"sources",fetcher)
     result=audit(store,"report",kaggle="kg",steam="steam",steamspy="spy",selection="selection",sources="sources")
     assert result["stage_acceptance"]=={"status":"passed","blockers":[]}
+    assert result["acceptance_scope"]=="第一阶段本地数据审计；不评估上游发行版本号或公开部署许可"
+    assert read_json(store.path("sources") / "findings.json")["steamspy"]["status"]=="not_assessed_for_stage1"
     assert result["online"]["steamspy"]["tag_coverage"]["ratio"]==1
     assert result["offline"]["steamspy"]["tag_coverage"]["ratio"]==3000/3005
     assert replay(store,"report")["status"]=="identical"

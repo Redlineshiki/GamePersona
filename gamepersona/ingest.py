@@ -247,6 +247,7 @@ def import_kaggle(store: Store, snapshot: str, source: Path, *, hours_unit: str 
         finally:
             con.close()
         store.finish(path, manifest, input_source=str(source), files=file_info, field_mapping=FIELD_MAPPING,
+                     input_sha256=sha256(source) if source.is_file() else None,
                      elapsed_seconds=round(time.monotonic() - started, 3), quality=quality,
                      normalized_files=[{"name": p.name, "sha256": sha256(p)} for p in sorted(normalized.glob("*.parquet"))])
         return manifest

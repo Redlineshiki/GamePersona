@@ -1,0 +1,478 @@
+{
+  "schema_version": "stage2-tag-support-v1",
+  "version": "tag-rules-v1",
+  "meaning": "tag_support_not_measured_mechanic_intensity",
+  "aggregation": "maximum_per_dimension",
+  "missing_policy": "available_unmatched_zero_both_unavailable_unknown",
+  "dimensions": [
+    {
+      "code": "P",
+      "label": "规划"
+    },
+    {
+      "code": "R",
+      "label": "反应"
+    },
+    {
+      "code": "G",
+      "label": "引导"
+    },
+    {
+      "code": "O",
+      "label": "开放"
+    },
+    {
+      "code": "M",
+      "label": "机制"
+    },
+    {
+      "code": "N",
+      "label": "叙事"
+    },
+    {
+      "code": "H",
+      "label": "高压"
+    },
+    {
+      "code": "C",
+      "label": "舒缓"
+    },
+    {
+      "code": "SOLO",
+      "label": "独玩"
+    },
+    {
+      "code": "SOCIAL",
+      "label": "社交"
+    },
+    {
+      "code": "COMP",
+      "label": "竞争"
+    },
+    {
+      "code": "COOP",
+      "label": "合作"
+    }
+  ],
+  "rules": [
+    {
+      "id": "p-001",
+      "tag": "Turn-Based Strategy",
+      "dimension": "P",
+      "weight": 1,
+      "reason": "直接描述多步骤策略或资源配置",
+      "aliases": [
+        "Turn Based Strategy"
+      ]
+    },
+    {
+      "id": "p-002",
+      "tag": "Grand Strategy",
+      "dimension": "P",
+      "weight": 1,
+      "reason": "直接描述多步骤策略或资源配置",
+      "aliases": []
+    },
+    {
+      "id": "p-003",
+      "tag": "Resource Management",
+      "dimension": "P",
+      "weight": 1,
+      "reason": "直接描述多步骤策略或资源配置",
+      "aliases": []
+    },
+    {
+      "id": "p-004",
+      "tag": "Tactical",
+      "dimension": "P",
+      "weight": 0.5,
+      "reason": "战术决策提供相关规划证据",
+      "aliases": []
+    },
+    {
+      "id": "p-005",
+      "tag": "Strategy",
+      "dimension": "P",
+      "weight": 0.25,
+      "reason": "宽泛策略分类仅提供弱证据",
+      "aliases": []
+    },
+    {
+      "id": "r-006",
+      "tag": "Rhythm",
+      "dimension": "R",
+      "weight": 1,
+      "reason": "直接描述实时节奏或精确执行要求",
+      "aliases": []
+    },
+    {
+      "id": "r-007",
+      "tag": "Precision Platformer",
+      "dimension": "R",
+      "weight": 1,
+      "reason": "直接描述实时节奏或精确执行要求",
+      "aliases": []
+    },
+    {
+      "id": "r-008",
+      "tag": "Bullet Hell",
+      "dimension": "R",
+      "weight": 1,
+      "reason": "直接描述实时节奏或精确执行要求",
+      "aliases": []
+    },
+    {
+      "id": "r-009",
+      "tag": "Fast-Paced",
+      "dimension": "R",
+      "weight": 0.5,
+      "reason": "快节奏或瞄准提供相关反应证据",
+      "aliases": []
+    },
+    {
+      "id": "r-010",
+      "tag": "FPS",
+      "dimension": "R",
+      "weight": 0.5,
+      "reason": "快节奏或瞄准提供相关反应证据",
+      "aliases": []
+    },
+    {
+      "id": "r-011",
+      "tag": "Action",
+      "dimension": "R",
+      "weight": 0.25,
+      "reason": "宽泛动作分类仅提供弱证据",
+      "aliases": []
+    },
+    {
+      "id": "g-012",
+      "tag": "Linear",
+      "dimension": "G",
+      "weight": 1,
+      "reason": "明确线性或关卡推进结构",
+      "aliases": []
+    },
+    {
+      "id": "g-013",
+      "tag": "Level-Based",
+      "dimension": "G",
+      "weight": 1,
+      "reason": "明确线性或关卡推进结构",
+      "aliases": [
+        "Level Based"
+      ]
+    },
+    {
+      "id": "o-014",
+      "tag": "Sandbox",
+      "dimension": "O",
+      "weight": 1,
+      "reason": "直接描述自由目标或非线性结构",
+      "aliases": []
+    },
+    {
+      "id": "o-015",
+      "tag": "Nonlinear",
+      "dimension": "O",
+      "weight": 1,
+      "reason": "直接描述自由目标或非线性结构",
+      "aliases": [
+        "Non-linear"
+      ]
+    },
+    {
+      "id": "o-016",
+      "tag": "Open World",
+      "dimension": "O",
+      "weight": 0.5,
+      "reason": "开放地图或探索提供相关自主行动证据",
+      "aliases": []
+    },
+    {
+      "id": "o-017",
+      "tag": "Exploration",
+      "dimension": "O",
+      "weight": 0.5,
+      "reason": "开放地图或探索提供相关自主行动证据",
+      "aliases": []
+    },
+    {
+      "id": "m-018",
+      "tag": "Deckbuilding",
+      "dimension": "M",
+      "weight": 1,
+      "reason": "直接描述可组合或反复运作的规则系统",
+      "aliases": [
+        "Deck Building"
+      ]
+    },
+    {
+      "id": "m-019",
+      "tag": "Roguelike Deckbuilder",
+      "dimension": "M",
+      "weight": 1,
+      "reason": "直接描述可组合或反复运作的规则系统",
+      "aliases": []
+    },
+    {
+      "id": "m-020",
+      "tag": "Automation",
+      "dimension": "M",
+      "weight": 1,
+      "reason": "直接描述可组合或反复运作的规则系统",
+      "aliases": []
+    },
+    {
+      "id": "m-021",
+      "tag": "Crafting",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "制作或建造提供相关系统交互证据",
+      "aliases": []
+    },
+    {
+      "id": "m-022",
+      "tag": "Building",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "制作或建造提供相关系统交互证据",
+      "aliases": []
+    },
+    {
+      "id": "n-023",
+      "tag": "Story Rich",
+      "dimension": "N",
+      "weight": 1,
+      "reason": "直接描述故事或叙事驱动体验",
+      "aliases": []
+    },
+    {
+      "id": "n-024",
+      "tag": "Narrative",
+      "dimension": "N",
+      "weight": 1,
+      "reason": "直接描述故事或叙事驱动体验",
+      "aliases": []
+    },
+    {
+      "id": "n-025",
+      "tag": "Visual Novel",
+      "dimension": "N",
+      "weight": 1,
+      "reason": "直接描述故事或叙事驱动体验",
+      "aliases": []
+    },
+    {
+      "id": "n-026",
+      "tag": "Choices Matter",
+      "dimension": "N",
+      "weight": 0.5,
+      "reason": "选择后果或讲述提供相关叙事证据",
+      "aliases": []
+    },
+    {
+      "id": "n-027",
+      "tag": "Narration",
+      "dimension": "N",
+      "weight": 0.5,
+      "reason": "选择后果或讲述提供相关叙事证据",
+      "aliases": []
+    },
+    {
+      "id": "h-028",
+      "tag": "Difficult",
+      "dimension": "H",
+      "weight": 1,
+      "reason": "直接标注挑战要求或以挑战著称的类型",
+      "aliases": []
+    },
+    {
+      "id": "h-029",
+      "tag": "Souls-like",
+      "dimension": "H",
+      "weight": 1,
+      "reason": "直接标注挑战要求或以挑战著称的类型",
+      "aliases": [
+        "Soulslike",
+        "Souls Like"
+      ]
+    },
+    {
+      "id": "h-030",
+      "tag": "Perma Death",
+      "dimension": "H",
+      "weight": 0.5,
+      "reason": "永久死亡提供失败代价证据",
+      "aliases": [
+        "Permadeath",
+        "Perma-Death"
+      ]
+    },
+    {
+      "id": "h-031",
+      "tag": "Survival",
+      "dimension": "H",
+      "weight": 0.25,
+      "reason": "生存分类仅提供弱压力证据",
+      "aliases": []
+    },
+    {
+      "id": "c-032",
+      "tag": "Relaxing",
+      "dimension": "C",
+      "weight": 1,
+      "reason": "直接描述放松舒适体验",
+      "aliases": []
+    },
+    {
+      "id": "c-033",
+      "tag": "Cozy",
+      "dimension": "C",
+      "weight": 1,
+      "reason": "直接描述放松舒适体验",
+      "aliases": []
+    },
+    {
+      "id": "c-034",
+      "tag": "Casual",
+      "dimension": "C",
+      "weight": 0.25,
+      "reason": "宽泛休闲分类仅提供弱证据",
+      "aliases": []
+    },
+    {
+      "id": "solo-035",
+      "tag": "Singleplayer",
+      "dimension": "SOLO",
+      "weight": 1,
+      "reason": "直接描述单人游玩支持，不证明玩家实际选择单人",
+      "aliases": [
+        "Single Player",
+        "Single-player"
+      ]
+    },
+    {
+      "id": "social-036",
+      "tag": "Social Deduction",
+      "dimension": "SOCIAL",
+      "weight": 1,
+      "reason": "直接描述以玩家互动为核心的玩法",
+      "aliases": []
+    },
+    {
+      "id": "social-037",
+      "tag": "Party Game",
+      "dimension": "SOCIAL",
+      "weight": 1,
+      "reason": "直接描述以玩家互动为核心的玩法",
+      "aliases": []
+    },
+    {
+      "id": "social-038",
+      "tag": "Multiplayer",
+      "dimension": "SOCIAL",
+      "weight": 0.5,
+      "reason": "多人或合作提供互动机会，不证明实际交流频率",
+      "aliases": [
+        "Multi Player",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": "social-039",
+      "tag": "Massively Multiplayer",
+      "dimension": "SOCIAL",
+      "weight": 0.5,
+      "reason": "多人或合作提供互动机会，不证明实际交流频率",
+      "aliases": []
+    },
+    {
+      "id": "social-040",
+      "tag": "Co-op",
+      "dimension": "SOCIAL",
+      "weight": 0.5,
+      "reason": "多人或合作提供互动机会，不证明实际交流频率",
+      "aliases": [
+        "Coop",
+        "Co op"
+      ]
+    },
+    {
+      "id": "comp-041",
+      "tag": "PvP",
+      "dimension": "COMP",
+      "weight": 1,
+      "reason": "直接描述玩家间对抗或竞技",
+      "aliases": []
+    },
+    {
+      "id": "comp-042",
+      "tag": "Competitive",
+      "dimension": "COMP",
+      "weight": 1,
+      "reason": "直接描述玩家间对抗或竞技",
+      "aliases": []
+    },
+    {
+      "id": "comp-043",
+      "tag": "e-sports",
+      "dimension": "COMP",
+      "weight": 1,
+      "reason": "直接描述玩家间对抗或竞技",
+      "aliases": [
+        "eSports",
+        "e sports"
+      ]
+    },
+    {
+      "id": "coop-044",
+      "tag": "Co-op",
+      "dimension": "COOP",
+      "weight": 1,
+      "reason": "直接描述共同完成目标的合作支持",
+      "aliases": [
+        "Coop",
+        "Co op"
+      ]
+    },
+    {
+      "id": "coop-045",
+      "tag": "Online Co-Op",
+      "dimension": "COOP",
+      "weight": 1,
+      "reason": "直接描述共同完成目标的合作支持",
+      "aliases": [
+        "Online Co Op",
+        "Online Coop"
+      ]
+    },
+    {
+      "id": "coop-046",
+      "tag": "Local Co-Op",
+      "dimension": "COOP",
+      "weight": 1,
+      "reason": "直接描述共同完成目标的合作支持",
+      "aliases": [
+        "Local Co Op",
+        "Local Coop"
+      ]
+    },
+    {
+      "id": "coop-047",
+      "tag": "Co-op Campaign",
+      "dimension": "COOP",
+      "weight": 1,
+      "reason": "直接描述共同完成目标的合作支持",
+      "aliases": []
+    },
+    {
+      "id": "coop-048",
+      "tag": "Team-Based",
+      "dimension": "COOP",
+      "weight": 0.5,
+      "reason": "团队结构提供共同目标相关证据，可与竞争并存",
+      "aliases": []
+    }
+  ]
+}

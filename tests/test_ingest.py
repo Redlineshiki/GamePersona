@@ -4,7 +4,7 @@ import pytest
 
 from gamepersona.database import connect
 from gamepersona.ingest import import_kaggle, validate_source
-from gamepersona.storage import Store, read_json
+from gamepersona.storage import Store, read_json, sha256
 
 
 def test_cleaning_and_units(imported):
@@ -55,6 +55,7 @@ def test_zip_import_and_path_safety(tmp_path,dataset):
     store = Store(tmp_path / "data")
     result = import_kaggle(store,"zip",good)
     assert len(result["files"])==4
+    assert result["input_sha256"]==sha256(good)
     bad = tmp_path / "bad.zip"
     with zipfile.ZipFile(bad,"w") as z:
         z.writestr("../games.csv","bad")

@@ -45,8 +45,8 @@ def tag_metrics(app_ids: set[int], tags: list[dict], scope: str) -> dict:
 
 def calculate(store: Store, kaggle: str, steamspy: str | None, steam: str | None,
               selection: str | None, sources: str | None, *,
-              calculation_version: str = "stage1-audit-v2") -> dict:
-    if calculation_version not in {"stage1-audit-v1", "stage1-audit-v2"}:
+              calculation_version: str = "stage1-audit-v3") -> dict:
+    if calculation_version not in {"stage1-audit-v1", "stage1-audit-v2", "stage1-audit-v3"}:
         raise ValueError("不支持的审计计算版本")
     kg = store.load(kaggle, "kaggle")
     spy = store.load(steamspy, "steamspy") if steamspy else None
@@ -142,7 +142,7 @@ def calculate(store: Store, kaggle: str, steamspy: str | None, steam: str | None
         blockers.append("Kaggle 时长单位尚未核实")
     if kg["config"]["duration_time_semantics"] == "unverified":
         blockers.append("Kaggle 累计时长对应采集时还是评论时尚未核实")
-    if kg["config"]["dataset_version"] == "unverified":
+    if calculation_version in {"stage1-audit-v1", "stage1-audit-v2"} and kg["config"]["dataset_version"] == "unverified":
         blockers.append("本地数据集来源版本尚未核实")
     if not st or st["read_status"] != "success":
         blockers.append("尚未成功读取至少一个包含游戏记录的授权账号")
@@ -155,20 +155,26 @@ def calculate(store: Store, kaggle: str, steamspy: str | None, steam: str | None
     elif not any(r["status"] == "available" for r in tags):
         blockers.append("SteamSpy 尚未取得任何可用标签；需排查来源或收窄支持范围")
     if not source:
-        blockers.append("尚未保存来源与许可核验快照")
+        missing_source = "尚未保存来源说明快照" if calculation_version == "stage1-audit-v3" else "尚未保存来源与许可核验快照"
+        blockers.append(missing_source)
     else:
-        blockers.extend(source["findings"]["unresolved"])
-        if source["findings"]["kaggle"]["status"] == "unverified":
-            blockers.append("Kaggle 发布者许可声明尚未核实")
+        unresolved = source["findings"].get("unresolved", [])
+        if calculation_version == "stage1-audit-v3":
+            unresolved = [item for item in unresolved if item != "SteamSpy 对公开免费网站预期用途的许可依据"]
+        blockers.extend(unresolved)
         for name, evidence in source["evidence"].items():
             if evidence["status"] != "ok":
                 blockers.append(f"来源证据获取失败：{name}")
+        if calculation_version in {"stage1-audit-v1", "stage1-audit-v2"} and source["findings"]["kaggle"]["status"] == "unverified":
+            blockers.append("Kaggle 发布者许可声明尚未核实")
     result = {"schema_version":calculation_version, "snapshots": {"kaggle":kaggle,"steamspy":steamspy,
               "steam":steam,"selection":selection,"sources":sources},
               "offline":offline,"online":online,
               "selection": {k: sel[k] for k in ("base_games","account_games","total_games","available_population")} if sel else None,
               "stage_acceptance": {"status":"blocked" if blockers else "passed","blockers":blockers},
               "second_stage_quality_targets": ["按维度和游戏类别登记特征未知率及覆盖目标", "登记人工一致性及独立核验误差目标", "校准集与独立核验集分离", "未知特征不填零；目标数值在第二阶段实验前冻结"]}
+    if calculation_version == "stage1-audit-v3":
+        result["acceptance_scope"] = "第一阶段本地数据审计；不评估上游发行版本号或公开部署许可"
     result["metrics_sha256"] = content_hash(result)
     return result
 
@@ -177,7 +183,11 @@ def render(metrics: dict) -> str:
     offline, online = metrics["offline"], metrics["online"]
     lines = ["# GamePersona 第一阶段数据审计", "", "## 验收结论", "",
              "阶段状态：" + metrics["stage_acceptance"]["status"], "",
-             "本报告不计算八维分数；工具测试与真实阶段验收分别记录。", ""]
+             "本报告不计算八维分数；工具测试与真实阶段验收分别记录。"]
+    if metrics["schema_version"] == "stage1-audit-v3":
+        lines += ["验收范围：第一阶段本地数据审计；不评估上游发行版本号或公开部署许可。", ""]
+    else:
+        lines.append("")
     for blocker in metrics["stage_acceptance"]["blockers"]:
         lines.append("- " + blocker)
     lines += ["", "## 离线全量统计", "", "```json", __import__('json').dumps(offline["quality"], ensure_ascii=False,indent=2), "```", "",
@@ -200,7 +210,7 @@ def render(metrics: dict) -> str:
               "", "## 特征与下一阶段", "", "八维特征可用率与可计分时长覆盖率：待第二阶段。标签存在率不能代替特征完整性。", ""]
     lines.extend("- "+target for target in metrics["second_stage_quality_targets"])
     lines += ["", "## 追溯", "", f"指标内容哈希：`{metrics['metrics_sha256']}`", "",
-              "原始证据、许可记录、字段映射和各来源快照在对应 manifest.json 中追溯；本报告不展示账号标识或个人游戏明细。", ""]
+              "原始证据、来源说明、字段映射和各来源快照在对应 manifest.json 中追溯；本报告不展示账号标识或个人游戏明细。", ""]
     return "\n".join(lines)
 
 

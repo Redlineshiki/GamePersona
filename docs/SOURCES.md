@@ -32,6 +32,8 @@
 - 本轮在获准常规网络环境下完成 3064 款真实候选采集：2975 款有可用标签，89 款无标签，无请求失败；基础 3000 款的标签覆盖为 97.73%。正式标签快照 `stage1-tags-20261013-evidenced` 和完整报告可离线复核。用户已明确同意 Kaggle 与 SteamSpy 的非商业调取，判断和本地审计范围保存在 `stage1-operator-scope-20261013`；官方派生用途依据仍单独记为未核实，不将运营者判断写成 SteamSpy 官方条款。
 - 不将 SteamSpy 平均游玩时长当作玩家累计时长或游戏典型长度修正。
 
-## 下一阶段质量目标登记
+## 第二阶段规则与成就来源
 
-候选数值、分组口径和 100/50 款调参与独立核验划分已登记在 [第二阶段候选质量目标](STAGE2_QUALITY_TARGETS.md)。第二阶段在读取独立结果前冻结适用尺度和目标版本。第一阶段没有生成八维特征或参考分布。
+按用户确认的方案，第二阶段取消人工标注与人工误差门槛，改为双源逻辑标签十二维支持程度及自动执行验收，见 [规则规范](STAGE2_QUALITY_TARGETS.md)。同一标签不因两源出现重复加分，票数不直接换算强度，非命中零值不表示机制不存在。第一阶段历史快照不改写。
+
+独立成就小样本使用 Valve 的 [GetSchemaForGame / GetPlayerAchievements](https://partner.steamgames.com/doc/webapi/ISteamUserStats)；实现采用 `api.steampowered.com` 的普通用户 Web API 端点，以已配置的授权账号读取。完整成就定义与玩家列表按名称匹配后计算解锁率，按累计小时加权；不使用 SteamSpy 平均时长、全球成就稀有度或匿名 Kaggle 用户映射。实际核验与边界见 [第二阶段状态](STAGE2_STATUS.md)。

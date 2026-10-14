@@ -1,0 +1,756 @@
+{
+  "schema_version": "stage2-tag-support-v1",
+  "version": "tag-rules-v4-competitive-coop-cap",
+  "meaning": "tag_support_not_measured_mechanic_intensity",
+  "aggregation": "maximum_per_dimension_with_competitive_coop_cap",
+  "missing_policy": "available_unmatched_zero_both_unavailable_unknown",
+  "dimensions": [
+    {
+      "code": "P",
+      "label": "规划"
+    },
+    {
+      "code": "R",
+      "label": "反应"
+    },
+    {
+      "code": "G",
+      "label": "引导"
+    },
+    {
+      "code": "O",
+      "label": "开放"
+    },
+    {
+      "code": "M",
+      "label": "机制"
+    },
+    {
+      "code": "N",
+      "label": "叙事"
+    },
+    {
+      "code": "H",
+      "label": "高压"
+    },
+    {
+      "code": "C",
+      "label": "舒缓"
+    },
+    {
+      "code": "SOLO",
+      "label": "独玩"
+    },
+    {
+      "code": "SOCIAL",
+      "label": "社交"
+    },
+    {
+      "code": "COMP",
+      "label": "竞争"
+    },
+    {
+      "code": "COOP",
+      "label": "合作"
+    }
+  ],
+  "rules": [
+    {
+      "id": "p-001",
+      "tag": "Turn-Based Strategy",
+      "dimension": "P",
+      "weight": 1,
+      "reason": "直接描述多步骤策略或资源配置",
+      "aliases": [
+        "Turn Based Strategy"
+      ]
+    },
+    {
+      "id": "p-002",
+      "tag": "Grand Strategy",
+      "dimension": "P",
+      "weight": 1,
+      "reason": "直接描述多步骤策略或资源配置",
+      "aliases": []
+    },
+    {
+      "id": "p-003",
+      "tag": "Resource Management",
+      "dimension": "P",
+      "weight": 1,
+      "reason": "直接描述多步骤策略或资源配置",
+      "aliases": []
+    },
+    {
+      "id": "p-004",
+      "tag": "Tactical",
+      "dimension": "P",
+      "weight": 0.5,
+      "reason": "战术决策提供相关规划证据",
+      "aliases": []
+    },
+    {
+      "id": "p-005",
+      "tag": "Strategy",
+      "dimension": "P",
+      "weight": 0.25,
+      "reason": "宽泛策略分类仅提供弱证据",
+      "aliases": []
+    },
+    {
+      "id": "r-006",
+      "tag": "Rhythm",
+      "dimension": "R",
+      "weight": 1,
+      "reason": "直接描述实时节奏或精确执行要求",
+      "aliases": []
+    },
+    {
+      "id": "r-007",
+      "tag": "Precision Platformer",
+      "dimension": "R",
+      "weight": 1,
+      "reason": "直接描述实时节奏或精确执行要求",
+      "aliases": []
+    },
+    {
+      "id": "r-008",
+      "tag": "Bullet Hell",
+      "dimension": "R",
+      "weight": 1,
+      "reason": "直接描述实时节奏或精确执行要求",
+      "aliases": []
+    },
+    {
+      "id": "r-009",
+      "tag": "Fast-Paced",
+      "dimension": "R",
+      "weight": 0.5,
+      "reason": "快节奏或瞄准提供相关反应证据",
+      "aliases": []
+    },
+    {
+      "id": "r-010",
+      "tag": "FPS",
+      "dimension": "R",
+      "weight": 0.5,
+      "reason": "快节奏或瞄准提供相关反应证据",
+      "aliases": []
+    },
+    {
+      "id": "r-011",
+      "tag": "Action",
+      "dimension": "R",
+      "weight": 0.25,
+      "reason": "宽泛动作分类仅提供弱证据",
+      "aliases": []
+    },
+    {
+      "id": "g-012",
+      "tag": "Linear",
+      "dimension": "G",
+      "weight": 1,
+      "reason": "明确线性或关卡推进结构",
+      "aliases": []
+    },
+    {
+      "id": "g-013",
+      "tag": "Level-Based",
+      "dimension": "G",
+      "weight": 1,
+      "reason": "明确线性或关卡推进结构",
+      "aliases": [
+        "Level Based"
+      ]
+    },
+    {
+      "id": "o-014",
+      "tag": "Sandbox",
+      "dimension": "O",
+      "weight": 1,
+      "reason": "直接描述自由目标或非线性结构",
+      "aliases": []
+    },
+    {
+      "id": "o-015",
+      "tag": "Nonlinear",
+      "dimension": "O",
+      "weight": 1,
+      "reason": "直接描述自由目标或非线性结构",
+      "aliases": [
+        "Non-linear"
+      ]
+    },
+    {
+      "id": "o-016",
+      "tag": "Open World",
+      "dimension": "O",
+      "weight": 0.5,
+      "reason": "开放地图或探索提供相关自主行动证据",
+      "aliases": []
+    },
+    {
+      "id": "o-017",
+      "tag": "Exploration",
+      "dimension": "O",
+      "weight": 0.5,
+      "reason": "开放地图或探索提供相关自主行动证据",
+      "aliases": []
+    },
+    {
+      "id": "m-018",
+      "tag": "Deckbuilding",
+      "dimension": "M",
+      "weight": 1,
+      "reason": "直接描述可组合或反复运作的规则系统",
+      "aliases": [
+        "Deck Building"
+      ]
+    },
+    {
+      "id": "m-019",
+      "tag": "Roguelike Deckbuilder",
+      "dimension": "M",
+      "weight": 1,
+      "reason": "直接描述可组合或反复运作的规则系统",
+      "aliases": []
+    },
+    {
+      "id": "m-020",
+      "tag": "Automation",
+      "dimension": "M",
+      "weight": 1,
+      "reason": "直接描述可组合或反复运作的规则系统",
+      "aliases": []
+    },
+    {
+      "id": "m-021",
+      "tag": "Crafting",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "制作或建造提供相关系统交互证据",
+      "aliases": []
+    },
+    {
+      "id": "m-022",
+      "tag": "Building",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "制作或建造提供相关系统交互证据",
+      "aliases": []
+    },
+    {
+      "id": "n-023",
+      "tag": "Story Rich",
+      "dimension": "N",
+      "weight": 1,
+      "reason": "直接描述故事或叙事驱动体验",
+      "aliases": []
+    },
+    {
+      "id": "n-024",
+      "tag": "Narrative",
+      "dimension": "N",
+      "weight": 1,
+      "reason": "直接描述故事或叙事驱动体验",
+      "aliases": []
+    },
+    {
+      "id": "n-025",
+      "tag": "Visual Novel",
+      "dimension": "N",
+      "weight": 1,
+      "reason": "直接描述故事或叙事驱动体验",
+      "aliases": []
+    },
+    {
+      "id": "n-026",
+      "tag": "Choices Matter",
+      "dimension": "N",
+      "weight": 0.5,
+      "reason": "选择后果或讲述提供相关叙事证据",
+      "aliases": []
+    },
+    {
+      "id": "n-027",
+      "tag": "Narration",
+      "dimension": "N",
+      "weight": 0.5,
+      "reason": "选择后果或讲述提供相关叙事证据",
+      "aliases": []
+    },
+    {
+      "id": "h-028",
+      "tag": "Difficult",
+      "dimension": "H",
+      "weight": 1,
+      "reason": "直接标注挑战要求或以挑战著称的类型",
+      "aliases": []
+    },
+    {
+      "id": "h-029",
+      "tag": "Souls-like",
+      "dimension": "H",
+      "weight": 1,
+      "reason": "直接标注挑战要求或以挑战著称的类型",
+      "aliases": [
+        "Soulslike",
+        "Souls Like"
+      ]
+    },
+    {
+      "id": "h-030",
+      "tag": "Perma Death",
+      "dimension": "H",
+      "weight": 0.5,
+      "reason": "永久死亡提供失败代价证据",
+      "aliases": [
+        "Permadeath",
+        "Perma-Death"
+      ]
+    },
+    {
+      "id": "h-031",
+      "tag": "Survival",
+      "dimension": "H",
+      "weight": 0.25,
+      "reason": "生存分类仅提供弱压力证据",
+      "aliases": []
+    },
+    {
+      "id": "c-032",
+      "tag": "Relaxing",
+      "dimension": "C",
+      "weight": 1,
+      "reason": "直接描述放松舒适体验",
+      "aliases": []
+    },
+    {
+      "id": "c-033",
+      "tag": "Cozy",
+      "dimension": "C",
+      "weight": 1,
+      "reason": "直接描述放松舒适体验",
+      "aliases": []
+    },
+    {
+      "id": "c-034",
+      "tag": "Casual",
+      "dimension": "C",
+      "weight": 0.25,
+      "reason": "宽泛休闲分类仅提供弱证据",
+      "aliases": []
+    },
+    {
+      "id": "solo-035",
+      "tag": "Singleplayer",
+      "dimension": "SOLO",
+      "weight": 1,
+      "reason": "直接描述单人游玩支持，不证明玩家实际选择单人",
+      "aliases": [
+        "Single Player",
+        "Single-player"
+      ]
+    },
+    {
+      "id": "social-036",
+      "tag": "Social Deduction",
+      "dimension": "SOCIAL",
+      "weight": 1,
+      "reason": "直接描述以玩家互动为核心的玩法",
+      "aliases": []
+    },
+    {
+      "id": "social-037",
+      "tag": "Party Game",
+      "dimension": "SOCIAL",
+      "weight": 1,
+      "reason": "直接描述以玩家互动为核心的玩法",
+      "aliases": []
+    },
+    {
+      "id": "social-038",
+      "tag": "Multiplayer",
+      "dimension": "SOCIAL",
+      "weight": 0.5,
+      "reason": "多人或合作提供互动机会，不证明实际交流频率",
+      "aliases": [
+        "Multi Player",
+        "Multi-player"
+      ]
+    },
+    {
+      "id": "social-039",
+      "tag": "Massively Multiplayer",
+      "dimension": "SOCIAL",
+      "weight": 0.5,
+      "reason": "多人或合作提供互动机会，不证明实际交流频率",
+      "aliases": []
+    },
+    {
+      "id": "social-040",
+      "tag": "Co-op",
+      "dimension": "SOCIAL",
+      "weight": 0.5,
+      "reason": "多人或合作提供互动机会，不证明实际交流频率",
+      "aliases": [
+        "Coop",
+        "Co op"
+      ]
+    },
+    {
+      "id": "comp-041",
+      "tag": "PvP",
+      "dimension": "COMP",
+      "weight": 1,
+      "reason": "直接描述玩家间对抗或竞技",
+      "aliases": []
+    },
+    {
+      "id": "comp-042",
+      "tag": "Competitive",
+      "dimension": "COMP",
+      "weight": 1,
+      "reason": "直接描述玩家间对抗或竞技",
+      "aliases": []
+    },
+    {
+      "id": "comp-043",
+      "tag": "e-sports",
+      "dimension": "COMP",
+      "weight": 1,
+      "reason": "直接描述玩家间对抗或竞技",
+      "aliases": [
+        "eSports",
+        "e sports"
+      ]
+    },
+    {
+      "id": "coop-044",
+      "tag": "Co-op",
+      "dimension": "COOP",
+      "weight": 1,
+      "reason": "直接描述共同完成目标的合作支持",
+      "aliases": [
+        "Coop",
+        "Co op"
+      ]
+    },
+    {
+      "id": "coop-045",
+      "tag": "Online Co-Op",
+      "dimension": "COOP",
+      "weight": 1,
+      "reason": "直接描述共同完成目标的合作支持",
+      "aliases": [
+        "Online Co Op",
+        "Online Coop"
+      ]
+    },
+    {
+      "id": "coop-046",
+      "tag": "Local Co-Op",
+      "dimension": "COOP",
+      "weight": 1,
+      "reason": "直接描述共同完成目标的合作支持",
+      "aliases": [
+        "Local Co Op",
+        "Local Coop"
+      ]
+    },
+    {
+      "id": "coop-047",
+      "tag": "Co-op Campaign",
+      "dimension": "COOP",
+      "weight": 1,
+      "reason": "直接描述共同完成目标的合作支持",
+      "aliases": []
+    },
+    {
+      "id": "coop-048",
+      "tag": "Team-Based",
+      "dimension": "COOP",
+      "weight": 0.5,
+      "reason": "团队结构提供共同目标相关证据，可与竞争并存",
+      "aliases": []
+    },
+    {
+      "id": "g-049",
+      "tag": "On-Rails Shooter",
+      "dimension": "G",
+      "weight": 0.5,
+      "reason": "受限路线提供明确推进流程的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "g-050",
+      "tag": "Precision Platformer",
+      "dimension": "G",
+      "weight": 0.5,
+      "reason": "精确平台挑战提供障碍、关卡目标与完成条件的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "g-051",
+      "tag": "Puzzle Platformer",
+      "dimension": "G",
+      "weight": 0.5,
+      "reason": "解谜与平台挑战提供推进条件的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "g-052",
+      "tag": "Hidden Object",
+      "dimension": "G",
+      "weight": 0.5,
+      "reason": "寻物清单和场景目标提供明确完成条件的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "g-053",
+      "tag": "Sokoban",
+      "dimension": "G",
+      "weight": 0.5,
+      "reason": "给定布局和完成条件提供目标结构的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "g-054",
+      "tag": "Escape Room",
+      "dimension": "G",
+      "weight": 0.5,
+      "reason": "线索、解锁条件和离开房间目标提供流程结构的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "g-055",
+      "tag": "Tower Defense",
+      "dimension": "G",
+      "weight": 0.5,
+      "reason": "波次、守护目标与胜负条件提供目标结构的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "g-056",
+      "tag": "Rhythm",
+      "dimension": "G",
+      "weight": 0.5,
+      "reason": "曲目、谱面与完成目标提供预设流程的相关标签证据，未核实每款游戏的实际流程",
+      "aliases": []
+    },
+    {
+      "id": "g-057",
+      "tag": "Platformer",
+      "dimension": "G",
+      "weight": 0.25,
+      "reason": "宽泛平台类型提供抵达目标和挑战推进的弱证据，可与自由探索并存",
+      "aliases": []
+    },
+    {
+      "id": "g-058",
+      "tag": "2D Platformer",
+      "dimension": "G",
+      "weight": 0.25,
+      "reason": "二维平台类型仅提供目标推进的弱证据，不证明线性路线",
+      "aliases": []
+    },
+    {
+      "id": "g-059",
+      "tag": "3D Platformer",
+      "dimension": "G",
+      "weight": 0.25,
+      "reason": "三维平台类型仅提供目标推进的弱证据，不证明线性路线",
+      "aliases": []
+    },
+    {
+      "id": "g-060",
+      "tag": "Puzzle",
+      "dimension": "G",
+      "weight": 0.25,
+      "reason": "待解决问题与完成条件提供目标结构的弱证据，不证明提供解法引导",
+      "aliases": []
+    },
+    {
+      "id": "g-061",
+      "tag": "Visual Novel",
+      "dimension": "G",
+      "weight": 0.25,
+      "reason": "场景、章节或故事流程提供推进结构的弱证据，可包含分支路线",
+      "aliases": []
+    },
+    {
+      "id": "g-062",
+      "tag": "Interactive Fiction",
+      "dimension": "G",
+      "weight": 0.25,
+      "reason": "文本状态与选择推进提供流程结构的弱证据，可包含自由探索",
+      "aliases": []
+    },
+    {
+      "id": "m-063",
+      "tag": "Resource Management",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "资源循环和配置提供系统交互的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-064",
+      "tag": "Inventory Management",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "物品、容量和排列约束提供规则组合的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-065",
+      "tag": "Base Building",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "基地建设与生产系统提供系统交互的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-066",
+      "tag": "Colony Sim",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "人口、资源和生产的联动提供规则系统的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-067",
+      "tag": "City Builder",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "建筑、交通和经济的联动提供规则系统的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-068",
+      "tag": "Card Battler",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "卡牌交互和克制提供规则掌握的相关证据，不保证自由构筑",
+      "aliases": []
+    },
+    {
+      "id": "m-069",
+      "tag": "Auto Battler",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "自动战斗中的配置和组合提供系统交互的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-070",
+      "tag": "4X",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "扩张、科技、经济和外交提供多系统交互的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-071",
+      "tag": "Turn-Based Tactics",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "位置、单位能力与资源提供战术规则组合的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-072",
+      "tag": "Tactical RPG",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "角色能力、位置和战斗配置提供规则组合的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-073",
+      "tag": "Strategy RPG",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "角色成长、战斗配置和资源提供规则组合的相关证据",
+      "aliases": []
+    },
+    {
+      "id": "m-074",
+      "tag": "Trading Card Game",
+      "dimension": "M",
+      "weight": 0.5,
+      "reason": "卡牌组合和克制提供规则交互的相关证据，不保证自由构筑",
+      "aliases": []
+    },
+    {
+      "id": "m-075",
+      "tag": "Management",
+      "dimension": "M",
+      "weight": 0.25,
+      "reason": "宽泛运营类型仅提供系统管理的弱证据",
+      "aliases": []
+    },
+    {
+      "id": "m-076",
+      "tag": "Economy",
+      "dimension": "M",
+      "weight": 0.25,
+      "reason": "经济关系和运营仅提供规则系统的弱证据",
+      "aliases": []
+    },
+    {
+      "id": "m-077",
+      "tag": "Roguelike",
+      "dimension": "M",
+      "weight": 0.25,
+      "reason": "重复尝试与随机规则仅提供系统掌握的弱证据，不保证构筑深度",
+      "aliases": [
+        "Rogue-like",
+        "Rogue like"
+      ]
+    },
+    {
+      "id": "m-078",
+      "tag": "Roguelite",
+      "dimension": "M",
+      "weight": 0.25,
+      "reason": "重复尝试、升级和不同配置仅提供系统掌握的弱证据",
+      "aliases": [
+        "Rogue-lite",
+        "Rogue lite"
+      ]
+    },
+    {
+      "id": "m-079",
+      "tag": "Action Roguelike",
+      "dimension": "M",
+      "weight": 0.25,
+      "reason": "动作随机流程与升级配置仅提供规则系统的弱证据",
+      "aliases": []
+    },
+    {
+      "id": "m-080",
+      "tag": "Action RPG",
+      "dimension": "M",
+      "weight": 0.25,
+      "reason": "技能、装备与成长仅提供规则组合的弱证据",
+      "aliases": []
+    },
+    {
+      "id": "m-081",
+      "tag": "Immersive Sim",
+      "dimension": "M",
+      "weight": 0.25,
+      "reason": "多种交互系统和解决方式仅提供规则联动的弱标签证据",
+      "aliases": []
+    }
+  ],
+  "competitive_coop_cap": {
+    "trigger_tags": [
+      "Competitive",
+      "e-sports"
+    ],
+    "maximum": 0.5,
+    "reason": "命中 Competitive 或 e-sports，合作标签支持权重上限为 0.5；仅 PvP 不触发"
+  }
+}

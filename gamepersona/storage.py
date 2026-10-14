@@ -9,6 +9,8 @@ import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from contextlib import contextmanager
+import shutil
 
 from . import __version__
 
@@ -47,6 +49,21 @@ def sha256(path: Path) -> str:
 def content_hash(value: Any) -> str:
     return hashlib.sha256(json.dumps(value, sort_keys=True, ensure_ascii=False,
                                      separators=(",", ":"), allow_nan=False).encode()).hexdigest()
+
+
+@contextmanager
+def temporary_workspace(root: Path, prefix: str):
+    """Inherit workspace ACL on Windows rather than tempfile's restrictive 0700."""
+    root = root.resolve()
+    path = root / (prefix + uuid.uuid4().hex)
+    path.mkdir()
+    try:
+        yield path
+    finally:
+        # Recursively remove only this explicitly owned, verified workspace child.
+        if path.resolve().parent != root or path.is_symlink():
+            raise ValueError('临时工作区路径不安全')
+        shutil.rmtree(path)
 
 
 class Store:

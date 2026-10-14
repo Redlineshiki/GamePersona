@@ -241,7 +241,7 @@ SOURCE_URLS = {
 
 
 def verify_sources(store: Store, snapshot: str, fetcher: Fetcher, review_file: Path | None = None) -> dict:
-    path, manifest = store.create(snapshot, "sources", {"intended_use": "public_free_assessment_website"})
+    path, manifest = store.create(snapshot, "sources", {"intended_use": "first_stage_local_data_audit"})
     results = {}
     for name, url in SOURCE_URLS.items():
         result = fetcher.get(url, as_json=name == "kaggle")
@@ -251,15 +251,16 @@ def verify_sources(store: Store, snapshot: str, fetcher: Fetcher, review_file: P
     data = kaggle.get("response") or {}
     declared = data.get("licenseName") if isinstance(data, dict) else None
     findings = {
-        "intended_use": "公开免费的测评网站",
+        "intended_use": "第一阶段本地非商业数据审计",
         "kaggle": {"declared_license": declared, "source_version": data.get("currentVersionNumber") if isinstance(data, dict) else None,
                    "status": "declared_license_recorded" if declared else "unverified",
                    "note": "发布者声明不自动证明所有底层第三方内容权利；不将原始描述和评论公开再分发"},
         "steam": {"status": "conditions_recorded" if results["steam_terms"]["status"] == "ok" else "unverified",
                   "conditions": ["按用户请求读取", "密钥保密", "公布保存内容和所在地及隐私政策", "不收集 Steam 密码", "遵守调用限制"]},
-        "steamspy": {"status": "public_service_permission_unresolved",
-                     "note": "已记录 API 访问规则；公开网站长期使用、派生特征和分享用途尚需明确适用依据"},
-        "unresolved": ["SteamSpy 对公开免费网站预期用途的许可依据"],
+        "steamspy": {"status": "not_assessed_for_stage1",
+                     "note": "本阶段仅验收本地数据审计；公开部署、派生特征和分享用途不在本阶段验收范围"},
+        "unresolved": [],
+        "out_of_scope": ["公开部署前需另行评估 SteamSpy 数据及派生产物的适用条件"],
         "rollout_obligations": ["上线前落实 Steam 数据保存说明、隐私政策和删除机制（第四阶段）"],
     }
     if review_file:

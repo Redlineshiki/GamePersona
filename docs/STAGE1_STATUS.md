@@ -1,13 +1,23 @@
 # 第一阶段实施与验收状态
 
-记录日期：2026-10-13（Asia/Hong_Kong）。范围对应 `projectplan.txt` 第 7.1 节。
+记录日期：2026-10-14（Asia/Hong_Kong）。范围对应 `projectplan.txt` 第 7.1 节；验收口径为 `stage1-audit-v3`。
+
+## 正式阶段验收：passed（本地审计范围）
+
+根据用户决定，第一阶段验收限定为本地非商业数据审计。Kaggle 上游发行版本号和 SteamSpy 公开部署许可不再是本阶段通过门槛；两项仍分别记录为未确认／未评估，不表示已验证。该状态不代表原始数据获准公开再分发，也不完成产品公开上线前的条件评估。
+
+2026-10-14 已在当前工作区重新运行完整导入、清洗、确定性选样、缓存标签采集、报告生成和离线重算。报告状态 `passed`、阻塞项为空；离线重算结果 `identical`。
+
+- [正式全量报告](../artifacts/snapshots/stage1-audit-v3-20261014/report.md) / [机器可读指标](../artifacts/snapshots/stage1-audit-v3-20261014/metrics.json)
+- [选样覆盖与缺口报告](../artifacts/snapshots/stage1-sample-analysis-v3-20261014/report.md)
+- [第一阶段验收规范](AUDIT_SPEC.md) / [字段与用途证据](STAGE1_EVIDENCE_RESEARCH.md)
 
 ## 全量审计交付：已完成
 
 本轮使用已下载的 `data_source/archive.zip` 和本地配置的授权 Steam 账号，完成全量导入、清洗、字段证据核查、3000 款基础选样、账号游戏合并、3064 款真实 SteamSpy 采集、正式报告和离线重算。没有生成八维分数或参考分布。
 
-- [正式全量报告](../artifacts/snapshots/stage1-audit-20261013-final/report.md) / [机器可读指标](../artifacts/snapshots/stage1-audit-20261013-final/metrics.json)
-- [选样覆盖与缺口报告](../artifacts/snapshots/stage1-sample-analysis-20261013-final/report.md)
+- [正式全量报告](../artifacts/snapshots/stage1-audit-v3-20261014/report.md) / [机器可读指标](../artifacts/snapshots/stage1-audit-v3-20261014/metrics.json)
+- [选样覆盖与缺口报告](../artifacts/snapshots/stage1-sample-analysis-v3-20261014/report.md)
 - [字段及来源证据](STAGE1_EVIDENCE_RESEARCH.md)
 - [第二阶段候选质量目标](STAGE2_QUALITY_TARGETS.md)
 
@@ -50,47 +60,40 @@
 
 用户已确认本项目使用 Kaggle 与 SteamSpy 进行非商业调取，运营者判断和本地审计范围已单独保存；没有将其写成 SteamSpy 官方许可声明。
 
-## 正式阶段验收：blocked
+## 验收范围变更
 
-全量数据与真实采集均已完成，仍有两项证据待核实：
+先前按 `stage1-audit-v2` 将上游版本关联和公开使用许可列为第一阶段硬门槛，因此正式状态为 blocked。`stage1-audit-v3` 按用户决定移除这两项门槛，但保留来源限制和审计追溯。单位及采集时点证据、内容哈希、真实账号读取、3000 款基础选样、完整候选标签尝试、数据质量统计和离线可复现仍是通过条件。
 
-1. 本地数据集严格来源版本：ZIP 大小、四文件大小及打包日期与 v28 吻合，但无该次下载版本记录或官方内容校验和。本地内容已用 SHA-256 固定；只标候选 v28。针对版本下载 URL 的 HEAD 关联没有取得校验和，未重新下载数据集。
-2. SteamSpy 对公开免费网站、派生特征及分享用途的明确适用依据：官方 API 可访问及限速已确认；运营者非商业判断与官方条款分开记录。
-
-工具交付和实际数据审计已完成，正式验收不标为 passed。未启动第二阶段规则冻结或第三阶段分位模型验收。
+上游版本号仍为 unverified；SteamSpy 公开部署、派生特征和分享用途不在本阶段评估范围。若推进公开部署，应另行评估，不得引用本阶段 passed 作为许可结论。未生成八维分数或参考分布；第二阶段质量目标仍待独立核验。
 
 ## 固定快照
 
 | 对象 | 本轮正式快照 |
 |---|---|
-| Kaggle | `stage1-kaggle-20261013-evidenced` |
-| 授权账号 | `stage1-steam-20261013-retry` |
-| 官方来源 | `stage1-sources-20261013-verified` |
-| 字段与版本证据 | `stage1-field-evidence-20261013` |
-| 作者管线证据 | `stage1-author-pipeline-evidence-20261013` |
-| 版本 HEAD 证据 | `stage1-version-head-evidence-20261013` |
-| 运营者使用范围 | `stage1-operator-scope-20261013` |
-| 候选集合 | `stage1-selection-20261013-evidenced` |
-| SteamSpy 标签 | `stage1-tags-20261013-evidenced` |
-| 正式报告 | `stage1-audit-20261013-final` |
-| 分组选样分析 | `stage1-sample-analysis-20261013-final` |
+| Kaggle | `stage1-kaggle-v3-20261014` |
+| 授权账号 | `stage1-steam-20261013-01` |
+| 官方来源说明 | `stage1-sources-v3-20261014` |
+| 候选集合 | `stage1-selection-v3-20261014` |
+| SteamSpy 标签 | `stage1-tags-v3-20261014` |
+| 正式报告 | `stage1-audit-v3-20261014` |
+| 分组选样分析 | `stage1-sample-analysis-v3-20261014` |
 
 早期未核实单位的快照、初步报告和沙盒网络失败快照保留用于追溯，不作为本轮最终结论。带字段证据的新候选内容与早期 3064 条候选完全一致；正式标签快照复用了本轮成功缓存，没有重复网络采集。
 
 ## 验证
 
-Python 3.12.14 环境和锁定依赖已重建。完整测试 `47 passed in 81.39s`；`pip check` 无损坏依赖；源码编译及 Git 差异格式检查通过。
+Python 3.14.6 环境和锁定依赖通过检查。验收口径更新后的完整测试 `48 passed in 47.20s`；`pip check` 无损坏依赖；源码编译及 Git 差异格式检查通过。
 
 真实全量小数时长暴露 v1 并行浮点求和漂移。30 万条小数时长回归测试先复现失败，改用单线程固定扫描及补偿求和后通过；新报告使用 `stage1-audit-v2`，旧报告按保存的版本处理。未放宽快照完整性或哈希比较。
 
-正式报告原始及派生产物校验、离线重算全部通过，结果 `identical`。指标 SHA-256：
+正式报告原始及派生产物校验、离线重算全部通过，结果 `identical`。本地 ZIP SHA-256：`7620a48dbff9fdb53e08c06640fae6060189f458784df646835eff4f69c7995a`。指标 SHA-256：
 
-`b27169e5df5d9e8da38bacce2f62bae82f6e530c57dde0354b5bf847ea3c3729`
+`6d4267f91a25b1bf8e10ce58ebe36c6d41806436dffdf58cfef981837fe0a94b`
 
 重算命令（不联网）：
 
 ```powershell
-.\.venv\Scripts\python.exe -m gamepersona replay --report stage1-audit-20261013-final
+.\.venv\Scripts\python.exe -m gamepersona replay --report stage1-audit-v3-20261014
 ```
 
 所有私有产物位于 `artifacts/`，凭据仍在本地 `.env`，均被 Git 忽略。普通快照不可刷新，补充证据或数据时创建新标识；采集流程及保存删除说明见 [README](../README.md)。

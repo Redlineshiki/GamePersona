@@ -69,10 +69,11 @@ def test_full_fractional_duration_audit_is_exact_and_replayable(tmp_path):
         assert replay(store, "report")["status"] == "identical"
 
 
-def test_legacy_report_replays_with_its_saved_calculation_version(imported):
-    metrics = calculate(imported, "kg", None, None, None, None, calculation_version="stage1-audit-v1")
-    path, manifest = imported.create("legacy-report", "report", metrics["snapshots"])
+@pytest.mark.parametrize("version", ["stage1-audit-v1", "stage1-audit-v2"])
+def test_legacy_report_replays_with_its_saved_calculation_version(imported,version):
+    metrics = calculate(imported, "kg", None, None, None, None, calculation_version=version)
+    path, manifest = imported.create("legacy-report-"+version, "report", metrics["snapshots"])
     write_json(path / "metrics.json", metrics)
     (path / "report.md").write_text(render(metrics), encoding="utf-8")
     imported.finish(path, manifest)
-    assert replay(imported, "legacy-report")["metrics_sha256"] == metrics["metrics_sha256"]
+    assert replay(imported, "legacy-report-"+version)["metrics_sha256"] == metrics["metrics_sha256"]
